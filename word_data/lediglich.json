@@ -1,0 +1,26 @@
+{
+    "word": "lediglich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "only, merely",
+    "example_sentences": [
+        {
+            "de": "Ich habe lediglich eine Frage.",
+            "en": "I only have one question."
+        },
+        {
+            "de": "Das war lediglich ein Missverständnis.",
+            "en": "That was merely a misunderstanding."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "leˈdɪklɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

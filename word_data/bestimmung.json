@@ -1,0 +1,21 @@
+{
+    "word": "Bestimmung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "determination",
+    "example_sentences": [
+        {
+            "de": "Ich habe meine Bestimmung gefunden.",
+            "en": "I have found my calling."
+        },
+        {
+            "de": "Die Bestimmung des Gewinners erfolgt nächste Woche.",
+            "en": "The determination of the winner will take place next week."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "bəˈʃtɪmʊŋ",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

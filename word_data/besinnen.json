@@ -1,0 +1,20 @@
+{
+    "word": "besinnen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to reflect, to consider",
+    "example_sentences": [
+        "Ich muss mich besinnen, bevor ich eine Entscheidung treffe. (I need to reflect before making a decision.)",
+        "Er besinnt sich auf seine Wurzeln. (He reflects on his roots.)"
+    ],
+    "usage_frequency": 3.5,
+    "ipa": "/bəˈzɪnən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "besinnt",
+    "past_perfect": "hat besonnen",
+    "preterite": "besann",
+    "frequency": 5
+}

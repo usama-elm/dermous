@@ -1,0 +1,27 @@
+{
+    "word": "empfand",
+    "gender": "m",
+    "article": "der",
+    "word_type": "verb",
+    "infinitive": "empfinden",
+    "translation": "to feel",
+    "example_sentences": [
+        {
+            "de": "Ich empfand große Freude.",
+            "en": "I felt great joy."
+        },
+        {
+            "de": "Sie empfand Trauer.",
+            "en": "She felt sadness."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛmˈpfindən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "empfindet",
+    "past_perfect": "hat empfunden",
+    "preterite": "empfand",
+    "frequency_scale": 8
+}

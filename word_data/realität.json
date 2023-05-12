@@ -1,0 +1,26 @@
+{
+    "word": "realität",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "reality",
+    "example_sentences": [
+        {
+            "de": "Die Realität ist oft anders als man denkt.",
+            "en": "Reality is often different than one thinks."
+        },
+        {
+            "de": "In der Realität sieht alles anders aus.",
+            "en": "In reality, everything looks different."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ʁealiˈtɛːt",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

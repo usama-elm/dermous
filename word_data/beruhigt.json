@@ -1,0 +1,20 @@
+{
+    "word": "beruhigt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "beruhigen",
+    "translation": "calmed",
+    "example_sentences": [
+        "Er hat mich beruhigt. (He calmed me down.)",
+        "Die Musik hat ihn beruhigt. (The music calmed him down.)"
+    ],
+    "usage_frequency": 7,
+    "IPA_code": "/bəˈʁuːɪkt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "beruhigt",
+    "past_perfect": "hat beruhigt",
+    "preterite": "beruhigte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "geistliche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "spiritual",
+    "example_sentences": [
+        {
+            "de": "Die geistliche Musik berührt mich zutiefst.",
+            "en": "Spiritual music deeply moves me."
+        },
+        {
+            "de": "Sie hat sich für ein geistliches Leben entschieden.",
+            "en": "She has chosen a spiritual life."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈɡaɪ̯stlɪçə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

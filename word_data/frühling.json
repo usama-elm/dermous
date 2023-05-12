@@ -1,0 +1,26 @@
+{
+    "word": "Frühling",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "spring",
+    "example_sentences": [
+        {
+            "de": "Im Frühling blühen die Blumen.",
+            "en": "In spring, the flowers bloom."
+        },
+        {
+            "de": "Ich liebe den Frühling.",
+            "en": "I love spring."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈfʁʏlɪŋ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

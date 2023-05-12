@@ -1,0 +1,20 @@
+{
+    "word": "eröffnet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "eröffnen",
+    "translation": "opened",
+    "example_sentences": [
+        "Das neue Geschäft wird nächste Woche eröffnet.",
+        "Die Ausstellung wird heute Abend eröffnet."
+    ],
+    "usage_frequency": 8,
+    "IPA": "ˈɛʁˌʔɔfnət",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "eröffnet",
+    "past_perfect": "hat eröffnet",
+    "preterite": "eröffnete",
+    "frequency": 7
+}

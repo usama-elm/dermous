@@ -1,0 +1,21 @@
+{
+    "word": "Rechnung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "bill, invoice",
+    "example_sentences": [
+        {
+            "de": "Ich habe die Rechnung bezahlt.",
+            "en": "I paid the bill."
+        },
+        {
+            "de": "Kannst du mir die Rechnung schicken?",
+            "en": "Can you send me the invoice?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈʁɛçnʊŋ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

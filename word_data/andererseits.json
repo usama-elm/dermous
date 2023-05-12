@@ -1,0 +1,26 @@
+{
+    "word": "andererseits",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "conjunction",
+    "translation": "on the other hand",
+    "example_sentences": [
+        {
+            "de": "Einerseits möchte ich reisen, andererseits habe ich nicht genug Geld.",
+            "en": "On the one hand, I want to travel, on the other hand, I don't have enough money."
+        },
+        {
+            "de": "Einerseits ist es wichtig, gesund zu essen, andererseits sollte man sich auch mal etwas gönnen.",
+            "en": "On the one hand, it's important to eat healthily, on the other hand, you should also treat yourself once in a while."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈandərərˌzaɪts/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

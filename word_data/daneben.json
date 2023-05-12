@@ -1,0 +1,26 @@
+{
+    "word": "daneben",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "beside the point, off target",
+    "example_sentences": [
+        {
+            "de": "Seine Antwort lag daneben.",
+            "en": "His answer was beside the point."
+        },
+        {
+            "de": "Ich habe daneben gegriffen.",
+            "en": "I missed the mark."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/daˈneːbn̩/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

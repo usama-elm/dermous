@@ -1,0 +1,26 @@
+{
+    "word": "bekannte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "bekannt",
+    "translation": "known",
+    "example_sentences": [
+        {
+            "de": "Sie ist eine bekannte Schauspielerin.",
+            "en": "She is a well-known actress."
+        },
+        {
+            "de": "Er hat viele bekannte Freunde.",
+            "en": "He has many famous friends."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/bəˈkantə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

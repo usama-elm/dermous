@@ -1,0 +1,27 @@
+{
+    "word": "gesehen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "sehen",
+    "translation": "seen",
+    "example_sentences": [
+        {
+            "de": "Ich habe ihn gestern gesehen.",
+            "en": "I saw him yesterday."
+        },
+        {
+            "de": "Hast du den Film schon gesehen?",
+            "en": "Have you seen the movie yet?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈzeːən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "sieht",
+    "past_perfect": "gesehen",
+    "preterite": "sah",
+    "frequency_scale": 9
+}

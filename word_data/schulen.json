@@ -1,0 +1,20 @@
+{
+    "word": "schulen",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "translation": "to educate",
+    "example_sentences": [
+        "Ich schule meine Mitarbeiter regelmäßig.",
+        "Die Schule schult ihre Schüler in verschiedenen Fächern."
+    ],
+    "usage_frequency": 7,
+    "IPA": "/ˈʃuːlən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schult",
+    "past_perfect": "geschult",
+    "preterite": "schulte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "reichte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "reach",
+    "translation": "reached",
+    "example_sentences": [
+        {
+            "de": "Sie reichte ihm die Hand.",
+            "en": "She reached out her hand to him."
+        },
+        {
+            "de": "Er reichte ihr das Buch.",
+            "en": "He reached out the book to her."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈʁaɪ̯çtə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "reicht",
+    "past_perfect": "hat gereicht",
+    "preterite": "reichte",
+    "frequency_scale": 8
+}

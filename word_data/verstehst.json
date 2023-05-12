@@ -1,0 +1,26 @@
+{
+    "word": "verstehst",
+    "gender": "m",
+    "article": null,
+    "word_type": "verb",
+    "translation": "understand",
+    "example_sentences": [
+        {
+            "de": "Verstehst du, was ich meine?",
+            "en": "Do you understand what I mean?"
+        },
+        {
+            "de": "Ich verstehe nicht, warum du das tust.",
+            "en": "I don't understand why you're doing that."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "fɛɐ̯ˈʃteːst",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "versteht",
+    "past_perfect": "verstanden",
+    "preterite": "verstand",
+    "frequency_scale": 8
+}

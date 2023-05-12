@@ -1,0 +1,26 @@
+{
+    "word": "umgegend",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "surrounding area",
+    "example_sentences": [
+        {
+            "de": "Die Umgebung hier ist sehr schön.",
+            "en": "The surrounding area here is very beautiful."
+        },
+        {
+            "de": "Ich kenne mich in dieser Umgebung nicht aus.",
+            "en": "I'm not familiar with this surrounding area."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ˈʊmɡəɡənt",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

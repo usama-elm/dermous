@@ -1,0 +1,26 @@
+{
+    "word": "gewaltigen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "gewaltig",
+    "translation": "mighty",
+    "example_sentences": [
+        {
+            "de": "Er hatte eine gewaltige Kraft.",
+            "en": "He had a mighty strength."
+        },
+        {
+            "de": "Die gewaltigen Berge beeindruckten ihn.",
+            "en": "The mighty mountains impressed him."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ɡəˈvaltɪɡən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

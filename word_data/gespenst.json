@@ -1,0 +1,26 @@
+{
+    "word": "gespenst",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "ghost",
+    "example_sentences": [
+        {
+            "de": "Das Gespenst spukt in der alten Burg.",
+            "en": "The ghost haunts the old castle."
+        },
+        {
+            "de": "Ich habe Angst vor Gespenstern.",
+            "en": "I'm afraid of ghosts."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈʃpɛnst/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

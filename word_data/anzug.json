@@ -1,0 +1,26 @@
+{
+    "word": "Anzug",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "suit",
+    "example_sentences": [
+        {
+            "de": "Ich trage heute meinen neuen Anzug.",
+            "en": "I'm wearing my new suit today."
+        },
+        {
+            "de": "Er hat einen teuren Anzug gekauft.",
+            "en": "He bought an expensive suit."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈan.t͡suːk/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

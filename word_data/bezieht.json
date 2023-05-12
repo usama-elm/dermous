@@ -1,0 +1,20 @@
+{
+    "word": "bezieht",
+    "gender": "f",
+    "article": "die",
+    "word_type": "beziehen",
+    "translation": "refers",
+    "example_sentences": [
+        "Dies bezieht sich auf die letzte Frage.",
+        "Er bezieht sich auf seine Erfahrungen."
+    ],
+    "usage_frequency": 7,
+    "IPA": "bəˈtsaɪ̯t",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "bezieht",
+    "past_perfect": "hat bezogen",
+    "preterite": "bezog",
+    "frequency_scale": 7
+}

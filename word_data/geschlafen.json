@@ -1,0 +1,27 @@
+{
+    "word": "geschlafen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "schlafen",
+    "translation": "to sleep",
+    "example_sentences": [
+        {
+            "de": "Ich habe gestern gut geschlafen.",
+            "en": "I slept well yesterday."
+        },
+        {
+            "de": "Er hat den ganzen Tag geschlafen.",
+            "en": "He slept the whole day."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈʃlaːfn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schläft",
+    "past_perfect": "hat geschlafen",
+    "preterite": "schlief",
+    "frequency_scale": 8
+}

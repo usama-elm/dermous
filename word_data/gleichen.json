@@ -1,0 +1,27 @@
+{
+    "word": "gleichen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "gleichen",
+    "translation": "to equal, to resemble",
+    "example_sentences": [
+        {
+            "de": "Die beiden Schwestern gleichen sich sehr.",
+            "en": "The two sisters resemble each other very much."
+        },
+        {
+            "de": "Die Ergebnisse gleichen sich fast vollständig.",
+            "en": "The results are almost completely equal."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈɡlaɪ̯çən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gleicht",
+    "past_perfect": "geglichen",
+    "preterite": "glich",
+    "frequency_scale": 8
+}

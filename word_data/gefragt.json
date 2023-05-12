@@ -1,0 +1,27 @@
+{
+    "word": "gefragt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "fragen",
+    "translation": "asked",
+    "example_sentences": [
+        {
+            "de": "Ich habe ihn nach dem Weg gefragt.",
+            "en": "I asked him for directions."
+        },
+        {
+            "de": "Er hat mich gefragt, ob ich Zeit habe.",
+            "en": "He asked me if I had time."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈfraːkt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "fragt",
+    "past_perfect": "gefragt gehabt",
+    "preterite": "fragte",
+    "frequency_scale": 7
+}

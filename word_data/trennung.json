@@ -1,0 +1,26 @@
+{
+    "word": "Trennung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "separation",
+    "example_sentences": [
+        {
+            "de": "Die Trennung von meinem Partner war sehr schwierig.",
+            "en": "The separation from my partner was very difficult."
+        },
+        {
+            "de": "Die Trennung von Müll ist wichtig für die Umwelt.",
+            "en": "Separating waste is important for the environment."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈtʁɛnʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

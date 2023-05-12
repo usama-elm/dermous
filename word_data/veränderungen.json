@@ -1,0 +1,26 @@
+{
+    "word": "veränderungen",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "changes",
+    "example_sentences": [
+        {
+            "de": "Die Veränderungen im Unternehmen haben zu einem höheren Gewinn geführt.",
+            "en": "The changes in the company have led to higher profits."
+        },
+        {
+            "de": "Die Veränderungen in der Gesellschaft sind unvermeidlich.",
+            "en": "Changes in society are inevitable."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "fɛɐ̯ˈʔɛndəʁʊŋən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

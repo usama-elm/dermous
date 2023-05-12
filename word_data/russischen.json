@@ -1,0 +1,26 @@
+{
+    "word": "russischen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjective",
+    "translation": "Russian",
+    "example_sentences": [
+        {
+            "de": "Ich habe einen russischen Freund.",
+            "en": "I have a Russian friend."
+        },
+        {
+            "de": "Die russische Sprache ist sehr schwer zu lernen.",
+            "en": "The Russian language is very difficult to learn."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "ˈʁʊsɪʃən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

@@ -1,0 +1,26 @@
+{
+    "word": "erschöpft",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "exhausted",
+    "example_sentences": [
+        {
+            "de": "Ich bin erschöpft nach dem langen Tag.",
+            "en": "I am exhausted after the long day."
+        },
+        {
+            "de": "Die Arbeit hat mich total erschöpft.",
+            "en": "The work has totally exhausted me."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɛɐ̯ˈʃœpft/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

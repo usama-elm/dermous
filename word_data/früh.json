@@ -1,0 +1,26 @@
+{
+    "word": "früh",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "early",
+    "example_sentences": [
+        {
+            "de": "Ich stehe früh auf.",
+            "en": "I get up early."
+        },
+        {
+            "de": "Wir treffen uns früh am Morgen.",
+            "en": "We're meeting early in the morning."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "fʁyː",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

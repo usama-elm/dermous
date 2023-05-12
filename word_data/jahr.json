@@ -1,0 +1,27 @@
+{
+    "word": "Jahr",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "year",
+    "example_sentences": [
+        {
+            "de": "Ich habe im letzten Jahr viel gelernt.",
+            "en": "I learned a lot last year."
+        },
+        {
+            "de": "Das Jahr hat 365 Tage.",
+            "en": "The year has 365 days."
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa": "jaːɐ̯",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregularities": {
+        "present_3rd_singular": null,
+        "past_perfect": null,
+        "preterite": null,
+        "frequency": null
+    }
+}

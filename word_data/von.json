@@ -1,0 +1,30 @@
+{
+    "word": "von",
+    "gender": "m, f, neuter",
+    "article": "der, die, das",
+    "word_type": "preposition",
+    "translation": "from",
+    "example_sentences": [
+        {
+            "de": "Ich komme von der Arbeit.",
+            "en": "I'm coming from work."
+        },
+        {
+            "de": "Das Buch ist von Goethe.",
+            "en": "The book is by Goethe."
+        },
+        {
+            "de": "Ich habe von dir gehört.",
+            "en": "I've heard from you."
+        }
+    ],
+    "usage_frequency": "very high",
+    "IPA_code": "/fɔn/",
+    "verb_auxiliary_for_past": "sein",
+    "european_difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_form_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale_10": 10
+}

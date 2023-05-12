@@ -1,0 +1,26 @@
+{
+    "word": "für",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "preposition",
+    "translation": "for",
+    "example_sentences": [
+        {
+            "de": "Ich kaufe ein Geschenk für meine Mutter.",
+            "en": "I am buying a gift for my mother."
+        },
+        {
+            "de": "Ich arbeite für eine Firma.",
+            "en": "I work for a company."
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa": "fʏɐ̯",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 9
+}

@@ -1,0 +1,26 @@
+{
+    "word": "papst",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "pope",
+    "example_sentences": [
+        {
+            "de": "Der Papst besucht Deutschland.",
+            "en": "The Pope is visiting Germany."
+        },
+        {
+            "de": "Ich habe den Papst einmal in Rom gesehen.",
+            "en": "I once saw the Pope in Rome."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/papst/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,21 @@
+{
+    "word": "ernannt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "ernennen",
+    "translation": "appointed",
+    "example_sentences": [
+        "Er wurde zum Direktor ernannt. (He was appointed as the director.)",
+        "Sie wurde zur Botschafterin ernannt. (She was appointed as the ambassador.)"
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ɛɐ̯ˈnant/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ernennt",
+    "past_perfect": "hat ernannt",
+    "preterite": "ernannte",
+    "frequency_scale": 7
+}

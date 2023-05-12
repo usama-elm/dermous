@@ -1,0 +1,26 @@
+{
+    "word": "übel",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "bad, evil, nasty",
+    "example_sentences": [
+        {
+            "de": "Das Essen riecht übel.",
+            "en": "The food smells bad."
+        },
+        {
+            "de": "Er hat üble Absichten.",
+            "en": "He has evil intentions."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈyːbəl/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

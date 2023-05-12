@@ -1,0 +1,21 @@
+{
+    "word": "Möglichkeit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "possibility",
+    "example_sentences": [
+        {
+            "de": "Ich habe keine Möglichkeit, das zu tun.",
+            "en": "I have no possibility to do that."
+        },
+        {
+            "de": "Es gibt viele Möglichkeiten, um Geld zu verdienen.",
+            "en": "There are many possibilities to earn money."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈmœɡlɪçkaɪt",
+    "difficulty_level": "A2",
+    "irregular_verb": false
+}

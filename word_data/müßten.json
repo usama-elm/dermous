@@ -1,0 +1,26 @@
+{
+    "word": "müßten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "müssen",
+    "translation": "should",
+    "example_sentences": [
+        {
+            "de": "Wir müssten uns beeilen, um den Zug zu erwischen.",
+            "en": "We should hurry to catch the train."
+        },
+        {
+            "de": "Ich müsste eigentlich noch einkaufen gehen.",
+            "en": "I should actually go shopping."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈmyːstən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "muss",
+    "past_perfect": "gemusst",
+    "preterite": "mussten",
+    "frequency_scale": 7
+}

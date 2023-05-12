@@ -1,0 +1,20 @@
+{
+    "word": "versuchte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "versuchen",
+    "translation": "tried",
+    "example_sentences": [
+        "Sie versuchte, das Rätsel zu lösen. (She tried to solve the puzzle.)",
+        "Er versuchte, seine Angst zu verbergen. (He tried to hide his fear.)"
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/fɛɐ̯ˈzʊxtə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "versucht",
+    "past_perfect": "hat versucht",
+    "preterite": "versuchte",
+    "frequency_scale": 8
+}

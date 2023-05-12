@@ -1,0 +1,27 @@
+{
+    "word": "ein",
+    "gender": "m",
+    "article": "der",
+    "word_type": "indefinite article",
+    "translation": "a, an, one",
+    "example_sentences": [
+        {
+            "de": "Ich habe ein Buch.",
+            "en": "I have a book."
+        },
+        {
+            "de": "Ein Mann geht auf der Straße.",
+            "en": "A man is walking on the street."
+        }
+    ],
+    "usage_frequency": 10,
+    "ipa": "aɪn",
+    "verb_auxiliary": "",
+    "difficulty_level": "A1",
+    "irregular_forms": {
+        "present_3rd_singular": "",
+        "past_participle": "",
+        "preterite": "",
+        "frequency": ""
+    }
+}

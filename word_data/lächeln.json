@@ -1,0 +1,27 @@
+{
+    "word": "lächeln",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "lächeln",
+    "translation": "to smile",
+    "example_sentences": [
+        {
+            "de": "Er lächelt, wenn er glücklich ist.",
+            "en": "He smiles when he is happy."
+        },
+        {
+            "de": "Sie lächelte freundlich und sagte Hallo.",
+            "en": "She smiled kindly and said hello."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈlɛːxlən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": "lächelt",
+    "past_perfect": "gelächelt",
+    "preterite": "lächelte",
+    "frequency_scale": 8
+}

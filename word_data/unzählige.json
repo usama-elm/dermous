@@ -1,0 +1,26 @@
+{
+    "word": "unzählige",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "countless",
+    "example_sentences": [
+        {
+            "de": "Es gibt unzählige Möglichkeiten, Deutsch zu lernen.",
+            "en": "There are countless ways to learn German."
+        },
+        {
+            "de": "Ich habe unzählige Male versucht, ihn anzurufen.",
+            "en": "I have tried to call him countless times."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ʊnˈtsɛːlɪɡə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_participle": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

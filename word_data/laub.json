@@ -1,0 +1,26 @@
+{
+    "word": "laub",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "foliage",
+    "example_sentences": [
+        {
+            "de": "Das Laub fällt im Herbst von den Bäumen.",
+            "en": "The foliage falls from the trees in autumn."
+        },
+        {
+            "de": "Ich habe das Laub im Garten zusammengekehrt.",
+            "en": "I swept up the leaves in the garden."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "laʊp",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

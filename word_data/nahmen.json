@@ -1,0 +1,27 @@
+{
+    "word": "nahmen",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "nehmen",
+    "translation": "to take",
+    "example_sentences": [
+        {
+            "de": "Sie nahmen den Zug.",
+            "en": "They took the train."
+        },
+        {
+            "de": "Wir haben gestern Abend Pizza genommen.",
+            "en": "We had pizza last night."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈneːmən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "nimmt",
+    "past_perfect": "genommen",
+    "preterite": "nahmen",
+    "frequency_scale": 7
+}

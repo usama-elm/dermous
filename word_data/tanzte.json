@@ -1,0 +1,26 @@
+{
+    "word": "tanzte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "tanzen",
+    "translation": "danced",
+    "example_sentences": [
+        {
+            "de": "Er tanzte die ganze Nacht.",
+            "en": "He danced all night."
+        },
+        {
+            "de": "Sie tanzte mit ihrem Partner.",
+            "en": "She danced with her partner."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈtants.tə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_form_singular": "tanzt",
+    "past_perfect": "getanzt",
+    "preterite": "tanzte",
+    "frequency_scale": 8
+}

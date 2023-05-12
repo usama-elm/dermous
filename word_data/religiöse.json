@@ -1,0 +1,26 @@
+{
+    "word": "religiöse",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "religious",
+    "example_sentences": [
+        {
+            "de": "Sie ist sehr religiös und geht jeden Sonntag in die Kirche.",
+            "en": "She is very religious and goes to church every Sunday."
+        },
+        {
+            "de": "Die religiösen Feiertage sind in Deutschland sehr wichtig.",
+            "en": "Religious holidays are very important in Germany."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ʁeliˈɡiːøːzə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

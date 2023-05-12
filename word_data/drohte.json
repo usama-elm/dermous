@@ -1,0 +1,26 @@
+{
+    "word": "drohte",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "drohen",
+    "translation": "threatened",
+    "example_sentences": [
+        {
+            "de": "Er drohte damit, die Polizei zu rufen.",
+            "en": "He threatened to call the police."
+        },
+        {
+            "de": "Sie drohte ihm mit dem Messer.",
+            "en": "She threatened him with a knife."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈdʁoːtə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "droht",
+    "past_perfect": "gedroht",
+    "preterite": "drohte",
+    "frequency_scale": 8
+}

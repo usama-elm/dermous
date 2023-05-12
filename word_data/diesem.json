@@ -1,0 +1,26 @@
+{
+    "word": "diesem",
+    "gender": "m",
+    "article": "dem",
+    "word_type": "dieser",
+    "translation": "this",
+    "example_sentences": [
+        {
+            "de": "Ich gebe diesem Mann ein Geschenk.",
+            "en": "I give this man a gift."
+        },
+        {
+            "de": "Diesem Problem müssen wir uns stellen.",
+            "en": "We have to face this problem."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈdiːzəm/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

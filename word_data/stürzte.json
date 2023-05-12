@@ -1,0 +1,26 @@
+{
+    "word": "stürzte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "stürzen",
+    "translation": "fell",
+    "example_sentences": [
+        {
+            "de": "Er stürzte die Treppe hinunter.",
+            "en": "He fell down the stairs."
+        },
+        {
+            "de": "Das Flugzeug stürzte ab.",
+            "en": "The airplane crashed."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈʃtʏrt͡stə/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_form_singular": "stürzt",
+    "past_perfect": "gestürzt",
+    "preterite": "stürzte",
+    "frequency_scale": 8
+}

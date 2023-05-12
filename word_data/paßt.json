@@ -1,0 +1,26 @@
+{
+    "word": "paßt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "passen",
+    "translation": "fits",
+    "example_sentences": [
+        {
+            "de": "Das Kleid paßt dir perfekt.",
+            "en": "The dress fits you perfectly."
+        },
+        {
+            "de": "Die Schuhe paßten nicht.",
+            "en": "The shoes didn't fit."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "passt",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": "paßt",
+    "past_perfect": "gepaßt",
+    "preterite": "paßte",
+    "frequency_scale": 8
+}

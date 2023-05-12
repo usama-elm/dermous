@@ -1,0 +1,27 @@
+{
+    "word": "gehörten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "gehören",
+    "translation": "belonged",
+    "example_sentences": [
+        {
+            "de": "Die Bücher gehörten der Bibliothek.",
+            "en": "The books belonged to the library."
+        },
+        {
+            "de": "Die Häuser gehörten früher verschiedenen Familien.",
+            "en": "The houses used to belong to different families."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈhœʁtn̩",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gehört",
+    "past_perfect": "hat gehört",
+    "preterite": "gehörten",
+    "frequency_scale": 8
+}

@@ -1,0 +1,27 @@
+{
+    "word": "nehmen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "nehmen",
+    "translation": "to take",
+    "example_sentences": [
+        {
+            "de": "Ich werde die Medizin nehmen.",
+            "en": "I will take the medicine."
+        },
+        {
+            "de": "Kannst du bitte das Buch nehmen?",
+            "en": "Can you please take the book?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈneːmən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "nimmt",
+    "past_perfect": "genommen",
+    "preterite": "nahm",
+    "frequency_scale": 9
+}

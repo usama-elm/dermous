@@ -1,0 +1,26 @@
+{
+    "word": "beobachtungen",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "observations",
+    "example_sentences": [
+        {
+            "de": "Ich habe viele Beobachtungen gemacht.",
+            "en": "I have made many observations."
+        },
+        {
+            "de": "Seine Beobachtungen waren sehr genau.",
+            "en": "His observations were very accurate."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "beːoˈbaxtʊŋən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

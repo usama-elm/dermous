@@ -1,0 +1,26 @@
+{
+    "word": "Schuss",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "shot",
+    "example_sentences": [
+        {
+            "de": "Er gab einen Schuss ab.",
+            "en": "He fired a shot."
+        },
+        {
+            "de": "Der Schuss traf das Ziel.",
+            "en": "The shot hit the target."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ʃʊs",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "sieh",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "sehen",
+    "translation": "see",
+    "example_sentences": [
+        {
+            "de": "Siehst du den Vogel?",
+            "en": "Do you see the bird?"
+        },
+        {
+            "de": "Ich sehe das Meer.",
+            "en": "I see the sea."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ziː/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A1",
+    "irregular_verb": true,
+    "present_3rd_singular": "sieht",
+    "past_perfect": "gesehen",
+    "preterite": "sah",
+    "frequency_scale": 7
+}

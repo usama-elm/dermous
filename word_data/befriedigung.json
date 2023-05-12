@@ -1,0 +1,26 @@
+{
+    "word": "befriedigung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "satisfaction",
+    "example_sentences": [
+        {
+            "de": "Ich empfinde große Befriedigung bei der Arbeit.",
+            "en": "I feel great satisfaction at work."
+        },
+        {
+            "de": "Die Befriedigung seiner Bedürfnisse ist ihm wichtig.",
+            "en": "Satisfying his needs is important to him."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "bəˈfʁiːdɪɡʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": 2,
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

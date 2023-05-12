@@ -1,0 +1,27 @@
+{
+    "word": "mögen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "mögen",
+    "translation": "to like",
+    "example_sentences": [
+        {
+            "de": "Ich mag Eis.",
+            "en": "I like ice cream."
+        },
+        {
+            "de": "Magst du Fußball?",
+            "en": "Do you like soccer?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈmøːɡən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "mag",
+    "past_perfect": "gemocht",
+    "preterite": "mochte",
+    "frequency_scale": 7
+}

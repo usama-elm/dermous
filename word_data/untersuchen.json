@@ -1,0 +1,26 @@
+{
+    "word": "untersuchen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to examine",
+    "example_sentences": [
+        {
+            "de": "Ich muss den Patienten untersuchen.",
+            "en": "I have to examine the patient."
+        },
+        {
+            "de": "Die Polizei untersucht den Fall.",
+            "en": "The police are investigating the case."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ʊntɐˈzuːçən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "untersucht",
+    "past_perfect": "untersucht",
+    "preterite": "untersuchte",
+    "frequency_scale": 8
+}

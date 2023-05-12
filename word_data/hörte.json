@@ -1,0 +1,21 @@
+{
+    "word": "hörte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "hören",
+    "translation": "heard",
+    "example_sentences": [
+        "Ich hörte ein Geräusch.",
+        "Er hörte die Musik.",
+        "Sie hörte ihm aufmerksam zu."
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈhœʁtə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "hört",
+    "past_perfect": "hat gehört",
+    "preterite": "hörte",
+    "frequency_scale": 7
+}

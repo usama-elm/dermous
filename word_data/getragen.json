@@ -1,0 +1,26 @@
+{
+    "word": "getragen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "tragen",
+    "translation": "carried",
+    "example_sentences": [
+        {
+            "de": "Die Last wurde von zwei Männern getragen.",
+            "en": "The load was carried by two men."
+        },
+        {
+            "de": "Sie hat ein Kleid getragen.",
+            "en": "She wore a dress."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ɡəˈtʁaːɡən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "trägt",
+    "past_perfect": "getragen haben",
+    "preterite": "trug",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "brauchte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "brauchen",
+    "translation": "needed",
+    "example_sentences": [
+        {
+            "de": "Ich brauchte gestern Abend eine Pause.",
+            "en": "I needed a break last night."
+        },
+        {
+            "de": "Er brauchte dringend Hilfe.",
+            "en": "He needed help urgently."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈbʁaʊçtə",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "braucht",
+    "past_perfect": "gebraucht",
+    "preterite": "brauchte",
+    "frequency_scale": 8
+}

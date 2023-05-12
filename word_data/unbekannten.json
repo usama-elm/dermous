@@ -1,0 +1,26 @@
+{
+    "word": "unbekannten",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjective",
+    "translation": "unknown",
+    "example_sentences": [
+        {
+            "de": "Der Täter ist ein unbekannter Mann.",
+            "en": "The perpetrator is an unknown man."
+        },
+        {
+            "de": "Die Polizei sucht nach dem unbekannten Fahrer.",
+            "en": "The police are looking for the unknown driver."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ʊnbəˈkanntən",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

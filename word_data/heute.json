@@ -1,0 +1,26 @@
+{
+    "word": "heute",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "today",
+    "example_sentences": [
+        {
+            "de": "Heute ist ein schöner Tag.",
+            "en": "Today is a beautiful day."
+        },
+        {
+            "de": "Ich habe heute frei.",
+            "en": "I have the day off today."
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa": "/ˈhɔʏtə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

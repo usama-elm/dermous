@@ -1,0 +1,26 @@
+{
+    "word": "tüchtig",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "capable, efficient, competent",
+    "example_sentences": [
+        {
+            "de": "Er ist ein tüchtiger Arbeiter.",
+            "en": "He is a capable worker."
+        },
+        {
+            "de": "Sie hat eine tüchtige Portion gegessen.",
+            "en": "She ate a hearty portion."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈtʏçtɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

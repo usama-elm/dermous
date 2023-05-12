@@ -1,0 +1,26 @@
+{
+    "word": "fügte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "fügen",
+    "translation": "to add, to insert",
+    "example_sentences": [
+        {
+            "de": "Er fügte noch hinzu, dass er nicht kommen könne.",
+            "en": "He added that he couldn't come."
+        },
+        {
+            "de": "Sie fügte dem Teig noch etwas Zucker hinzu.",
+            "en": "She added some sugar to the dough."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈfyːɡtə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "fügt",
+    "past_perfect": "hat gefügt",
+    "preterite": "fügte",
+    "frequency_scale": 7
+}

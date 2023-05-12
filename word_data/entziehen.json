@@ -1,0 +1,27 @@
+{
+    "word": "entziehen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to withdraw, to deprive",
+    "example_sentences": [
+        {
+            "de": "Der Richter entzog ihm das Sorgerecht.",
+            "en": "The judge withdrew his custody rights."
+        },
+        {
+            "de": "Die Polizei entzog ihm den Führerschein.",
+            "en": "The police deprived him of his driver's license."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛntˈtsiːən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B2",
+    "irregularities": {
+        "present_3rd_singular": "entzieht",
+        "past_perfect": "entzogen",
+        "preterite": "entzog"
+    },
+    "irregularity_frequency": 5
+}

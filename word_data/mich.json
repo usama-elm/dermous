@@ -1,0 +1,26 @@
+{
+    "word": "mich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "pronoun",
+    "translation": "me",
+    "example_sentences": [
+        {
+            "de": "Kannst du mich hören?",
+            "en": "Can you hear me?"
+        },
+        {
+            "de": "Ich freue mich auf das Wochenende.",
+            "en": "I'm looking forward to the weekend."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/mɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

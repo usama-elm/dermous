@@ -1,0 +1,21 @@
+{
+    "word": "schreibtisch",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "desk",
+    "example_sentences": [
+        {
+            "de": "Ich arbeite jeden Tag an meinem Schreibtisch.",
+            "en": "I work at my desk every day."
+        },
+        {
+            "de": "Der Schreibtisch ist zu groß für mein Zimmer.",
+            "en": "The desk is too big for my room."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈʃʁaɪ̯ptɪʃ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

@@ -1,0 +1,20 @@
+{
+    "word": "brauch",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "need",
+    "example_sentences": [
+        "Ich habe einen Brauch, jeden Morgen Kaffee zu trinken.",
+        "Es ist ein Brauch, dass wir uns zu Weihnachten Geschenke machen."
+    ],
+    "usage_frequency": 7,
+    "ipa": "bʁaʊ̯x",
+    "verb_auxiliary": null,
+    "difficulty_level": 2,
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": null
+}

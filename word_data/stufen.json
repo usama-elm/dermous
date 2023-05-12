@@ -1,0 +1,27 @@
+{
+    "word": "stufen",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Verb",
+    "translation": "to grade, to classify",
+    "example_sentences": [
+        {
+            "de": "Die Schüler werden nach Leistung gestuft.",
+            "en": "The students are graded according to their performance."
+        },
+        {
+            "de": "Die Produkte werden in verschiedene Kategorien gestuft.",
+            "en": "The products are classified into different categories."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈʃtuːfən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregularities": {
+        "present_3rd_singular": "stuft",
+        "past_perfect": "gestuft",
+        "preterite": "stufte",
+        "frequency": 4
+    }
+}

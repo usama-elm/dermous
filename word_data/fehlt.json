@@ -1,0 +1,26 @@
+{
+    "word": "fehlt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "fehlen",
+    "translation": "missing",
+    "example_sentences": [
+        {
+            "de": "Mir fehlt mein Portemonnaie.",
+            "en": "I'm missing my wallet."
+        },
+        {
+            "de": "Es fehlt noch Salz in der Suppe.",
+            "en": "The soup still needs salt."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/fɛlt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "fehlt",
+    "past_perfect": "hat gefehlt",
+    "preterite": "fehlte",
+    "frequency_scale": 7
+}

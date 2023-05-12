@@ -1,0 +1,20 @@
+{
+    "word": "überlegte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "überlegen",
+    "translation": "considered",
+    "example_sentences": [
+        "Ich überlegte lange, ob ich den Job annehmen sollte. (I considered for a long time whether I should take the job.)",
+        "Sie überlegte sich genau, was sie sagen wollte. (She considered exactly what she wanted to say.)"
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈyːbɐˌleːɡtə",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "überlegt",
+    "past_perfect": "hat überlegt",
+    "preterite": "überlegte",
+    "frequency_scale": 7
+}

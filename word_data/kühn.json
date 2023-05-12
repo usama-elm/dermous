@@ -1,0 +1,26 @@
+{
+    "word": "kühn",
+    "gender": "m",
+    "article": "der",
+    "word_type": "adjective",
+    "translation": "bold, daring",
+    "example_sentences": [
+        {
+            "de": "Er war ein kühner Kämpfer.",
+            "en": "He was a bold fighter."
+        },
+        {
+            "de": "Sie hatte eine kühne Idee.",
+            "en": "She had a daring idea."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "kʏn",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

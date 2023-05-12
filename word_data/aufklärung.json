@@ -1,0 +1,26 @@
+{
+    "word": "aufklärung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "enlightenment",
+    "example_sentences": [
+        {
+            "de": "Die Aufklärung war eine Epoche der Vernunft.",
+            "en": "The Enlightenment was an era of reason."
+        },
+        {
+            "de": "Die Aufklärung hat zu vielen Fortschritten in Wissenschaft und Technologie geführt.",
+            "en": "The Enlightenment led to many advances in science and technology."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈaʊfˌklɛːʁʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

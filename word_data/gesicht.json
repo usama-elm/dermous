@@ -1,0 +1,26 @@
+{
+    "word": "gesicht",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "face",
+    "example_sentences": [
+        {
+            "de": "Sie hat ein schönes Gesicht.",
+            "en": "She has a beautiful face."
+        },
+        {
+            "de": "Er hat ein trauriges Gesicht.",
+            "en": "He has a sad face."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ɡəˈzɪçt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

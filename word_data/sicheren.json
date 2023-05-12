@@ -1,0 +1,20 @@
+{
+    "word": "sicheren",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to secure",
+    "example_sentences": [
+        "Ich muss mein Haus sichern, bevor ich in den Urlaub fahre. (I need to secure my house before I go on vacation.)",
+        "Die Polizei hat den Tatort gesichert. (The police secured the crime scene.)"
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ziˈçeːʁən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "sichert",
+    "past_perfect": "gesichert",
+    "preterite": "sicherte",
+    "frequency": 6
+}

@@ -1,0 +1,21 @@
+{
+    "word": "auffassung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "perception",
+    "example_sentences": [
+        {
+            "de": "Seine Auffassung von Kunst ist sehr modern.",
+            "en": "His perception of art is very modern."
+        },
+        {
+            "de": "Ich teile deine Auffassung nicht.",
+            "en": "I don't share your perception."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaʊ̯fasʊŋ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

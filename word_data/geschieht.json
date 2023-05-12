@@ -1,0 +1,21 @@
+{
+    "word": "geschieht",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "geschehen",
+    "translation": "happens",
+    "example_sentences": [
+        "Was geschieht, wenn ich den Knopf drücke?",
+        "Es geschieht nicht oft, dass er zu spät kommt."
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈʃiːət/",
+    "verb_auxiliary": "ist",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "geschieht",
+    "past_perfect": "geschehen",
+    "preterite": "geschah",
+    "frequency_scale": 7
+}

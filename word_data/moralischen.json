@@ -1,0 +1,26 @@
+{
+    "word": "moralischen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjektiv",
+    "translation": "moral",
+    "example_sentences": [
+        {
+            "de": "Er hat eine moralische Verpflichtung, zu helfen.",
+            "en": "He has a moral obligation to help."
+        },
+        {
+            "de": "Die moralischen Werte unserer Gesellschaft sind im Wandel.",
+            "en": "The moral values of our society are changing."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "moˈraːlɪʃən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

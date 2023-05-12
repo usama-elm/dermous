@@ -1,0 +1,21 @@
+{
+    "word": "stießen",
+    "gender": "m",
+    "article": "das",
+    "word_type": "stießen",
+    "translation": "to push",
+    "example_sentences": [
+        "Er stieß die Tür auf.",
+        "Sie stießen den Wagen an.",
+        "Die Menge stieß ihn vorwärts."
+    ],
+    "usage_frequency": 5,
+    "ipa": "/ˈʃtiːsən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B2",
+    "irregular": true,
+    "present_3rd_singular": "stößt",
+    "past_perfect": "gestoßen",
+    "preterite": "stieß",
+    "frequency": 6
+}

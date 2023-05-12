@@ -1,0 +1,26 @@
+{
+    "word": "thätigkeit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "activity",
+    "example_sentences": [
+        {
+            "de": "Meine Thätigkeit als Lehrer macht mir viel Freude.",
+            "en": "My activity as a teacher brings me a lot of joy."
+        },
+        {
+            "de": "Die Thätigkeit des Gehirns ist ein komplexes Thema.",
+            "en": "The activity of the brain is a complex topic."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈtɛːtɪɡkaɪt/",
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "past_auxiliary": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "verb_frequency": null
+}

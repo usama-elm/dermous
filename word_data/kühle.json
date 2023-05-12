@@ -1,0 +1,26 @@
+{
+    "word": "kühle",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "coolness",
+    "example_sentences": [
+        {
+            "de": "Die kühle Brise am Morgen war sehr angenehm.",
+            "en": "The cool breeze in the morning was very pleasant."
+        },
+        {
+            "de": "Ich mag die kühle Luft im Herbst.",
+            "en": "I like the cool air in autumn."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ˈkyːlə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

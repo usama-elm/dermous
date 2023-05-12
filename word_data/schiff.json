@@ -1,0 +1,26 @@
+{
+    "word": "schiff",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "ship",
+    "example_sentences": [
+        {
+            "de": "Das Schiff fährt auf dem Meer.",
+            "en": "The ship is sailing on the sea."
+        },
+        {
+            "de": "Ich habe gestern ein Schiff gesehen.",
+            "en": "I saw a ship yesterday."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ʃɪf/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

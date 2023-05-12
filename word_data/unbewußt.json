@@ -1,0 +1,26 @@
+{
+    "word": "unbewusst",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "unconscious",
+    "example_sentences": [
+        {
+            "de": "Er handelte unbewusst.",
+            "en": "He acted unconsciously."
+        },
+        {
+            "de": "Das war mir unbewusst.",
+            "en": "I was unconscious of that."
+        }
+    ],
+    "usage_frequency": 7.5,
+    "ipa": "ʊnbəˈvʊst",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

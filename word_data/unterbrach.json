@@ -1,0 +1,26 @@
+{
+    "word": "unterbrach",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "interrupted",
+    "example_sentences": [
+        {
+            "de": "Er unterbrach mich mitten im Satz.",
+            "en": "He interrupted me in the middle of the sentence."
+        },
+        {
+            "de": "Die Stromversorgung wurde unterbrochen.",
+            "en": "The power supply was interrupted."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ʊntɐˈbʁax/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "unterbricht",
+    "past_perfect": "hat unterbrochen",
+    "preterite": "unterbrach",
+    "frequency_scale": 8
+}

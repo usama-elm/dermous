@@ -1,0 +1,27 @@
+{
+    "word": "verpflichtet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "verpflichten",
+    "translation": "obliged",
+    "example_sentences": [
+        {
+            "de": "Ich fühle mich verpflichtet, dir zu helfen.",
+            "en": "I feel obliged to help you."
+        },
+        {
+            "de": "Er ist verpflichtet, seine Steuern zu zahlen.",
+            "en": "He is obliged to pay his taxes."
+        }
+    ],
+    "usage_frequency": 7,
+    "IPA": "fɛɐ̯pfˈlɪçtət",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verpflichtet",
+    "past_perfect": "hat verpflichtet",
+    "preterite": "verpflichtete",
+    "frequency_scale": 8
+}

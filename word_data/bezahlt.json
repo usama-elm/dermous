@@ -1,0 +1,27 @@
+{
+    "word": "bezahlt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "bezahlen",
+    "translation": "paid",
+    "example_sentences": [
+        {
+            "de": "Ich habe gestern meine Rechnung bezahlt.",
+            "en": "I paid my bill yesterday."
+        },
+        {
+            "de": "Er hat mir das Geld zurückbezahlt.",
+            "en": "He paid me back the money."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/bəˈzaːlt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "bezahlt",
+    "past_perfect": "hat bezahlt",
+    "preterite": "bezahlte",
+    "frequency_scale": 7
+}

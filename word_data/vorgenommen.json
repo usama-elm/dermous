@@ -1,0 +1,27 @@
+{
+    "word": "vorgenommen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "vornehmen",
+    "translation": "to undertake",
+    "example_sentences": [
+        {
+            "de": "Ich habe mir vorgenommen, mehr Sport zu treiben.",
+            "en": "I have decided to do more sports."
+        },
+        {
+            "de": "Er hat sich vorgenommen, Deutsch zu lernen.",
+            "en": "He has decided to learn German."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈfɔɐ̯ɡəˌnɔmən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "nimmt vor",
+    "past_perfect": "hat vorgenommen",
+    "preterite": "nahm vor",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "wirklich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "really",
+    "example_sentences": [
+        {
+            "de": "Ich bin wirklich müde.",
+            "en": "I am really tired."
+        },
+        {
+            "de": "Ist das wirklich wahr?",
+            "en": "Is that really true?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈvɪʁklɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

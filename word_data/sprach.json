@@ -1,0 +1,26 @@
+{
+    "word": "sprach",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Verb (Infinitiv: sprechen)",
+    "translation": "spoke",
+    "example_sentences": [
+        {
+            "de": "Sie sprach sehr schnell.",
+            "en": "She spoke very quickly."
+        },
+        {
+            "de": "Er sprach kein Wort.",
+            "en": "He didn't speak a word."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ʃpʁaːx/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "spricht",
+    "past_perfect": "gesprochen",
+    "preterite": "sprach",
+    "frequency_scale": 8
+}

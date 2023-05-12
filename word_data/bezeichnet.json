@@ -1,0 +1,27 @@
+{
+    "word": "bezeichnet",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "bezeichnen",
+    "translation": "to designate, to label",
+    "example_sentences": [
+        {
+            "de": "Er bezeichnete sie als seine beste Freundin.",
+            "en": "He designated her as his best friend."
+        },
+        {
+            "de": "Das Etikett bezeichnet den Inhalt des Glases.",
+            "en": "The label designates the contents of the glass."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈʦaɪ̯çnən/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "bezeichnet",
+    "past_perfect": "hat bezeichnet",
+    "preterite": "bezeichnete",
+    "frequency_scale": 8
+}

@@ -1,0 +1,20 @@
+{
+    "word": "weißt",
+    "gender": "m/f/neuter",
+    "article": "das",
+    "word_type": "verb (infinitive: wissen)",
+    "translation": "know",
+    "example_sentences": [
+        "Weißt du, wo der Bahnhof ist?",
+        "Ich weiß nicht, was ich tun soll."
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/vaɪst/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "weiß",
+    "past_perfect": "gewusst",
+    "preterite": "wusste",
+    "frequency_scale": 9
+}

@@ -1,0 +1,26 @@
+{
+    "word": "mächtigen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "verb",
+    "translation": "to empower",
+    "example_sentences": [
+        {
+            "de": "Er mächtigt seinen Mitarbeiter, Entscheidungen zu treffen.",
+            "en": "He empowers his employee to make decisions."
+        },
+        {
+            "de": "Die Regierung mächtigt die Polizei, gegen Demonstranten vorzugehen.",
+            "en": "The government authorizes the police to take action against protesters."
+        }
+    ],
+    "usage_frequency": 4,
+    "ipa": "/ˈmɛçtɪɡən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3s": "mächtigt",
+    "past_perfect": "hat mächtigt",
+    "preterite": "mächtigte",
+    "frequency_scale": 7
+}

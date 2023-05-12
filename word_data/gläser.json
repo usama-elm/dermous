@@ -1,0 +1,26 @@
+{
+    "word": "gläser",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "glasses",
+    "example_sentences": [
+        {
+            "de": "Ich trinke mein Wasser aus einem Glas.",
+            "en": "I drink my water from a glass."
+        },
+        {
+            "de": "Die Gläser auf dem Tisch sind sehr schön.",
+            "en": "The glasses on the table are very nice."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈɡlɛːzɐ",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

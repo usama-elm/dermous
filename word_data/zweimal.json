@@ -1,0 +1,26 @@
+{
+    "word": "zweimal",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "twice",
+    "example_sentences": [
+        {
+            "de": "Ich war schon zweimal in Berlin.",
+            "en": "I've been to Berlin twice already."
+        },
+        {
+            "de": "Er hat das zweimal falsch gemacht.",
+            "en": "He did that wrong twice."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈt͡svaɪ̯mal/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

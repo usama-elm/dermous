@@ -1,0 +1,26 @@
+{
+    "word": "vorbereitungen",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "preparations",
+    "example_sentences": [
+        {
+            "de": "Ich muss noch einige Vorbereitungen für die Party treffen.",
+            "en": "I still have to make some preparations for the party."
+        },
+        {
+            "de": "Die Vorbereitungen für das Konzert laufen auf Hochtouren.",
+            "en": "Preparations for the concert are in full swing."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈfɔɐ̯bəʁaɪtʊŋən",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

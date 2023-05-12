@@ -1,0 +1,26 @@
+{
+    "word": "jahres",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "year's",
+    "example_sentences": [
+        {
+            "de": "Das ist das Ereignis des Jahres.",
+            "en": "This is the event of the year."
+        },
+        {
+            "de": "Am Ende des Jahres machen wir eine Inventur.",
+            "en": "At the end of the year, we take inventory."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈjaːʁəs",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "is_irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

@@ -1,0 +1,26 @@
+{
+    "word": "gewann",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "gewinnen",
+    "translation": "to win",
+    "example_sentences": [
+        {
+            "de": "Er gewann das Rennen.",
+            "en": "He won the race."
+        },
+        {
+            "de": "Sie hat gestern im Lotto gewonnen.",
+            "en": "She won the lottery yesterday."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ɡəˈvan/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gewinnt",
+    "past_perfect": "hat gewonnen",
+    "preterite": "gewann",
+    "frequency_scale": 8
+}

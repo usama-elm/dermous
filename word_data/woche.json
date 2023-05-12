@@ -1,0 +1,26 @@
+{
+    "word": "Woche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "week",
+    "example_sentences": [
+        {
+            "de": "Ich arbeite fünf Tage in der Woche.",
+            "en": "I work five days a week."
+        },
+        {
+            "de": "Nächste Woche habe ich Urlaub.",
+            "en": "Next week I have vacation."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈvɔçə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

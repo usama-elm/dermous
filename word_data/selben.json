@@ -1,0 +1,26 @@
+{
+    "word": "selben",
+    "gender": "m",
+    "article": "der",
+    "word_type": "adjective",
+    "translation": "same",
+    "example_sentences": [
+        {
+            "de": "Ich habe den selben Pullover wie du.",
+            "en": "I have the same sweater as you."
+        },
+        {
+            "de": "Wir haben den selben Geschmack.",
+            "en": "We have the same taste."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈzɛlbən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

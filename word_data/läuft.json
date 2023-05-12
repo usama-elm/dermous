@@ -1,0 +1,27 @@
+{
+    "word": "läuft",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "laufen",
+    "translation": "runs",
+    "example_sentences": [
+        {
+            "de": "Der Hund läuft schnell.",
+            "en": "The dog runs fast."
+        },
+        {
+            "de": "Ich laufe jeden Morgen im Park.",
+            "en": "I run in the park every morning."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/laʊft/",
+    "verb_auxiliary": "ist",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "läuft",
+    "past_perfect": "gelaufen",
+    "preterite": "lief",
+    "frequency_scale": 9
+}

@@ -1,0 +1,26 @@
+{
+    "word": "deutschland",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "Germany",
+    "example_sentences": [
+        {
+            "de": "Ich komme aus Deutschland.",
+            "en": "I come from Germany."
+        },
+        {
+            "de": "Deutschland ist ein schönes Land.",
+            "en": "Germany is a beautiful country."
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa": "/ˈdɔʏtʃlant/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

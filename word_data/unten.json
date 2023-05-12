@@ -1,0 +1,26 @@
+{
+    "word": "unten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "down",
+    "example_sentences": [
+        {
+            "de": "Ich gehe unten.",
+            "en": "I'm going down."
+        },
+        {
+            "de": "Die Tasse steht unten auf dem Tisch.",
+            "en": "The cup is down on the table."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈʊntən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

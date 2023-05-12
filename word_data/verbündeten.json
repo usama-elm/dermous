@@ -1,0 +1,26 @@
+{
+    "word": "verbündeten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "translation": "to ally",
+    "example_sentences": [
+        {
+            "de": "Die beiden Länder haben sich verbündet, um gemeinsam gegen den Terrorismus vorzugehen.",
+            "en": "The two countries have allied themselves to jointly combat terrorism."
+        },
+        {
+            "de": "Wir sollten uns mit anderen Organisationen verbünden, um unsere Ziele zu erreichen.",
+            "en": "We should ally ourselves with other organizations to achieve our goals."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "fɛɐ̯ˈbʏndətn̩",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verbündet",
+    "past_perfect": "verbündet gehabt",
+    "preterite": "verbündete",
+    "frequency_scale": 8
+}

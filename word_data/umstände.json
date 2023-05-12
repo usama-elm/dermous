@@ -1,0 +1,26 @@
+{
+    "word": "umstände",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "circumstances",
+    "example_sentences": [
+        {
+            "de": "Aufgrund der Umstände mussten wir die Veranstaltung absagen.",
+            "en": "Due to the circumstances, we had to cancel the event."
+        },
+        {
+            "de": "Ich kann unter diesen Umständen nicht arbeiten.",
+            "en": "I can't work under these circumstances."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈʊmʃtɛndə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

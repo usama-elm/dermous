@@ -1,0 +1,27 @@
+{
+    "word": "geschenkt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "schenken",
+    "translation": "given",
+    "example_sentences": [
+        {
+            "de": "Ich habe das Buch geschenkt bekommen.",
+            "en": "I was given the book as a gift."
+        },
+        {
+            "de": "Er hat mir das Geld geschenkt.",
+            "en": "He gave me the money as a gift."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈʃɛŋkt",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schenkt",
+    "past_perfect": "geschenkt gehabt",
+    "preterite": "schenkte",
+    "frequency_scale": 8
+}

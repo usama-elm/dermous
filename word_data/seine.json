@@ -1,0 +1,26 @@
+{
+    "word": "seine",
+    "gender": "m",
+    "article": "der",
+    "word_type": "possessive pronoun",
+    "translation": "his",
+    "example_sentences": [
+        {
+            "de": "Seine Katze ist sehr süß.",
+            "en": "His cat is very cute."
+        },
+        {
+            "de": "Seine Eltern sind stolz auf ihn.",
+            "en": "His parents are proud of him."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈzaɪnə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

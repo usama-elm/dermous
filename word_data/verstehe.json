@@ -1,0 +1,27 @@
+{
+    "word": "verstehe",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "verstehen",
+    "translation": "understand",
+    "example_sentences": [
+        {
+            "de": "Ich verstehe nicht, was du meinst.",
+            "en": "I don't understand what you mean."
+        },
+        {
+            "de": "Kannst du mir das bitte noch einmal erklären? Ich verstehe es nicht.",
+            "en": "Can you please explain it to me again? I don't understand it."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/fɛɐ̯ˈʃteːə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "versteht",
+    "past_perfect": "verstanden",
+    "preterite": "verstand",
+    "frequency_scale": 9
+}

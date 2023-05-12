@@ -1,0 +1,26 @@
+{
+    "word": "präsident",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "president",
+    "example_sentences": [
+        {
+            "de": "Der Präsident wird heute eine Rede halten.",
+            "en": "The president will give a speech today."
+        },
+        {
+            "de": "Der neue Präsident wurde gestern vereidigt.",
+            "en": "The new president was sworn in yesterday."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈpʁeːzɪdɛnt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

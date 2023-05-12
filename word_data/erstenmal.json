@@ -1,0 +1,26 @@
+{
+    "word": "erstenmal",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "erstenmal",
+    "translation": "first time",
+    "example_sentences": [
+        {
+            "de": "Ich war zum erstenmal in Berlin.",
+            "en": "I was in Berlin for the first time."
+        },
+        {
+            "de": "Das ist das erstenmal, dass ich das höre.",
+            "en": "This is the first time I've heard that."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈɛʁstn̩ˌmaːl",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

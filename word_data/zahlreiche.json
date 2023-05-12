@@ -1,0 +1,26 @@
+{
+    "word": "zahlreiche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "numerous",
+    "example_sentences": [
+        {
+            "de": "Es gibt zahlreiche Möglichkeiten, Deutsch zu lernen.",
+            "en": "There are numerous ways to learn German."
+        },
+        {
+            "de": "Die Stadt hat zahlreiche Sehenswürdigkeiten.",
+            "en": "The city has numerous sights to see."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈtsaːlˌʁaɪ̯çə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

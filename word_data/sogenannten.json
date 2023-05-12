@@ -1,0 +1,26 @@
+{
+    "word": "sogenannten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "Adjektiv",
+    "translation": "so-called",
+    "example_sentences": [
+        {
+            "de": "Die sogenannten Experten haben sich geirrt.",
+            "en": "The so-called experts were wrong."
+        },
+        {
+            "de": "Die sogenannte Wahrheit ist oft relativ.",
+            "en": "The so-called truth is often relative."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "zoːɡəˈnantən",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

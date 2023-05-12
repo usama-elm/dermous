@@ -1,0 +1,26 @@
+{
+    "word": "meine",
+    "gender": "f",
+    "article": "die",
+    "word_type": "pronoun",
+    "translation": "my",
+    "example_sentences": [
+        {
+            "de": "Meine Katze ist sehr süß.",
+            "en": "My cat is very cute."
+        },
+        {
+            "de": "Meine Eltern kommen heute Abend zu Besuch.",
+            "en": "My parents are coming to visit tonight."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈmaɪnə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

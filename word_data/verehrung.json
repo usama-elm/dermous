@@ -1,0 +1,26 @@
+{
+    "word": "verehrung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "veneration",
+    "example_sentences": [
+        {
+            "de": "Die Verehrung der Heiligen ist ein wichtiger Teil der katholischen Kirche.",
+            "en": "The veneration of saints is an important part of the Catholic Church."
+        },
+        {
+            "de": "Seine Verehrung für die Künstlerin war grenzenlos.",
+            "en": "His veneration for the artist was boundless."
+        }
+    ],
+    "usage_frequency": 4,
+    "ipa": "fɛɐ̯ˈeːʁʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

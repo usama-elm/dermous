@@ -1,0 +1,26 @@
+{
+    "word": "findet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "finden",
+    "translation": "finds",
+    "example_sentences": [
+        {
+            "de": "Er findet immer seinen Weg.",
+            "en": "He always finds his way."
+        },
+        {
+            "de": "Sie findet das Buch sehr interessant.",
+            "en": "She finds the book very interesting."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈfɪndət/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_form_singular": "findet",
+    "past_perfect": "gefunden",
+    "preterite": "fand",
+    "frequency_scale": 7
+}

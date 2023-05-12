@@ -1,0 +1,26 @@
+{
+    "word": "entsprechen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to correspond",
+    "example_sentences": [
+        {
+            "de": "Deine Handlungen entsprechen nicht deinen Worten.",
+            "en": "Your actions do not correspond to your words."
+        },
+        {
+            "de": "Die Kosten entsprechen nicht dem Budget.",
+            "en": "The costs do not correspond to the budget."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛntˈʃpʀɛçən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "entspricht",
+    "past_perfect": "hat entsprochen",
+    "preterite": "entsprach",
+    "frequency_scale": 8
+}

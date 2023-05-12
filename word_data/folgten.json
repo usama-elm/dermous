@@ -1,0 +1,27 @@
+{
+    "word": "folgten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "folgen",
+    "translation": "followed",
+    "example_sentences": [
+        {
+            "de": "Sie folgten dem Pfad durch den Wald.",
+            "en": "They followed the path through the forest."
+        },
+        {
+            "de": "Die Polizei folgte dem Verdächtigen bis zu seinem Versteck.",
+            "en": "The police followed the suspect to his hiding place."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈfɔlktən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "folgt",
+    "past_perfect": "gefolgt",
+    "preterite": "folgten",
+    "frequency_scale": 8
+}

@@ -1,0 +1,20 @@
+{
+    "word": "setzte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "setzen",
+    "translation": "set",
+    "example_sentences": [
+        "Er setzte sich auf den Stuhl. (He sat down on the chair.)",
+        "Sie setzte das Glas auf den Tisch. (She put the glass on the table.)"
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈzɛtsə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "setzt",
+    "past_perfect": "gesetzt",
+    "preterite": "setzte",
+    "frequency_scale": 8
+}

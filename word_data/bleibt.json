@@ -1,0 +1,26 @@
+{
+    "word": "bleibt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "bleiben",
+    "translation": "stays",
+    "example_sentences": [
+        {
+            "de": "Er bleibt zu Hause.",
+            "en": "He stays at home."
+        },
+        {
+            "de": "Das Essen bleibt warm.",
+            "en": "The food stays warm."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/blaɪbt/",
+    "verb_auxiliary": "ist",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "bleibt",
+    "past_perfect": "ist geblieben",
+    "preterite": "blieb",
+    "frequency_scale": 7
+}

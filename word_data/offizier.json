@@ -1,0 +1,26 @@
+{
+    "word": "offizier",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "officer",
+    "example_sentences": [
+        {
+            "de": "Der Offizier befiehlt seinen Soldaten.",
+            "en": "The officer commands his soldiers."
+        },
+        {
+            "de": "Als Offizier muss man viel Verantwortung tragen.",
+            "en": "As an officer, one must bear a lot of responsibility."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɔfɪˈtsiːɐ̯/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

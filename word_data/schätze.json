@@ -1,0 +1,26 @@
+{
+    "word": "schätze",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Verb",
+    "translation": "estimate",
+    "example_sentences": [
+        {
+            "de": "Ich schätze, dass es morgen regnen wird.",
+            "en": "I estimate that it will rain tomorrow."
+        },
+        {
+            "de": "Ich schätze deine Hilfe sehr.",
+            "en": "I appreciate your help very much."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈʃɛt͡sə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schätzt",
+    "past_perfect": "geschätzt",
+    "preterite": "schätzte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "erleben",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to experience",
+    "example_sentences": [
+        {
+            "de": "Ich möchte gerne etwas Spannendes erleben.",
+            "en": "I would like to experience something exciting."
+        },
+        {
+            "de": "Wir haben gestern eine tolle Party erlebt.",
+            "en": "We experienced a great party yesterday."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɛɐ̯ˈleːbn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erlebt",
+    "past_perfect": "hat erlebt",
+    "preterite": "erlebte",
+    "frequency_scale": 8
+}

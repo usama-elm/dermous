@@ -1,0 +1,26 @@
+{
+    "word": "untersucht",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "untersuchen",
+    "translation": "examined",
+    "example_sentences": [
+        {
+            "de": "Der Arzt hat mich untersucht.",
+            "en": "The doctor examined me."
+        },
+        {
+            "de": "Die Polizei hat das Auto untersucht.",
+            "en": "The police examined the car."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ʊntərˈzʊxt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "untersucht",
+    "past_perfect": "hat untersucht",
+    "preterite": "untersuchte",
+    "frequency_scale": 8
+}

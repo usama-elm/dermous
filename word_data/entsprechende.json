@@ -1,0 +1,26 @@
+{
+    "word": "entsprechende",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "corresponding",
+    "example_sentences": [
+        {
+            "de": "Ich habe die entsprechenden Unterlagen gefunden.",
+            "en": "I found the corresponding documents."
+        },
+        {
+            "de": "Bitte füllen Sie das entsprechende Formular aus.",
+            "en": "Please fill out the corresponding form."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɛntˈʃpʀɛçəndə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

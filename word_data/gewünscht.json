@@ -1,0 +1,26 @@
+{
+    "word": "gewünscht",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "gewünschen",
+    "translation": "desired",
+    "example_sentences": [
+        {
+            "de": "Ich habe mir ein neues Auto gewünscht.",
+            "en": "I wished for a new car."
+        },
+        {
+            "de": "Er hat sich eine bessere Note gewünscht.",
+            "en": "He wished for a better grade."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈvʏnʃt",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wünscht",
+    "past_perfect": "hat gewünscht",
+    "preterite": "wünschte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "entgegengesetzten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "opposite",
+    "example_sentences": [
+        {
+            "de": "Die beiden Meinungen sind entgegengesetzt.",
+            "en": "The two opinions are opposite."
+        },
+        {
+            "de": "Die entgegengesetzten Kräfte heben sich auf.",
+            "en": "The opposite forces cancel each other out."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈɛntɡəˌɡɛnˌzɛtsən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "blüten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "blühen",
+    "translation": "to bloom",
+    "example_sentences": [
+        {
+            "de": "Die Blumen blüten im Frühling.",
+            "en": "The flowers bloom in spring."
+        },
+        {
+            "de": "Die Bäume blüten im Mai.",
+            "en": "The trees bloom in May."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈblʏtən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "blüht",
+    "past_perfect": "geblüht",
+    "preterite": "blühte",
+    "frequency_scale": 8
+}

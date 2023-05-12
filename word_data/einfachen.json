@@ -1,0 +1,27 @@
+{
+    "word": "einfachen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "verb",
+    "infinitive": "einfachen",
+    "translation": "to simplify",
+    "example_sentences": [
+        {
+            "de": "Ich möchte den Prozess vereinfachen.",
+            "en": "I want to simplify the process."
+        },
+        {
+            "de": "Kannst du das für mich vereinfachen?",
+            "en": "Can you simplify that for me?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaɪ̯nfaχən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "vereinfacht",
+    "past_perfect": "vereinfacht",
+    "preterite": "vereinfachte",
+    "frequency_scale": 8
+}

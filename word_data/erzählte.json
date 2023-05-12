@@ -1,0 +1,20 @@
+{
+    "word": "erzählte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "erzählen",
+    "translation": "told",
+    "example_sentences": [
+        "Sie erzählte ihm von ihrem Urlaub.",
+        "Er erzählte eine lustige Geschichte."
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐˈtsɛːltə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erzählt",
+    "past_perfect": "hat erzählt",
+    "preterite": "erzählte",
+    "frequency_scale": 8
+}

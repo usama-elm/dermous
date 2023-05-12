@@ -1,0 +1,21 @@
+{
+    "word": "pfad",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "path",
+    "example_sentences": [
+        {
+            "de": "Ich gehe auf dem Pfad durch den Wald.",
+            "en": "I am walking on the path through the forest."
+        },
+        {
+            "de": "Der Pfad führt uns zum See.",
+            "en": "The path leads us to the lake."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/pfat/",
+    "difficulty_level": "A2",
+    "error": null
+}

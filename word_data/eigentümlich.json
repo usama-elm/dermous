@@ -1,0 +1,26 @@
+{
+    "word": "eigentümlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "peculiar",
+    "example_sentences": [
+        {
+            "de": "Sein eigentümliches Verhalten hat mich überrascht.",
+            "en": "His peculiar behavior surprised me."
+        },
+        {
+            "de": "Das ist eine eigentümliche Art, die Dinge zu betrachten.",
+            "en": "That's a peculiar way of looking at things."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "/ˈaɪ̯ɡn̩tʏmlɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

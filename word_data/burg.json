@@ -1,0 +1,26 @@
+{
+    "word": "burg",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Noun",
+    "translation": "castle",
+    "example_sentences": [
+        {
+            "de": "Die Burg wurde im 12. Jahrhundert erbaut.",
+            "en": "The castle was built in the 12th century."
+        },
+        {
+            "de": "Wir haben die Burg besichtigt.",
+            "en": "We visited the castle."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bʊʁk/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,27 @@
+{
+    "word": "behalten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "behalten",
+    "translation": "to keep",
+    "example_sentences": [
+        {
+            "de": "Ich behalte immer einen kühlen Kopf.",
+            "en": "I always keep a cool head."
+        },
+        {
+            "de": "Kannst du das Geheimnis für dich behalten?",
+            "en": "Can you keep the secret to yourself?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈhaltn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "behält",
+    "past_perfect": "gehalten",
+    "preterite": "behielt",
+    "frequency_scale": 8
+}

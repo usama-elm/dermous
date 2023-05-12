@@ -1,0 +1,26 @@
+{
+    "word": "Fähigkeit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "ability",
+    "example_sentences": [
+        {
+            "de": "Seine Fähigkeit, schnell zu lernen, beeindruckte seinen Chef.",
+            "en": "His ability to learn quickly impressed his boss."
+        },
+        {
+            "de": "Die Fähigkeit, Probleme zu lösen, ist eine wichtige Fähigkeit im Berufsleben.",
+            "en": "The ability to solve problems is an important skill in professional life."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈfɛːhɪɡkaɪt",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

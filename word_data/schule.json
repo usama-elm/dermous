@@ -1,0 +1,26 @@
+{
+    "word": "schule",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "school",
+    "example_sentences": [
+        {
+            "de": "Ich gehe jeden Tag zur Schule.",
+            "en": "I go to school every day."
+        },
+        {
+            "de": "Meine Schwester besucht eine Grundschule.",
+            "en": "My sister attends an elementary school."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈʃuːlə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

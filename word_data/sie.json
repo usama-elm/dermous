@@ -1,0 +1,26 @@
+{
+    "word": "sie",
+    "gender": "f",
+    "article": "die",
+    "word_type": "pronoun",
+    "translation": "she",
+    "example_sentences": [
+        {
+            "de": "Sie geht jeden Tag zur Arbeit.",
+            "en": "She goes to work every day."
+        },
+        {
+            "de": "Ich habe sie gestern im Park getroffen.",
+            "en": "I met her in the park yesterday."
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa_code": "/ziː/",
+    "verb_auxiliary_for_past": "haben",
+    "european_difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_form_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale_of_10": 9
+}

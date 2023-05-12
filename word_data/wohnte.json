@@ -1,0 +1,21 @@
+{
+    "word": "wohnte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "wohnen",
+    "translation": "lived",
+    "example_sentences": [
+        "Er wohnte in einer kleinen Wohnung in der Stadt.",
+        "Sie wohnte früher auf dem Land, aber jetzt lebt sie in der Stadt.",
+        "Ich wohnte während meines Studiums in einer WG."
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈvoːntə",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wohnt",
+    "past_perfect": "hat gewohnt",
+    "preterite": "wohnte",
+    "frequency_scale": 8
+}

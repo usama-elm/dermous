@@ -1,0 +1,21 @@
+{
+    "word": "Gesichter",
+    "gender": "neuter",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "faces",
+    "example_sentences": [
+        {
+            "de": "Die Gesichter der Menschen waren voller Freude.",
+            "en": "The faces of the people were full of joy."
+        },
+        {
+            "de": "Ich erkenne die Gesichter nicht.",
+            "en": "I don't recognize the faces."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈzɪçtɐ",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

@@ -1,0 +1,26 @@
+{
+    "word": "Berührung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "touch",
+    "example_sentences": [
+        {
+            "de": "Ich spüre eine Berührung auf meiner Schulter.",
+            "en": "I feel a touch on my shoulder."
+        },
+        {
+            "de": "Die Berührung seiner Hand war warm und angenehm.",
+            "en": "The touch of his hand was warm and pleasant."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈʁʏʊŋ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

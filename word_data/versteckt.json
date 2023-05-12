@@ -1,0 +1,27 @@
+{
+    "word": "versteckt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "verstecken",
+    "translation": "hidden",
+    "example_sentences": [
+        {
+            "de": "Das Haus ist gut versteckt.",
+            "en": "The house is well hidden."
+        },
+        {
+            "de": "Er hat seine Gefühle lange Zeit versteckt.",
+            "en": "He hid his feelings for a long time."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "fɛɐ̯ˈʃtɛkt",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "versteckt",
+    "past_perfect": "hat versteckt",
+    "preterite": "versteckte",
+    "frequency_scale": 8
+}

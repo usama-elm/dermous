@@ -1,0 +1,26 @@
+{
+    "word": "packte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "grabbed",
+    "example_sentences": [
+        {
+            "de": "Er packte das Buch und rannte aus dem Zimmer.",
+            "en": "He grabbed the book and ran out of the room."
+        },
+        {
+            "de": "Sie packte ihre Sachen und verließ das Haus.",
+            "en": "She packed her things and left the house."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈpak.tə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "packt",
+    "past_perfect": "gepackt",
+    "preterite": "packte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,27 @@
+{
+    "word": "geschah",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "geschehen",
+    "translation": "happened",
+    "example_sentences": [
+        {
+            "de": "Es geschah gestern Abend.",
+            "en": "It happened last night."
+        },
+        {
+            "de": "Wie konnte das nur geschehen?",
+            "en": "How could that have happened?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈʃeːən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "geschieht",
+    "past_perfect": "geschehen",
+    "preterite": "geschah",
+    "frequency_scale": 8
+}

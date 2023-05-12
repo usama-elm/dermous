@@ -1,0 +1,27 @@
+{
+    "word": "drehte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "infinitive": "drehen",
+    "translation": "to turn",
+    "example_sentences": [
+        {
+            "de": "Er drehte den Schlüssel im Schloss.",
+            "en": "He turned the key in the lock."
+        },
+        {
+            "de": "Sie drehte sich um und sah ihn an.",
+            "en": "She turned around and looked at him."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈdʁeːtə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "dreht",
+    "past_perfect": "gedreht",
+    "preterite": "drehte",
+    "frequency_scale": 8
+}

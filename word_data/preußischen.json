@@ -1,0 +1,26 @@
+{
+    "word": "preußischen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjective",
+    "translation": "Prussian",
+    "example_sentences": [
+        {
+            "de": "Die preußischen Könige waren sehr mächtig.",
+            "en": "The Prussian kings were very powerful."
+        },
+        {
+            "de": "Die preußischen Soldaten kämpften tapfer.",
+            "en": "The Prussian soldiers fought bravely."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/pʁɔʏˈsɪʃən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

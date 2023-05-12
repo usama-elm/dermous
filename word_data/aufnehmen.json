@@ -1,0 +1,20 @@
+{
+    "word": "aufnehmen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to record/to pick up",
+    "example_sentences": [
+        "Ich möchte das Gespräch aufnehmen. (I would like to record the conversation.)",
+        "Kannst du mich auf dem Weg zur Arbeit aufnehmen? (Can you pick me up on your way to work?)"
+    ],
+    "usage_frequency": 8,
+    "IPA": "/ˈaʊfˌneːmən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "nimmt auf",
+    "past_perfect": "hat aufgenommen",
+    "preterite": "nahm auf",
+    "frequency_scale": 7
+}

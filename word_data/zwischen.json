@@ -1,0 +1,26 @@
+{
+    "word": "zwischen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "preposition",
+    "translation": "between",
+    "example_sentences": [
+        {
+            "de": "Ich sitze zwischen zwei Bäumen.",
+            "en": "I am sitting between two trees."
+        },
+        {
+            "de": "Das Buch liegt zwischen den anderen Büchern.",
+            "en": "The book is lying between the other books."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈt͡svɪʃən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "schöpfung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "creation",
+    "example_sentences": [
+        {
+            "de": "Die Schöpfungsgeschichte ist in der Bibel zu finden.",
+            "en": "The story of creation can be found in the Bible."
+        },
+        {
+            "de": "Die Schöpfung der Welt ist ein großes Mysterium.",
+            "en": "The creation of the world is a great mystery."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈʃœpfʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

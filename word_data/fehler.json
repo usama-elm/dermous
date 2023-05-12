@@ -1,0 +1,26 @@
+{
+    "word": "fehler",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "error",
+    "example_sentences": [
+        {
+            "de": "Ich habe einen Fehler gemacht.",
+            "en": "I made a mistake."
+        },
+        {
+            "de": "Der Computer hat einen Fehler.",
+            "en": "The computer has an error."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈfeːlɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

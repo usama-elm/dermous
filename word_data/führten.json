@@ -1,0 +1,27 @@
+{
+    "word": "führten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "führen",
+    "translation": "to lead",
+    "example_sentences": [
+        {
+            "de": "Sie führten die Mannschaft zum Sieg.",
+            "en": "They led the team to victory."
+        },
+        {
+            "de": "Die Polizei führte den Verdächtigen ab.",
+            "en": "The police led the suspect away."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈfyːʁtən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "führt",
+    "past_perfect": "geführt",
+    "preterite": "führten",
+    "frequency_scale": 8
+}

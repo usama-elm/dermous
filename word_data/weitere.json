@@ -1,0 +1,26 @@
+{
+    "word": "weitere",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "further, additional",
+    "example_sentences": [
+        {
+            "de": "Ich brauche weitere Informationen.",
+            "en": "I need further information."
+        },
+        {
+            "de": "Wir haben weitere Fragen.",
+            "en": "We have additional questions."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈvaɪ̯təʁə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

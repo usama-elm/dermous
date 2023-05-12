@@ -1,0 +1,20 @@
+{
+    "word": "treibt",
+    "gender": "f",
+    "article": "die",
+    "word_type": "treiben",
+    "translation": "drives",
+    "example_sentences": [
+        "Sie treibt gerne Sport.",
+        "Er treibt den Preis nach oben."
+    ],
+    "usage_frequency": 7,
+    "ipa": "/tʁaɪ̯pt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "treibt",
+    "past_perfect": "getrieben",
+    "preterite": "trieb",
+    "frequency_scale": 8
+}

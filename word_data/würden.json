@@ -1,0 +1,27 @@
+{
+    "word": "würden",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "werden",
+    "translation": "would",
+    "example_sentences": [
+        {
+            "de": "Wenn ich mehr Zeit hätte, würde ich gerne reisen.",
+            "en": "If I had more time, I would like to travel."
+        },
+        {
+            "de": "Er sagte, er würde später kommen.",
+            "en": "He said he would come later."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈvʏʁdən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wird",
+    "past_perfect": "geworden",
+    "preterite": "wurden",
+    "frequency_scale": 7
+}

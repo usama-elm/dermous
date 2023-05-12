@@ -1,0 +1,26 @@
+{
+    "word": "erstens",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "firstly",
+    "example_sentences": [
+        {
+            "de": "Erstens sollten wir uns über das Ziel einig sein.",
+            "en": "Firstly, we should agree on the goal."
+        },
+        {
+            "de": "Erstens ist es wichtig, dass du pünktlich bist.",
+            "en": "Firstly, it's important that you're on time."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈɛʁstəns",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,27 @@
+{
+    "word": "gespielt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "spielen",
+    "translation": "played",
+    "example_sentences": [
+        {
+            "de": "Ich habe gestern Fußball gespielt.",
+            "en": "I played soccer yesterday."
+        },
+        {
+            "de": "Sie hat Klavier gespielt.",
+            "en": "She played the piano."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈʃpiːlt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "spielt",
+    "past_perfect": "hat gespielt",
+    "preterite": "spielte",
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "befinden",
+    "gender": "n",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to be located, to feel",
+    "example_sentences": [
+        {
+            "de": "Ich befinde mich in Berlin.",
+            "en": "I am located in Berlin."
+        },
+        {
+            "de": "Wie befinden Sie sich?",
+            "en": "How are you feeling?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈfɪndən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "befindet",
+    "past_perfect": "hat befunden",
+    "preterite": "befand",
+    "frequency_scale": 8
+}

@@ -1,0 +1,27 @@
+{
+    "word": "gestalten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "gestalten",
+    "translation": "to shape, to design",
+    "example_sentences": [
+        {
+            "de": "Er gestaltet seine Wohnung neu.",
+            "en": "He is redesigning his apartment."
+        },
+        {
+            "de": "Sie gestaltet ihre Arbeit selbst.",
+            "en": "She shapes her work herself."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈʃtaltən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gestaltet",
+    "past_perfect": "gestaltet",
+    "preterite": "gestaltete",
+    "frequency_scale": 8
+}

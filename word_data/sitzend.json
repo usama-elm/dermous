@@ -1,0 +1,26 @@
+{
+    "word": "sitzend",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "sitting",
+    "example_sentences": [
+        {
+            "de": "Die Katze ist sitzend auf dem Fensterbrett.",
+            "en": "The cat is sitting on the windowsill."
+        },
+        {
+            "de": "Er hat eine sitzende Tätigkeit.",
+            "en": "He has a sitting job."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈzɪtsənt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

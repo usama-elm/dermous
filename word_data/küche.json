@@ -1,0 +1,21 @@
+{
+    "word": "küche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "kitchen",
+    "example_sentences": [
+        {
+            "de": "Ich koche gerne in meiner Küche.",
+            "en": "I like to cook in my kitchen."
+        },
+        {
+            "de": "Die Küche ist das Herz des Hauses.",
+            "en": "The kitchen is the heart of the home."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈkʏçə",
+    "difficulty_level": "A1",
+    "irregular_verb": false
+}

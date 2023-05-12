@@ -1,0 +1,27 @@
+{
+    "word": "gelebt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "leben",
+    "translation": "lived",
+    "example_sentences": [
+        {
+            "de": "Ich habe mein Leben gelebt.",
+            "en": "I have lived my life."
+        },
+        {
+            "de": "Er hat in Paris gelebt.",
+            "en": "He lived in Paris."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈlɛpt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "lebt",
+    "past_perfect": "hat gelebt",
+    "preterite": "lebte",
+    "frequency_scale": 7
+}

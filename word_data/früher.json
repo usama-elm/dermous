@@ -1,0 +1,26 @@
+{
+    "word": "früher",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "earlier",
+    "example_sentences": [
+        {
+            "de": "Ich bin früher aufgestanden.",
+            "en": "I got up earlier."
+        },
+        {
+            "de": "Früher war alles besser.",
+            "en": "Everything was better earlier."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈfʁyːɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

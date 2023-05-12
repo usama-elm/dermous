@@ -1,0 +1,22 @@
+{
+    "word": "spricht",
+    "gender": "m",
+    "article": "der",
+    "word_type": "verb",
+    "infinitive": "sprechen",
+    "translation": "speaks",
+    "example_sentences": [
+        "Er spricht fließend Deutsch.",
+        "Sie spricht mit ihrer Freundin am Telefon.",
+        "Mein Vater spricht kein Englisch."
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ʃpʁɪçt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "spricht",
+    "past_perfect": "hat gesprochen",
+    "preterite": "sprach",
+    "frequency_scale": 7
+}

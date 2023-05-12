@@ -1,0 +1,26 @@
+{
+    "word": "sieg",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "victory",
+    "example_sentences": [
+        {
+            "de": "Der Sieg war hart erkämpft.",
+            "en": "The victory was hard-fought."
+        },
+        {
+            "de": "Die Mannschaft feierte ihren Sieg ausgelassen.",
+            "en": "The team celebrated their victory exuberantly."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ziːk/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "jährlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "annually",
+    "example_sentences": [
+        {
+            "de": "Die Miete wird jährlich erhöht.",
+            "en": "The rent is increased annually."
+        },
+        {
+            "de": "Jährlich findet das Oktoberfest in München statt.",
+            "en": "The Oktoberfest takes place annually in Munich."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈjɛːɐ̯lɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

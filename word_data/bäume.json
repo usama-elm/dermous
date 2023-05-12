@@ -1,0 +1,26 @@
+{
+    "word": "bäume",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "trees",
+    "example_sentences": [
+        {
+            "de": "Die Bäume im Park sind sehr groß.",
+            "en": "The trees in the park are very tall."
+        },
+        {
+            "de": "Im Herbst verlieren die Bäume ihre Blätter.",
+            "en": "In autumn, the trees lose their leaves."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈbɔɪmə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

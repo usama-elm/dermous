@@ -1,0 +1,26 @@
+{
+    "word": "wodurch",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "through which",
+    "example_sentences": [
+        {
+            "de": "Wodurch hast du das geschafft?",
+            "en": "Through which means did you manage to do that?"
+        },
+        {
+            "de": "Wodurch unterscheidet sich das von anderen Produkten?",
+            "en": "Through which does this differ from other products?"
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "voˈdʊʁç",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

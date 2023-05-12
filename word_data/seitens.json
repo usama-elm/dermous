@@ -1,0 +1,26 @@
+{
+    "word": "seitens",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "preposition",
+    "translation": "on the part of",
+    "example_sentences": [
+        {
+            "de": "Seitens des Unternehmens gab es keine Kommentare.",
+            "en": "The company had no comments on its part."
+        },
+        {
+            "de": "Seitens der Regierung wurden Maßnahmen ergriffen.",
+            "en": "Measures were taken on the part of the government."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "/ˈzaɪ̯tn̩s/",
+    "verb_auxiliary": "",
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3ps": "",
+    "past_participle": "",
+    "preterite": "",
+    "frequency_over_10": 3
+}

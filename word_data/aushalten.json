@@ -1,0 +1,20 @@
+{
+    "word": "aushalten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to endure, to withstand",
+    "example_sentences": [
+        "Ich kann diese Schmerzen nicht mehr aushalten. (I can't endure this pain anymore.)",
+        "Er hat es nicht lange ausgehalten. (He didn't withstand it for long.)"
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaʊ̯sˌhaltn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "hält aus",
+    "past_perfect": "hat ausgehalten",
+    "preterite": "hielt aus",
+    "frequency": 6
+}

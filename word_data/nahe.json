@@ -1,0 +1,26 @@
+{
+    "word": "nahe",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "near",
+    "example_sentences": [
+        {
+            "de": "Ich wohne nahe der Stadtmitte.",
+            "en": "I live near the city center."
+        },
+        {
+            "de": "Die Schule ist nicht weit von hier, sie ist ganz nah.",
+            "en": "The school is not far from here, it's very close."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈnaːə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

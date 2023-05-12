@@ -1,0 +1,26 @@
+{
+    "word": "öffnet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "öffnen",
+    "translation": "opens",
+    "example_sentences": [
+        {
+            "de": "Er öffnet die Tür.",
+            "en": "He opens the door."
+        },
+        {
+            "de": "Sie öffnet das Fenster.",
+            "en": "She opens the window."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈœfnət/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "öffnet",
+    "past_perfect": "hat geöffnet",
+    "preterite": "öffnete",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "nachbarn",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "neighbor",
+    "example_sentences": [
+        {
+            "de": "Meine Nachbarn sind sehr freundlich.",
+            "en": "My neighbors are very friendly."
+        },
+        {
+            "de": "Ich habe mich mit meinem Nachbarn gestritten.",
+            "en": "I had an argument with my neighbor."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈnaːpbaʁn/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

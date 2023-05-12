@@ -1,0 +1,26 @@
+{
+    "word": "durch",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "preposition",
+    "translation": "through",
+    "example_sentences": [
+        {
+            "de": "Ich gehe durch den Park.",
+            "en": "I walk through the park."
+        },
+        {
+            "de": "Das Auto fährt durch die Stadt.",
+            "en": "The car drives through the city."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/dʊʁç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

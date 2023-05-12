@@ -1,0 +1,26 @@
+{
+    "word": "betrieb",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "operation",
+    "example_sentences": [
+        {
+            "de": "Der Betrieb läuft reibungslos.",
+            "en": "The operation runs smoothly."
+        },
+        {
+            "de": "Der Betrieb wurde eingestellt.",
+            "en": "The operation was shut down."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈtʁiːp/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

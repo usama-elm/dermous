@@ -1,0 +1,26 @@
+{
+    "word": "seligkeit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "bliss",
+    "example_sentences": [
+        {
+            "de": "Die Seligkeit, die sie empfand, als sie ihn wiedersah, war unbeschreiblich.",
+            "en": "The bliss she felt when she saw him again was indescribable."
+        },
+        {
+            "de": "In der Seligkeit des Augenblicks vergaß er alle Sorgen.",
+            "en": "In the bliss of the moment, he forgot all his worries."
+        }
+    ],
+    "usage_frequency": 2,
+    "ipa": "/zeˈlɪçkaɪt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 2
+}

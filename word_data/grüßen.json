@@ -1,0 +1,26 @@
+{
+    "word": "grüßen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to greet",
+    "example_sentences": [
+        {
+            "de": "Ich grüße dich herzlich.",
+            "en": "I greet you warmly."
+        },
+        {
+            "de": "Er grüßt immer freundlich.",
+            "en": "He always greets in a friendly manner."
+        }
+    ],
+    "usage_frequency": 8,
+    "IPA": "ˈɡʁyːsn̩",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "grüßt",
+    "past_perfect": "gegrüßt",
+    "preterite": "grüßte",
+    "frequency_scale": 7
+}

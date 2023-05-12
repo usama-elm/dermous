@@ -1,0 +1,26 @@
+{
+    "word": "schlug",
+    "gender": "m",
+    "article": "der",
+    "word_type": "schlagen",
+    "translation": "hit, struck",
+    "example_sentences": [
+        {
+            "de": "Er schlug die Tür zu.",
+            "en": "He slammed the door shut."
+        },
+        {
+            "de": "Sie schlugen ihn nieder.",
+            "en": "They knocked him down."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ʃluːk/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schlägt",
+    "past_perfect": "geschlagen",
+    "preterite": "schlug",
+    "frequency_scale": 8
+}

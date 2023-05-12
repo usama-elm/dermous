@@ -1,0 +1,26 @@
+{
+    "word": "möchte",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "möchten",
+    "translation": "would like",
+    "example_sentences": [
+        {
+            "de": "Ich möchte ein Bier, bitte.",
+            "en": "I would like a beer, please."
+        },
+        {
+            "de": "Er möchte gerne ins Kino gehen.",
+            "en": "He would like to go to the cinema."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈmœçtə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": "möchte",
+    "past_perfect": "gemocht",
+    "preterite": "mochte",
+    "frequency": 9
+}

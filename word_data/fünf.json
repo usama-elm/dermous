@@ -1,0 +1,26 @@
+{
+    "word": "fünf",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "number",
+    "translation": "five",
+    "example_sentences": [
+        {
+            "de": "Ich habe fünf Äpfel gekauft.",
+            "en": "I bought five apples."
+        },
+        {
+            "de": "Es sind fünf Personen im Raum.",
+            "en": "There are five people in the room."
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa": "fʏnf",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 10
+}

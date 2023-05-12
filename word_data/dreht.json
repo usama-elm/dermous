@@ -1,0 +1,27 @@
+{
+    "word": "dreht",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "drehen",
+    "translation": "to turn",
+    "example_sentences": [
+        {
+            "de": "Er dreht den Schlüssel im Schloss.",
+            "en": "He turns the key in the lock."
+        },
+        {
+            "de": "Sie dreht sich um und geht weg.",
+            "en": "She turns around and walks away."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/dʁeːt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "dreht",
+    "past_perfect": "gedreht",
+    "preterite": "drehte",
+    "frequency_scale": 8
+}

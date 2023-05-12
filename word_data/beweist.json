@@ -1,0 +1,20 @@
+{
+    "word": "beweist",
+    "gender": "m",
+    "article": "der",
+    "word_type": "beweisen",
+    "translation": "proves",
+    "example_sentences": [
+        "Er beweist seine Unschuld.",
+        "Sie beweist ihre Fähigkeiten bei der Arbeit."
+    ],
+    "usage_frequency": 7,
+    "IPA": "bəˈvaɪ̯st",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "beweist",
+    "past_perfect": "hat bewiesen",
+    "preterite": "bewies",
+    "frequency": 6
+}

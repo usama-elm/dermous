@@ -1,0 +1,26 @@
+{
+    "word": "schlage",
+    "gender": "f",
+    "article": "die",
+    "word_type": "schlagen",
+    "translation": "beat",
+    "example_sentences": [
+        {
+            "de": "Ich schlage den Teppich aus.",
+            "en": "I beat the carpet."
+        },
+        {
+            "de": "Er schlägt seinen Gegner nieder.",
+            "en": "He beats down his opponent."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈʃlaːɡə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_form_singular": "schlägt",
+    "past_perfect": "geschlagen",
+    "preterite": "schlug",
+    "frequency_scale": 9
+}

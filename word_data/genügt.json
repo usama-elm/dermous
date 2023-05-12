@@ -1,0 +1,22 @@
+{
+    "word": "genügt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "genügen",
+    "translation": "suffices",
+    "example_sentences": [
+        "Es genügt nicht, nur zu reden.",
+        "Eine Unterschrift genügt als Vertrag.",
+        "Das genügt mir vollkommen."
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈnyːkt",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "genügt",
+    "past_perfect": "genügt",
+    "preterite": "genügte",
+    "frequency_scale": 8
+}

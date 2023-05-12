@@ -1,0 +1,26 @@
+{
+    "word": "zehn",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "number",
+    "translation": "ten",
+    "example_sentences": [
+        {
+            "de": "Ich habe zehn Äpfel gekauft.",
+            "en": "I bought ten apples."
+        },
+        {
+            "de": "Die Prüfung dauert zehn Stunden.",
+            "en": "The exam lasts ten hours."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/tseːn/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

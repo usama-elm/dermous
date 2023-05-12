@@ -1,0 +1,26 @@
+{
+    "word": "wolltest",
+    "gender": "m",
+    "article": "der",
+    "word_type": "wollen",
+    "translation": "wanted",
+    "example_sentences": [
+        {
+            "de": "Du wolltest doch gestern mit uns ins Kino gehen.",
+            "en": "You wanted to go to the cinema with us yesterday."
+        },
+        {
+            "de": "Ich wollte eigentlich schon längst im Bett sein.",
+            "en": "I actually wanted to be in bed a long time ago."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈvɔltəst",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "will",
+    "past_perfect": "gewollt",
+    "preterite": "wollte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,21 @@
+{
+    "word": "körper",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "body",
+    "example_sentences": [
+        {
+            "de": "Ich habe Schmerzen im ganzen Körper.",
+            "en": "I have pain all over my body."
+        },
+        {
+            "de": "Er hat einen durchtrainierten Körper.",
+            "en": "He has a well-trained body."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈkœʁpɐ",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

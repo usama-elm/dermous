@@ -1,0 +1,20 @@
+{
+    "word": "genötigt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "genötigt (infinitive: nötigen)",
+    "translation": "compelled, forced",
+    "example_sentences": [
+        "Ich fühle mich genötigt, etwas zu sagen. (I feel compelled to say something.)",
+        "Er war genötigt, seine Meinung zu ändern. (He was forced to change his opinion.)"
+    ],
+    "usage_frequency": 5,
+    "ipa": "ɡəˈnœtɪkt",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B2",
+    "irregular": true,
+    "present_3rd_singular": "nötigt",
+    "past_perfect": "genötigt",
+    "preterite": "nötigte",
+    "frequency_scale": 6
+}

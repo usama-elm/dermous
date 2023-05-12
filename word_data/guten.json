@@ -1,0 +1,26 @@
+{
+    "word": "guten",
+    "gender": "m",
+    "article": "der",
+    "word_type": "adjective",
+    "translation": "good",
+    "example_sentences": [
+        {
+            "de": "Das ist ein guter Film.",
+            "en": "This is a good movie."
+        },
+        {
+            "de": "Ich habe eine gute Idee.",
+            "en": "I have a good idea."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "ˈɡuːtn̩",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

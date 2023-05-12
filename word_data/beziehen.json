@@ -1,0 +1,21 @@
+{
+    "word": "beziehen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to refer to, to relate to, to draw, to move in, to take up, to receive, to obtain",
+    "example_sentences": [
+        "Ich beziehe mich auf den Artikel von gestern. (I refer to yesterday's article.)",
+        "Er bezieht seine Informationen aus dem Internet. (He gets his information from the internet.)",
+        "Wir beziehen unsere Energie aus erneuerbaren Quellen. (We draw our energy from renewable sources.)"
+    ],
+    "usage_frequency": 7,
+    "IPA": "/bəˈt͡siːən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "bezieht",
+    "past_perfect": "hat bezogen",
+    "preterite": "bezog",
+    "frequency_scale": 8
+}

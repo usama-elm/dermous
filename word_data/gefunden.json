@@ -1,0 +1,27 @@
+{
+    "word": "gefunden",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "finden",
+    "translation": "found",
+    "example_sentences": [
+        {
+            "de": "Ich habe mein Portemonnaie gefunden.",
+            "en": "I found my wallet."
+        },
+        {
+            "de": "Sie hat ihre Schlüssel gefunden.",
+            "en": "She found her keys."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈfʊndən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "findet",
+    "past_perfect": "hat gefunden",
+    "preterite": "fand",
+    "frequency_scale": 7
+}

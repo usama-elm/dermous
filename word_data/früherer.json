@@ -1,0 +1,26 @@
+{
+    "word": "früherer",
+    "gender": "m",
+    "article": "der",
+    "word_type": "adjective",
+    "translation": "former",
+    "example_sentences": [
+        {
+            "de": "Mein früherer Chef war sehr streng.",
+            "en": "My former boss was very strict."
+        },
+        {
+            "de": "Ich vermisse meine früheren Freunde.",
+            "en": "I miss my former friends."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ˈfʀyːɐʀɐ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

@@ -1,0 +1,26 @@
+{
+    "word": "fortwährend",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "continuously",
+    "example_sentences": [
+        {
+            "de": "Er arbeitet fortwährend an seinem Projekt.",
+            "en": "He is continuously working on his project."
+        },
+        {
+            "de": "Die Maschine läuft fortwährend.",
+            "en": "The machine runs continuously."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈfɔʁtˌvɛːʁənt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

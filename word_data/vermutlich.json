@@ -1,0 +1,26 @@
+{
+    "word": "vermutlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "presumably",
+    "example_sentences": [
+        {
+            "de": "Vermutlich wird es morgen regnen.",
+            "en": "Presumably it will rain tomorrow."
+        },
+        {
+            "de": "Ich werde vermutlich später kommen.",
+            "en": "I will presumably come later."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "fɛɐ̯ˈmʊtlɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

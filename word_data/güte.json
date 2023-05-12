@@ -1,0 +1,21 @@
+{
+    "word": "güte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "goodness",
+    "example_sentences": [
+        {
+            "de": "Die Güte deines Herzens ist bewundernswert.",
+            "en": "The goodness of your heart is admirable."
+        },
+        {
+            "de": "Ich schätze die Güte deiner Hilfe sehr.",
+            "en": "I appreciate the goodness of your help very much."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈɡyːtə",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

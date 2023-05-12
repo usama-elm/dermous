@@ -1,0 +1,20 @@
+{
+    "word": "viertel",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "quarter",
+    "example_sentences": [
+        "Ich habe ein Viertel des Kuchens gegessen. (I ate a quarter of the cake.)",
+        "Das Spiel ist im letzten Viertel. (The game is in the last quarter.)"
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈfɪɐ̯tl̩",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

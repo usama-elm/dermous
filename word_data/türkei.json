@@ -1,0 +1,26 @@
+{
+    "word": "türkei",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "Turkey",
+    "example_sentences": [
+        {
+            "de": "Ich war letzten Sommer in der Türkei.",
+            "en": "I was in Turkey last summer."
+        },
+        {
+            "de": "Die Türkei ist ein beliebtes Reiseziel.",
+            "en": "Turkey is a popular travel destination."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈtʏʁkaɪ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

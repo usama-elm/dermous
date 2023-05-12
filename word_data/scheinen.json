@@ -1,0 +1,26 @@
+{
+    "word": "scheinen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to shine, seem",
+    "example_sentences": [
+        {
+            "de": "Die Sonne scheint heute sehr hell.",
+            "en": "The sun is shining very brightly today."
+        },
+        {
+            "de": "Es scheint, als ob es gleich regnen wird.",
+            "en": "It seems like it's going to rain soon."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈʃaɪ̯nən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "scheint",
+    "past_perfect": "hat geschienen",
+    "preterite": "schien",
+    "frequency_scale": 7
+}

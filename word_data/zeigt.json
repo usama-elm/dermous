@@ -1,0 +1,27 @@
+{
+    "word": "zeigt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "zeigen",
+    "translation": "shows",
+    "example_sentences": [
+        {
+            "de": "Er zeigt mir den Weg.",
+            "en": "He shows me the way."
+        },
+        {
+            "de": "Sie zeigt ihm das Bild.",
+            "en": "She shows him the picture."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈʦaɪ̯kt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "zeigt",
+    "past_perfect": "gezeigt",
+    "preterite": "zeigte",
+    "frequency_scale": 7
+}

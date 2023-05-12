@@ -1,0 +1,26 @@
+{
+    "word": "leicht",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "easy, light",
+    "example_sentences": [
+        {
+            "de": "Das ist leicht zu verstehen.",
+            "en": "That's easy to understand."
+        },
+        {
+            "de": "Ich habe ein leichtes Gefühl im Magen.",
+            "en": "I have a light feeling in my stomach."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/laɪçt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

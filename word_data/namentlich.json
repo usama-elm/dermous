@@ -1,0 +1,26 @@
+{
+    "word": "namentlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "namely",
+    "example_sentences": [
+        {
+            "de": "Ich habe drei Lieblingsfarben, namentlich Rot, Blau und Grün.",
+            "en": "I have three favorite colors, namely red, blue, and green."
+        },
+        {
+            "de": "Die Veranstaltung wird von drei Referenten geleitet, namentlich Frau Müller, Herr Schmidt und Frau Wagner.",
+            "en": "The event will be led by three speakers, namely Ms. Müller, Mr. Schmidt, and Ms. Wagner."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa_code": "/naˈmɛntlɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

@@ -1,0 +1,27 @@
+{
+    "word": "zurückkehren",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "zurückkehren",
+    "translation": "to return",
+    "example_sentences": [
+        {
+            "de": "Ich werde nächste Woche nach Hause zurückkehren.",
+            "en": "I will return home next week."
+        },
+        {
+            "de": "Er kehrte nach dem Urlaub wieder zurück zur Arbeit.",
+            "en": "He returned to work after the vacation."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/t͡sʊrʏkˈkeːʁən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "kehrt zurück",
+    "past_perfect": "zurückgekehrt",
+    "preterite": "kehrte zurück",
+    "frequency_scale": 8
+}

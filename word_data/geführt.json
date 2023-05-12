@@ -1,0 +1,26 @@
+{
+    "word": "geführt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "führen",
+    "translation": "led",
+    "example_sentences": [
+        {
+            "de": "Er hat das Team zum Sieg geführt.",
+            "en": "He led the team to victory."
+        },
+        {
+            "de": "Die Tour wird von einem erfahrenen Guide geführt.",
+            "en": "The tour is led by an experienced guide."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ɡəˈfyːɐ̯t/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "führt",
+    "past_perfect": "geführt gehabt",
+    "preterite": "führte",
+    "frequency_scale": 7
+}

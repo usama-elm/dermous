@@ -1,0 +1,26 @@
+{
+    "word": "einiger",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjective",
+    "translation": "some",
+    "example_sentences": [
+        {
+            "de": "Einige Leute mögen Kaffee, andere mögen Tee.",
+            "en": "Some people like coffee, others like tea."
+        },
+        {
+            "de": "Ich habe ein paar einigermaßen gute Ideen.",
+            "en": "I have some fairly good ideas."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ˈaɪ̯nɪɡɐ",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

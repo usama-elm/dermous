@@ -1,0 +1,27 @@
+{
+    "word": "rufen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "rufen",
+    "translation": "to call",
+    "example_sentences": [
+        {
+            "de": "Ich rufe dich später an.",
+            "en": "I'll call you later."
+        },
+        {
+            "de": "Er ruft seinen Hund.",
+            "en": "He calls his dog."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈʁuːfn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ruft",
+    "past_perfect": "gerufen",
+    "preterite": "rief",
+    "frequency": 7
+}

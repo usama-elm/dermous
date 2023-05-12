@@ -1,0 +1,26 @@
+{
+    "word": "erhebung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "survey",
+    "example_sentences": [
+        {
+            "de": "Die Erhebung der Daten dauerte mehrere Wochen.",
+            "en": "The survey of the data took several weeks."
+        },
+        {
+            "de": "Die Erhebung von Steuern ist eine wichtige Aufgabe des Staates.",
+            "en": "The collection of taxes is an important task of the state."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ɛɐ̯ˈheːbʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

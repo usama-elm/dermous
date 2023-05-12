@@ -1,0 +1,26 @@
+{
+    "word": "solltest",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "sollen",
+    "translation": "should",
+    "example_sentences": [
+        {
+            "de": "Du solltest mehr Sport treiben.",
+            "en": "You should do more sports."
+        },
+        {
+            "de": "Ich denke, du solltest ihm eine Chance geben.",
+            "en": "I think you should give him a chance."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈzɔləst/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "soll",
+    "past_perfect": "gesollt",
+    "preterite": "solltest",
+    "frequency_scale": 8
+}

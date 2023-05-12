@@ -1,0 +1,21 @@
+{
+    "word": "wüste",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "desert",
+    "example_sentences": [
+        {
+            "de": "Die Sahara ist eine große Wüste in Afrika.",
+            "en": "The Sahara is a large desert in Africa."
+        },
+        {
+            "de": "In der Wüste gibt es kaum Wasser.",
+            "en": "There is hardly any water in the desert."
+        }
+    ],
+    "usage_frequency": 4,
+    "ipa": "ˈvʏstə",
+    "difficulty_level": "A1",
+    "irregular_verb": false
+}

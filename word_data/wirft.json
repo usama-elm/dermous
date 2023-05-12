@@ -1,0 +1,26 @@
+{
+    "word": "wirft",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Infinitive",
+    "translation": "throws",
+    "example_sentences": [
+        {
+            "de": "Er wirft den Ball.",
+            "en": "He throws the ball."
+        },
+        {
+            "de": "Sie wirft einen Blick auf die Uhr.",
+            "en": "She casts a glance at the clock."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/vɪʁft/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wirft",
+    "past_perfect": "geworfen",
+    "preterite": "warf",
+    "frequency_scale": 8
+}

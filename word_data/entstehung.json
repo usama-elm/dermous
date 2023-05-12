@@ -1,0 +1,21 @@
+{
+    "word": "entstehung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "origin",
+    "example_sentences": [
+        {
+            "de": "Die Entstehung des Universums ist ein Rätsel.",
+            "en": "The origin of the universe is a mystery."
+        },
+        {
+            "de": "Die Entstehung des Buches war sehr schwierig.",
+            "en": "The origin of the book was very difficult."
+        }
+    ],
+    "usage_frequency": 5,
+    "IPA": "ɛntˈʃteːʊŋ",
+    "difficulty_level": "B1",
+    "error": null
+}

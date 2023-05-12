@@ -1,0 +1,26 @@
+{
+    "word": "einerlei",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "all the same",
+    "example_sentences": [
+        {
+            "sentence": "Mir ist es einerlei, was wir heute Abend machen.",
+            "translation": "It's all the same to me what we do tonight."
+        },
+        {
+            "sentence": "Egal, ob du Tee oder Kaffee trinkst, es ist mir einerlei.",
+            "translation": "Whether you drink tea or coffee, it's all the same to me."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "ˈaɪ̯nɐlaɪ̯",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 3
+}

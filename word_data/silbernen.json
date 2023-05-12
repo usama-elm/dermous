@@ -1,0 +1,26 @@
+{
+    "word": "silbernen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "silver",
+    "example_sentences": [
+        {
+            "de": "Ich habe eine silberne Uhr.",
+            "en": "I have a silver watch."
+        },
+        {
+            "de": "Die silbernen Löffel sind sehr schön.",
+            "en": "The silver spoons are very beautiful."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈzɪlbɐnən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

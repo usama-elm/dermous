@@ -1,0 +1,27 @@
+{
+    "word": "abgesehen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "absehen",
+    "translation": "apart from",
+    "example_sentences": [
+        {
+            "de": "Abgesehen von ein paar Kleinigkeiten war das Essen sehr gut.",
+            "en": "Apart from a few small things, the food was very good."
+        },
+        {
+            "de": "Abgesehen davon, dass es sehr teuer ist, ist das Hotel sehr schön.",
+            "en": "Apart from the fact that it's very expensive, the hotel is very nice."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/apɡəˈzeːən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "sieht ab",
+    "past_perfect": "hat abgesehen",
+    "preterite": "sah ab",
+    "frequency_scale": 7
+}

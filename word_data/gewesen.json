@@ -1,0 +1,27 @@
+{
+    "word": "gewesen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "sein",
+    "translation": "been",
+    "example_sentences": [
+        {
+            "de": "Ich bin gestern im Park gewesen.",
+            "en": "I was in the park yesterday."
+        },
+        {
+            "de": "Er ist schon oft in Berlin gewesen.",
+            "en": "He has been to Berlin many times."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ɡəˈveːzn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ist",
+    "past_perfect": "gewesen",
+    "preterite": "war",
+    "frequency_scale": 9
+}

@@ -1,0 +1,26 @@
+{
+    "word": "eingetreten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "infinitive",
+    "translation": "entered",
+    "example_sentences": [
+        {
+            "de": "Ich bin in den Raum eingetreten.",
+            "en": "I entered the room."
+        },
+        {
+            "de": "Er ist in die Partei eingetreten.",
+            "en": "He joined the party."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaɪnɡəˌtʁeːtn̩/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "tritt ein",
+    "past_perfect": "eingetreten",
+    "preterite": "trat ein",
+    "frequency_scale": 8
+}

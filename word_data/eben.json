@@ -1,0 +1,26 @@
+{
+    "word": "eben",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "just, exactly",
+    "example_sentences": [
+        {
+            "de": "Ich war eben beim Arzt.",
+            "en": "I was just at the doctor's."
+        },
+        {
+            "de": "Das ist eben so.",
+            "en": "That's just how it is."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "ˈeːbn̩",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

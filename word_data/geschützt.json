@@ -1,0 +1,26 @@
+{
+    "word": "geschützt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "geschützt",
+    "translation": "protected",
+    "example_sentences": [
+        {
+            "de": "Das Naturschutzgebiet ist geschützt.",
+            "en": "The nature reserve is protected."
+        },
+        {
+            "de": "Die Daten sind durch ein Passwort geschützt.",
+            "en": "The data is protected by a password."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈʃʏts(t)",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": null
+}

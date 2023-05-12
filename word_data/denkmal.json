@@ -1,0 +1,26 @@
+{
+    "word": "denkmal",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "monument",
+    "example_sentences": [
+        {
+            "de": "Das Denkmal steht im Zentrum des Platzes.",
+            "en": "The monument stands in the center of the square."
+        },
+        {
+            "de": "Das Denkmal erinnert an die Opfer des Krieges.",
+            "en": "The monument commemorates the victims of the war."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈdɛŋkmaːl/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

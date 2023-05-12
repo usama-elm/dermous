@@ -1,0 +1,26 @@
+{
+    "word": "leichten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "leichten",
+    "translation": "to lighten",
+    "example_sentences": [
+        {
+            "de": "Ich möchte meine Haare leichten lassen.",
+            "en": "I want to lighten my hair."
+        },
+        {
+            "de": "Die Wolken leichten langsam auf.",
+            "en": "The clouds are slowly clearing up."
+        }
+    ],
+    "usage_frequency": 5,
+    "ipa_code": "/ˈlaɪçtn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "leichtet",
+    "past_perfect": "geleichtet",
+    "preterite": "leichtete",
+    "frequency_scale": 7
+}

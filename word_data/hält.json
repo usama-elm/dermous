@@ -1,0 +1,20 @@
+{
+    "word": "hält",
+    "gender": "m",
+    "article": "der",
+    "word_type": "halten",
+    "translation": "holds",
+    "example_sentences": [
+        "Er hält das Buch in der Hand. (He holds the book in his hand.)",
+        "Sie hält sich fit durch Sport. (She keeps fit through exercise.)"
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/hɛlt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "hält",
+    "past_perfect": "gehalten",
+    "preterite": "hielt",
+    "frequency_scale": 8
+}

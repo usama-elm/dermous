@@ -1,0 +1,21 @@
+{
+    "word": "Bande",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "gang, group",
+    "example_sentences": [
+        {
+            "de": "Die Bande hat einen Banküberfall begangen.",
+            "en": "The gang committed a bank robbery."
+        },
+        {
+            "de": "Er gehört zu einer Bande von Dieben.",
+            "en": "He belongs to a gang of thieves."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈbantə",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

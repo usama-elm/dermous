@@ -1,0 +1,26 @@
+{
+    "word": "erfuhr",
+    "gender": "m",
+    "article": "der",
+    "word_type": "erfahren",
+    "translation": "to experience",
+    "example_sentences": [
+        {
+            "de": "Ich habe viel über ihn erfahren.",
+            "en": "I learned a lot about him."
+        },
+        {
+            "de": "Er hat in seinem Leben viel Leid erfahren.",
+            "en": "He has experienced a lot of suffering in his life."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐ̯ˈfuːɐ̯/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erfährt",
+    "past_perfect": "erfahren",
+    "preterite": "erfuhr",
+    "frequency_scale": 8
+}

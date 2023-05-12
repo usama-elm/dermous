@@ -1,0 +1,26 @@
+{
+    "word": "bestimmte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "bestimmen",
+    "translation": "certain",
+    "example_sentences": [
+        {
+            "de": "Ich habe eine bestimmte Vorstellung davon, wie es sein sollte.",
+            "en": "I have a certain idea of how it should be."
+        },
+        {
+            "de": "Er hat eine bestimmte Art, Dinge zu erklären.",
+            "en": "He has a certain way of explaining things."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈʃtɪm.tə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "wirken",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to have an effect",
+    "example_sentences": [
+        {
+            "de": "Die Medizin wirkt schnell.",
+            "en": "The medicine has a quick effect."
+        },
+        {
+            "de": "Seine Worte haben auf mich gewirkt.",
+            "en": "His words had an effect on me."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈvɪʁkən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wirkt",
+    "past_perfect": "gewirkt",
+    "preterite": "wirkte",
+    "frequency_scale": 8
+}

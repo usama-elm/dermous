@@ -1,0 +1,26 @@
+{
+    "word": "keinerlei",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "pronoun",
+    "translation": "none whatsoever",
+    "example_sentences": [
+        {
+            "de": "Ich habe keinerlei Interesse an diesem Angebot.",
+            "en": "I have no interest whatsoever in this offer."
+        },
+        {
+            "de": "Es gibt keinerlei Beweise für diese Behauptung.",
+            "en": "There is no evidence whatsoever for this claim."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈkaɪ̯nɐlaɪ̯/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

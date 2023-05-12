@@ -1,0 +1,26 @@
+{
+    "word": "begründet",
+    "gender": "f",
+    "article": "die",
+    "word_type": "begründen",
+    "translation": "justified",
+    "example_sentences": [
+        {
+            "de": "Die Entscheidung war begründet.",
+            "en": "The decision was justified."
+        },
+        {
+            "de": "Er hat seine Meinung gut begründet.",
+            "en": "He justified his opinion well."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "bəˈɡʁʏntət",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "begründet",
+    "past_perfect": "hat begründet",
+    "preterite": "begründete",
+    "frequency_scale": 8
+}

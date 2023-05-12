@@ -1,0 +1,30 @@
+{
+    "word": "ziehen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to pull",
+    "example_sentences": [
+        {
+            "de": "Ich ziehe an der Tür.",
+            "en": "I pull on the door."
+        },
+        {
+            "de": "Er zieht seine Jacke aus.",
+            "en": "He takes off his jacket."
+        },
+        {
+            "de": "Wir ziehen um.",
+            "en": "We move (to a new place)."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈtsiːən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "zieht",
+    "past_perfect": "gezogen",
+    "preterite": "zog",
+    "frequency_scale": 7
+}

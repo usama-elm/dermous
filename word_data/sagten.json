@@ -1,0 +1,27 @@
+{
+    "word": "sagten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "sagen",
+    "translation": "said",
+    "example_sentences": [
+        {
+            "de": "Sie sagten, dass sie später kommen würden.",
+            "en": "They said they would come later."
+        },
+        {
+            "de": "Wir sagten ihm, dass er vorsichtig sein sollte.",
+            "en": "We told him to be careful."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈzaːɡtən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "sagt",
+    "past_perfect": "gesagt",
+    "preterite": "sagten",
+    "frequency_scale": 7
+}

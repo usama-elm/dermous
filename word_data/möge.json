@@ -1,0 +1,27 @@
+{
+    "word": "möge",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "mögen",
+    "translation": "may",
+    "example_sentences": [
+        {
+            "de": "Möge die Macht mit dir sein.",
+            "en": "May the force be with you."
+        },
+        {
+            "de": "Möge dein Wunsch in Erfüllung gehen.",
+            "en": "May your wish come true."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈmøːɡə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "mögt",
+    "past_perfect": "gemocht",
+    "preterite": "mochte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "befestigt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "befestigen",
+    "translation": "secured",
+    "example_sentences": [
+        {
+            "de": "Die Mauer wurde mit Stahlträgern befestigt.",
+            "en": "The wall was secured with steel beams."
+        },
+        {
+            "de": "Ich habe das Regal an der Wand befestigt.",
+            "en": "I secured the shelf to the wall."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈfɛstɪçt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "befestigt",
+    "past_perfect": "hat befestigt",
+    "preterite": "befestigte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,21 @@
+{
+    "word": "durchmesser",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "diameter",
+    "example_sentences": [
+        {
+            "de": "Der Durchmesser des Kreises beträgt 10 cm.",
+            "en": "The diameter of the circle is 10 cm."
+        },
+        {
+            "de": "Der Durchmesser des Rohrs ist zu groß.",
+            "en": "The diameter of the pipe is too large."
+        }
+    ],
+    "usage_frequency": 7.5,
+    "ipa": "/ˈdʊʁçmeːsɐ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

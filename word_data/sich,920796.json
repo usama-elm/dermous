@@ -1,0 +1,26 @@
+{
+    "word": "sich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "pronoun",
+    "translation": "oneself",
+    "example_sentences": [
+        {
+            "de": "Ich wasche mich.",
+            "en": "I wash myself."
+        },
+        {
+            "de": "Er hat sich verletzt.",
+            "en": "He has hurt himself."
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa": "/zɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 9
+}

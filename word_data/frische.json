@@ -1,0 +1,26 @@
+{
+    "word": "frische",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Adjective",
+    "translation": "fresh",
+    "example_sentences": [
+        {
+            "de": "Ich kaufe immer frische Milch.",
+            "en": "I always buy fresh milk."
+        },
+        {
+            "de": "Die Blumen brauchen frische Luft.",
+            "en": "The flowers need fresh air."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈfʁɪʃə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

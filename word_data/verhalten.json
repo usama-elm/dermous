@@ -1,0 +1,27 @@
+{
+    "word": "verhalten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "verhalten",
+    "translation": "to behave",
+    "example_sentences": [
+        {
+            "de": "Ich verhalte mich ruhig.",
+            "en": "I behave quietly."
+        },
+        {
+            "de": "Wie verhältst du dich in dieser Situation?",
+            "en": "How do you behave in this situation?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/fɛɐ̯ˈhaːltn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verhält",
+    "past_perfect": "hat verhalten",
+    "preterite": "verhielt",
+    "frequency_scale": 8
+}

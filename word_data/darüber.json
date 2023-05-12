@@ -1,0 +1,20 @@
+{
+    "word": "darüber",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "about it",
+    "example_sentences": [
+        "Ich habe gestern mit ihm darüber gesprochen. (I talked to him about it yesterday.)",
+        "Wir müssen noch einmal darüber nachdenken. (We need to think about it again.)"
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/daˈʁyːbɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

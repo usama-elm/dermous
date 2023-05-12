@@ -1,0 +1,26 @@
+{
+    "word": "provinzen",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "provinces",
+    "example_sentences": [
+        {
+            "de": "Die Provinzen sind in Deutschland in Regierungsbezirke unterteilt.",
+            "en": "The provinces in Germany are divided into administrative districts."
+        },
+        {
+            "de": "Die Provinzen Kanadas sind sehr unterschiedlich.",
+            "en": "The provinces of Canada are very diverse."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/pʁoˈvɪnt͡sn̩/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

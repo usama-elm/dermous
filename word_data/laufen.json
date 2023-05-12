@@ -1,0 +1,27 @@
+{
+    "word": "laufen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "laufen",
+    "translation": "to run",
+    "example_sentences": [
+        {
+            "de": "Ich laufe jeden Morgen im Park.",
+            "en": "I run in the park every morning."
+        },
+        {
+            "de": "Die Kinder laufen um die Wette.",
+            "en": "The children are running a race."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈlaʊ̯fn̩/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "läuft",
+    "past_perfect": "gelaufen",
+    "preterite": "lief",
+    "frequency_scale": 9
+}

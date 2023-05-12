@@ -1,0 +1,26 @@
+{
+    "word": "bestehenden",
+    "gender": "m/f/neuter",
+    "article": "der/die/das",
+    "word_type": "adjective",
+    "translation": "existing",
+    "example_sentences": [
+        {
+            "de": "Die bestehenden Probleme müssen gelöst werden.",
+            "en": "The existing problems must be solved."
+        },
+        {
+            "de": "Die bestehenden Regeln müssen eingehalten werden.",
+            "en": "The existing rules must be followed."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "bəˈʃta͡əndən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

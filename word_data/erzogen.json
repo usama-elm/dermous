@@ -1,0 +1,20 @@
+{
+    "word": "erzogen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "erziehen",
+    "translation": "raised",
+    "example_sentences": [
+        "Ich wurde gut erzogen.",
+        "Meine Eltern haben mich streng erzogen."
+    ],
+    "usage_frequency": 7,
+    "IPA": "ɛɐ̯ˈtsoːɡən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erzieht",
+    "past_perfect": "erzogen gehabt",
+    "preterite": "erzog",
+    "frequency_scale": 8
+}

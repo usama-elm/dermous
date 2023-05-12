@@ -1,0 +1,26 @@
+{
+    "word": "verzeihen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to forgive",
+    "example_sentences": [
+        {
+            "de": "Ich kann dir verzeihen, aber ich werde nie vergessen.",
+            "en": "I can forgive you, but I will never forget."
+        },
+        {
+            "de": "Kannst du mir verzeihen?",
+            "en": "Can you forgive me?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/fɛɐ̯ˈtsaɪ.ən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verzeiht",
+    "past_perfect": "verziehen",
+    "preterite": "verzieh",
+    "frequency_scale": 8
+}

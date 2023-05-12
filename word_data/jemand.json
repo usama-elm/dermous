@@ -1,0 +1,26 @@
+{
+    "word": "jemand",
+    "gender": "m/f",
+    "article": "indefinite pronoun",
+    "word_type": "indefinite pronoun",
+    "translation": "someone",
+    "example_sentences": [
+        {
+            "de": "Jemand hat mein Handy gestohlen.",
+            "en": "Someone stole my phone."
+        },
+        {
+            "de": "Kann mir jemand helfen?",
+            "en": "Can someone help me?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈjemand/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

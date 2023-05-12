@@ -1,0 +1,27 @@
+{
+    "word": "vermögen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "vermögen",
+    "translation": "to be able to",
+    "example_sentences": [
+        {
+            "de": "Ich vermöge es nicht, das alleine zu tun.",
+            "en": "I am not able to do it alone."
+        },
+        {
+            "de": "Er vermochte es, den Berg zu besteigen.",
+            "en": "He was able to climb the mountain."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/fɛɐ̯ˈmøːɡən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "vermag",
+    "past_perfect": "vermocht",
+    "preterite": "vermochte",
+    "frequency_scale": 8
+}

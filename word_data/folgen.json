@@ -1,0 +1,26 @@
+{
+    "word": "folgen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to follow",
+    "example_sentences": [
+        {
+            "de": "Ich folge dir.",
+            "en": "I am following you."
+        },
+        {
+            "de": "Er folgt immer seinen Instinkten.",
+            "en": "He always follows his instincts."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈfɔlɡən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "folgt",
+    "past_perfect": "gefolgt",
+    "preterite": "folgte",
+    "frequency_scale": 7
+}

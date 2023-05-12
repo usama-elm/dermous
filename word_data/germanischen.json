@@ -1,0 +1,26 @@
+{
+    "word": "germanischen",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Adjective",
+    "translation": "Germanic",
+    "example_sentences": [
+        {
+            "de": "Die germanischen Stämme lebten vor allem in Nordeuropa.",
+            "en": "The Germanic tribes lived mainly in Northern Europe."
+        },
+        {
+            "de": "Die germanischen Sprachen sind eng miteinander verwandt.",
+            "en": "The Germanic languages are closely related to each other."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡɛʁmaˈnɪʃən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": null
+}

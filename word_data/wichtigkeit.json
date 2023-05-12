@@ -1,0 +1,26 @@
+{
+    "word": "wichtigkeit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "importance",
+    "example_sentences": [
+        {
+            "de": "Die Wichtigkeit von Bildung wird oft unterschätzt.",
+            "en": "The importance of education is often underestimated."
+        },
+        {
+            "de": "Die Wichtigkeit von Pünktlichkeit wird in Deutschland sehr geschätzt.",
+            "en": "The importance of punctuality is highly valued in Germany."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈvɪçtɪçkaɪt",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

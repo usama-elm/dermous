@@ -1,0 +1,27 @@
+{
+    "word": "zahlen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "zahlen",
+    "translation": "to pay",
+    "example_sentences": [
+        {
+            "de": "Ich muss meine Rechnung zahlen.",
+            "en": "I have to pay my bill."
+        },
+        {
+            "de": "Kannst du bitte zahlen?",
+            "en": "Can you please pay?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈt͡saːlən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "zahlt",
+    "past_perfect": "gezahlt",
+    "preterite": "zahlte",
+    "frequency_scale": 7
+}

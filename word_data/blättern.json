@@ -1,0 +1,26 @@
+{
+    "word": "blättern",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to leaf through",
+    "example_sentences": [
+        {
+            "de": "Ich blättere in einem Buch.",
+            "en": "I'm leafing through a book."
+        },
+        {
+            "de": "Sie blättert in einer Zeitschrift.",
+            "en": "She's leafing through a magazine."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈblɛtɐn/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "blättert",
+    "past_perfect": "geblättert",
+    "preterite": "blätterte",
+    "frequency_scale": 7
+}

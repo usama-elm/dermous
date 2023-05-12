@@ -1,0 +1,26 @@
+{
+    "word": "empfangen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to receive",
+    "example_sentences": [
+        {
+            "de": "Ich habe gestern einen Brief empfangen.",
+            "en": "I received a letter yesterday."
+        },
+        {
+            "de": "Wir werden dich am Flughafen empfangen.",
+            "en": "We will receive you at the airport."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɛmˈfaŋən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "empfängt",
+    "past_perfect": "hat empfangen",
+    "preterite": "empfing",
+    "frequency_scale": 7
+}

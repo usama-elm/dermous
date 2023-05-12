@@ -1,0 +1,26 @@
+{
+    "word": "schätzen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to estimate, to value, to appreciate",
+    "example_sentences": [
+        {
+            "de": "Ich schätze deine Arbeit sehr.",
+            "en": "I really appreciate your work."
+        },
+        {
+            "de": "Kannst du den Wert dieses Gemäldes schätzen?",
+            "en": "Can you estimate the value of this painting?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈʃɛtsən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schätzt",
+    "past_perfect": "geschätzt",
+    "preterite": "schätzte",
+    "frequency_scale": 8
+}

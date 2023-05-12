@@ -1,0 +1,27 @@
+{
+    "word": "auszusprechen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "aussprechen",
+    "translation": "to pronounce",
+    "example_sentences": [
+        {
+            "de": "Ich habe Schwierigkeiten, das Wort auszusprechen.",
+            "en": "I have difficulties pronouncing the word."
+        },
+        {
+            "de": "Kannst du das bitte noch einmal auszusprechen?",
+            "en": "Can you please pronounce that again?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaʊsˌʔʊʃpʀɛçən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "spricht aus",
+    "past_perfect": "hat ausgesprochen",
+    "preterite": "sprach aus",
+    "frequency_scale": 8
+}

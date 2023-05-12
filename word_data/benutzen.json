@@ -1,0 +1,26 @@
+{
+    "word": "benutzen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to use",
+    "example_sentences": [
+        {
+            "de": "Ich benutze mein Handy jeden Tag.",
+            "en": "I use my phone every day."
+        },
+        {
+            "de": "Kann ich deinen Stift benutzen?",
+            "en": "Can I use your pen?"
+        }
+    ],
+    "usage_frequency": 8,
+    "IPA": "/bəˈnuːtsən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "benutzt",
+    "past_perfect": "benutzt",
+    "preterite": "benutzte",
+    "frequency_scale": 7
+}

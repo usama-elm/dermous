@@ -1,0 +1,26 @@
+{
+    "word": "ausgehen",
+    "gender": "n/a",
+    "article": "n/a",
+    "word_type": "verb",
+    "translation": "to go out",
+    "example_sentences": [
+        {
+            "de": "Ich gehe heute Abend aus.",
+            "en": "I'm going out tonight."
+        },
+        {
+            "de": "Wir gehen oft zusammen aus.",
+            "en": "We often go out together."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈaʊsɡeːən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "geht aus",
+    "past_perfect": "ist ausgegangen",
+    "preterite": "ging aus",
+    "frequency_scale": 8
+}

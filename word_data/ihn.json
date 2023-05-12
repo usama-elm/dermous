@@ -1,0 +1,26 @@
+{
+    "word": "ihn",
+    "gender": "m",
+    "article": "den",
+    "word_type": "pronoun",
+    "translation": "him",
+    "example_sentences": [
+        {
+            "de": "Ich sehe ihn jeden Tag.",
+            "en": "I see him every day."
+        },
+        {
+            "de": "Kannst du ihn bitte anrufen?",
+            "en": "Can you please call him?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/iːn/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

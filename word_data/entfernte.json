@@ -1,0 +1,26 @@
+{
+    "word": "entfernte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "entfernen",
+    "translation": "removed",
+    "example_sentences": [
+        {
+            "de": "Ich entfernte das Bild von der Wand.",
+            "en": "I removed the picture from the wall."
+        },
+        {
+            "de": "Sie entfernte sich langsam von der Gruppe.",
+            "en": "She slowly moved away from the group."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ɛntˈfɛʁntə",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "entfernt",
+    "past_perfect": "hat entfernt",
+    "preterite": "entfernte",
+    "frequency_scale": 7
+}

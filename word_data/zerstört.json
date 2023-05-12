@@ -1,0 +1,27 @@
+{
+    "word": "zerstört",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "zerstören",
+    "translation": "destroyed",
+    "example_sentences": [
+        {
+            "de": "Die Stadt wurde im Krieg zerstört.",
+            "en": "The city was destroyed in the war."
+        },
+        {
+            "de": "Er hat das Haus zerstört.",
+            "en": "He destroyed the house."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/t͡sɛɐ̯ˈʃtœʁt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "zerstört",
+    "past_perfect": "hat zerstört",
+    "preterite": "zerstörte",
+    "frequency_scale": 7
+}

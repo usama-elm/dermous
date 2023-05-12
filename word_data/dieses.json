@@ -1,0 +1,26 @@
+{
+    "word": "dieses",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "demonstrative pronoun",
+    "translation": "this",
+    "example_sentences": [
+        {
+            "de": "Dieses Buch ist sehr interessant.",
+            "en": "This book is very interesting."
+        },
+        {
+            "de": "Dieses Auto gehört meinem Vater.",
+            "en": "This car belongs to my father."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈdiːzəs/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

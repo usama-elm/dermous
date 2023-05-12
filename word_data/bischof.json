@@ -1,0 +1,26 @@
+{
+    "word": "Bischof",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "bishop",
+    "example_sentences": [
+        {
+            "de": "Der Bischof segnete die Gläubigen.",
+            "en": "The bishop blessed the faithful."
+        },
+        {
+            "de": "Der Bischof leitet die Diözese.",
+            "en": "The bishop leads the diocese."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈbɪʃɔf/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

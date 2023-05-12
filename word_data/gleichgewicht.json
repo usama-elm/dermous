@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "word": "gleichgewicht",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "balance, equilibrium",
+    "example_sentences": [
+        {
+            "de": "Das Gleichgewicht des Körpers ist wichtig für die Gesundheit.",
+            "en": "The balance of the body is important for health."
+        },
+        {
+            "de": "Es ist schwierig, das Gleichgewicht auf einem Bein zu halten.",
+            "en": "It is difficult to maintain balance on one leg."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈɡlaɪçɡəˌvɪçt/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

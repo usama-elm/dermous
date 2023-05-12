@@ -1,0 +1,26 @@
+{
+    "word": "erschrocken",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adj",
+    "translation": "scared",
+    "example_sentences": [
+        {
+            "de": "Ich bin erschrocken, als ich das laute Geräusch hörte.",
+            "en": "I got scared when I heard the loud noise."
+        },
+        {
+            "de": "Sie hat sich erschrocken, als sie die Spinne gesehen hat.",
+            "en": "She got scared when she saw the spider."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐ̯ˈʃʁɔkən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

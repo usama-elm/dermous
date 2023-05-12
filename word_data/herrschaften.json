@@ -1,0 +1,26 @@
+{
+    "word": "Herrschaft",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "dominion, rule",
+    "example_sentences": [
+        {
+            "de": "Die Herrschaft über das Land wurde von einer Dynastie ausgeübt.",
+            "en": "The dominion over the country was exercised by a dynasty."
+        },
+        {
+            "de": "Die Herrschaft des Königs war absolut.",
+            "en": "The rule of the king was absolute."
+        }
+    ],
+    "usage_frequency": 7.5,
+    "ipa": "ˈhɛʁʃaft",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3sg": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": null
+}

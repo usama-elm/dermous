@@ -1,0 +1,26 @@
+{
+    "word": "arbeiter",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "worker",
+    "example_sentences": [
+        {
+            "de": "Der Arbeiter arbeitet hart.",
+            "en": "The worker works hard."
+        },
+        {
+            "de": "Die Arbeiterin arbeitet in einer Fabrik.",
+            "en": "The female worker works in a factory."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈaʁbaɪtɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

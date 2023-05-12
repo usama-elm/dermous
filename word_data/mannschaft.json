@@ -1,0 +1,26 @@
+{
+    "word": "mannschaft",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "team",
+    "example_sentences": [
+        {
+            "de": "Die Mannschaft hat das Spiel gewonnen.",
+            "en": "The team won the game."
+        },
+        {
+            "de": "Die Mannschaft trainiert hart für das nächste Spiel.",
+            "en": "The team is training hard for the next game."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈmanʃaft/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

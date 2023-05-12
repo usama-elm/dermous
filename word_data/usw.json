@@ -1,0 +1,26 @@
+{
+    "word": "usw",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "abbreviation",
+    "translation": "etc.",
+    "example_sentences": [
+        {
+            "de": "Ich habe Obst gekauft: Äpfel, Bananen, usw.",
+            "en": "I bought fruit: apples, bananas, etc."
+        },
+        {
+            "de": "Wir müssen noch einkaufen gehen: Milch, Brot, usw.",
+            "en": "We still have to go shopping: milk, bread, etc."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ʊsˈvɛt",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 1
+}

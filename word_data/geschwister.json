@@ -1,0 +1,26 @@
+{
+    "word": "geschwister",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "siblings",
+    "example_sentences": [
+        {
+            "de": "Ich habe zwei Geschwister.",
+            "en": "I have two siblings."
+        },
+        {
+            "de": "Meine Geschwister und ich gehen oft zusammen ins Kino.",
+            "en": "My siblings and I often go to the cinema together."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈʃvɪstɐ",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "richtete",
+    "gender": "f",
+    "article": "die",
+    "word_type": "richten",
+    "translation": "directed",
+    "example_sentences": [
+        {
+            "de": "Er richtete den Blick auf sie.",
+            "en": "He directed his gaze at her."
+        },
+        {
+            "de": "Sie richtete ihre Aufmerksamkeit auf das Buch.",
+            "en": "She directed her attention to the book."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ˈʁɪçtətə",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "richtet",
+    "past_perfect": "hat gerichtet",
+    "preterite": "richtete",
+    "frequency_scale": 8
+}

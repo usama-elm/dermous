@@ -1,0 +1,26 @@
+{
+    "word": "ähnlichen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjektiv",
+    "translation": "similar",
+    "example_sentences": [
+        {
+            "de": "Die beiden Häuser sehen sich ähnlich.",
+            "en": "The two houses look similar to each other."
+        },
+        {
+            "de": "Ich habe ein ähnliches Problem.",
+            "en": "I have a similar problem."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈɛːn.lɪç.ən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

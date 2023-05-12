@@ -1,0 +1,26 @@
+{
+    "word": "verrückt",
+    "gender": "adj.",
+    "article": "null",
+    "word_type": "null",
+    "translation": "crazy, insane, mad",
+    "example_sentences": [
+        {
+            "de": "Er ist verrückt geworden.",
+            "en": "He went crazy."
+        },
+        {
+            "de": "Das ist verrückt!",
+            "en": "That's insane!"
+        }
+    ],
+    "usage_frequency": 8.5,
+    "ipa": "fɛɐ̯ˈʁʏkt",
+    "verb_auxiliary": "null",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": "verrückt",
+    "past_perfect": "verrückt",
+    "preterite": "verrückte",
+    "frequency_scale": 8
+}

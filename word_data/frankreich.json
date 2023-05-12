@@ -1,0 +1,26 @@
+{
+    "word": "Frankreich",
+    "gender": "n",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "France",
+    "example_sentences": [
+        {
+            "de": "Ich war noch nie in Frankreich.",
+            "en": "I have never been to France."
+        },
+        {
+            "de": "Frankreich hat eine reiche Kultur.",
+            "en": "France has a rich culture."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈfʁaŋkʁaɪ̯ç/",
+    "verb_auxiliary": null,
+    "difficulty_level": 2,
+    "is_irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": null
+}

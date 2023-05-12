@@ -1,0 +1,26 @@
+{
+    "word": "erfüllte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "erfüllen",
+    "translation": "fulfilled",
+    "example_sentences": [
+        {
+            "de": "Sie erfüllte ihre Aufgaben mit großer Sorgfalt.",
+            "en": "She fulfilled her tasks with great care."
+        },
+        {
+            "de": "Er erfüllte sich seinen Traum und reiste um die Welt.",
+            "en": "He fulfilled his dream and traveled around the world."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɛɐ̯ˈfʏl.tə",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erfüllt",
+    "past_perfect": "hat erfüllt",
+    "preterite": "erfüllte",
+    "frequency_scale": 8
+}

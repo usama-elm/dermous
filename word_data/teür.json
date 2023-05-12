@@ -1,0 +1,26 @@
+{
+    "word": "teuer",
+    "gender": "m/f/neuter",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "expensive",
+    "example_sentences": [
+        {
+            "de": "Dieses Restaurant ist sehr teuer.",
+            "en": "This restaurant is very expensive."
+        },
+        {
+            "de": "Ich kann mir diese teure Uhr nicht leisten.",
+            "en": "I can't afford this expensive watch."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈtɔʏɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

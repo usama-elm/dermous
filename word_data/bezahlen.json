@@ -1,0 +1,27 @@
+{
+    "word": "bezahlen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "bezahlen",
+    "translation": "to pay",
+    "example_sentences": [
+        {
+            "de": "Ich bezahle mit Kreditkarte.",
+            "en": "I pay with credit card."
+        },
+        {
+            "de": "Kannst du das bitte bezahlen?",
+            "en": "Can you please pay for that?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/bəˈʦaːlən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "bezahlt",
+    "past_perfect": "hat bezahlt",
+    "preterite": "bezahlte",
+    "frequency_scale": 7
+}

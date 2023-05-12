@@ -1,0 +1,17 @@
+{
+    "word": "durch",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "preposition",
+    "translation": "through",
+    "example_sentences": [
+        "Ich gehe durch den Park. (I am walking through the park.)",
+        "Das Wasser fließt durch den Fluss. (The water flows through the river.)"
+    ],
+    "usage_frequency": 9.5,
+    "ipa": "dʊʁç",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular_forms": null,
+    "frequency_scale": 9
+}

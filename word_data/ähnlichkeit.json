@@ -1,0 +1,21 @@
+{
+    "word": "ähnlichkeit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "similarity",
+    "example_sentences": [
+        {
+            "de": "Die Ähnlichkeit zwischen den beiden Schwestern ist verblüffend.",
+            "en": "The similarity between the two sisters is astonishing."
+        },
+        {
+            "de": "Es gibt eine gewisse Ähnlichkeit zwischen diesen beiden Gemälden.",
+            "en": "There is a certain similarity between these two paintings."
+        }
+    ],
+    "usage_frequency": 7.5,
+    "ipa": "ˈɛːnliçkaɪt",
+    "difficulty_level": "B1",
+    "error": null
+}

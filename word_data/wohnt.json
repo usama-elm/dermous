@@ -1,0 +1,20 @@
+{
+    "word": "wohnt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "wohnen",
+    "translation": "lives",
+    "example_sentences": [
+        "Er wohnt in Berlin. (He lives in Berlin.)",
+        "Sie wohnt alleine. (She lives alone.)"
+    ],
+    "usage_frequency": 8,
+    "IPA_code": "/voːnt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wohnt",
+    "past_perfect": "hat gewohnt",
+    "preterite": "wohnte",
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "hielt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "halten",
+    "translation": "held",
+    "example_sentences": [
+        {
+            "de": "Er hielt die Tür auf.",
+            "en": "He held the door open."
+        },
+        {
+            "de": "Sie hielt ihre Hand vor den Mund.",
+            "en": "She held her hand in front of her mouth."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/hiːlt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "hält",
+    "past_perfect": "gehalten",
+    "preterite": "hielt",
+    "frequency_scale": 8
+}

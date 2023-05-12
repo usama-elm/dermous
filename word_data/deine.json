@@ -1,0 +1,26 @@
+{
+    "word": "deine",
+    "gender": "f",
+    "article": "die",
+    "word_type": "possessive pronoun",
+    "translation": "your",
+    "example_sentences": [
+        {
+            "de": "Deine Katze ist sehr süß.",
+            "en": "Your cat is very cute."
+        },
+        {
+            "de": "Ich habe deine Nachricht erhalten.",
+            "en": "I received your message."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈdaɪnə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

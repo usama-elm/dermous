@@ -1,0 +1,21 @@
+{
+    "word": "meinung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "opinion",
+    "example_sentences": [
+        {
+            "de": "Ich habe eine Meinung zu diesem Thema.",
+            "en": "I have an opinion on this topic."
+        },
+        {
+            "de": "Was ist deine Meinung dazu?",
+            "en": "What is your opinion on that?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈmaɪnʊŋ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

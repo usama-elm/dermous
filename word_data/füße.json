@@ -1,0 +1,26 @@
+{
+    "word": "füße",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "feet",
+    "example_sentences": [
+        {
+            "de": "Ich habe kalte Füße.",
+            "en": "My feet are cold."
+        },
+        {
+            "de": "Sie hat schöne Füße.",
+            "en": "She has pretty feet."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈfyːsə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

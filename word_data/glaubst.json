@@ -1,0 +1,26 @@
+{
+    "word": "glaubst",
+    "gender": "m",
+    "article": "",
+    "word_type": "verb",
+    "translation": "believe",
+    "example_sentences": [
+        {
+            "de": "Glaubst du an Gott?",
+            "en": "Do you believe in God?"
+        },
+        {
+            "de": "Ich glaube, dass er recht hat.",
+            "en": "I believe he is right."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈɡlaʊpst",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "glaubt",
+    "past_perfect": "geglaubt",
+    "preterite": "glaubte",
+    "frequency_scale": 8
+}

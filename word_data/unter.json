@@ -1,0 +1,26 @@
+{
+    "word": "unter",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "preposition",
+    "translation": "under",
+    "example_sentences": [
+        {
+            "de": "Die Katze liegt unter dem Tisch.",
+            "en": "The cat is lying under the table."
+        },
+        {
+            "de": "Ich habe mein Handy unter dem Bett gefunden.",
+            "en": "I found my phone under the bed."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈʊntɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

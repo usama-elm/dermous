@@ -1,0 +1,26 @@
+{
+    "word": "preise",
+    "gender": "f",
+    "article": "die",
+    "word_type": "preis",
+    "translation": "price",
+    "example_sentences": [
+        {
+            "de": "Der Preis für das Auto ist zu hoch.",
+            "en": "The price for the car is too high."
+        },
+        {
+            "de": "Ich habe den Preis gewonnen!",
+            "en": "I won the prize!"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈpʁaɪ̯sə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

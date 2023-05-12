@@ -1,0 +1,20 @@
+{
+    "word": "gewinnt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "gewinnen",
+    "translation": "wins",
+    "example_sentences": [
+        "Er gewinnt immer beim Pokern. (He always wins at poker.)",
+        "Sie gewinnt den Wettbewerb. (She wins the competition.)"
+    ],
+    "usage_frequency": 8,
+    "IPA_code": "/ɡəˈvɪnt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gewinnt",
+    "past_perfect": "hat gewonnen",
+    "preterite": "gewann",
+    "frequency_scale": 8
+}

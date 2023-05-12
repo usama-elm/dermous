@@ -1,0 +1,20 @@
+{
+    "word": "mußten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "müssen",
+    "translation": "had to",
+    "example_sentences": [
+        "Wir mußten gestern bis spät arbeiten. (We had to work late yesterday.)",
+        "Sie mußten den Zug nehmen, um rechtzeitig anzukommen. (They had to take the train to arrive on time.)"
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈmʏstən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "muss",
+    "past_perfect": "gemusst",
+    "preterite": "mussten",
+    "frequency_scale": 9
+}

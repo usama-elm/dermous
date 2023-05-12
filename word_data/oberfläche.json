@@ -1,0 +1,21 @@
+{
+    "word": "oberfläche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "surface",
+    "example_sentences": [
+        {
+            "de": "Die Oberfläche des Sees war spiegelglatt.",
+            "en": "The surface of the lake was mirror smooth."
+        },
+        {
+            "de": "Die Oberfläche des Tisches war mit Kratzern übersät.",
+            "en": "The surface of the table was covered in scratches."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈoːbɐˌflɛːçə",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

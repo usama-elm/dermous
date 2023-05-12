@@ -1,0 +1,21 @@
+{
+    "word": "gesang",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "song",
+    "example_sentences": [
+        {
+            "de": "Sein Gesang war wunderschön.",
+            "en": "His singing was beautiful."
+        },
+        {
+            "de": "Sie hat eine Ausbildung in Gesang.",
+            "en": "She has training in singing."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈzaŋ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

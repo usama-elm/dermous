@@ -1,0 +1,20 @@
+{
+    "word": "arbeitet",
+    "gender": "f",
+    "article": "die",
+    "word_type": "arbeiten",
+    "translation": "works",
+    "example_sentences": [
+        "Sie arbeitet hart jeden Tag.",
+        "Er arbeitet in einer Fabrik."
+    ],
+    "usage_frequency": 8,
+    "IPA_code": "/aʁˈbaɪtət/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "arbeitet",
+    "past_perfect": "gearbeitet",
+    "preterite": "arbeitete",
+    "frequency_scale": 8
+}

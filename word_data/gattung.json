@@ -1,0 +1,26 @@
+{
+    "word": "Gattung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "genre",
+    "example_sentences": [
+        {
+            "de": "Die Gattung des Buches ist Science-Fiction.",
+            "en": "The genre of the book is science fiction."
+        },
+        {
+            "de": "Diese Pflanze gehört zur Gattung der Rosen.",
+            "en": "This plant belongs to the genus of roses."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈɡatʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

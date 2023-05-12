@@ -1,0 +1,27 @@
+{
+    "word": "entfernen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "entfernen",
+    "translation": "to remove",
+    "example_sentences": [
+        {
+            "de": "Ich muss den Fleck entfernen.",
+            "en": "I have to remove the stain."
+        },
+        {
+            "de": "Bitte entfernen Sie Ihre Schuhe.",
+            "en": "Please remove your shoes."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛntˈfɛʁnən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "entfernt",
+    "past_perfect": "hat entfernt",
+    "preterite": "entfernte",
+    "frequency_scale": 8
+}

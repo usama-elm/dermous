@@ -1,0 +1,26 @@
+{
+    "word": "einfluss",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "influence",
+    "example_sentences": [
+        {
+            "de": "Sein Einfluss auf die Entscheidung war groß.",
+            "en": "His influence on the decision was great."
+        },
+        {
+            "de": "Die Politik hat einen großen Einfluss auf die Wirtschaft.",
+            "en": "Politics has a big influence on the economy."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈaɪ̯nflʊs",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

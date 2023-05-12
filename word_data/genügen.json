@@ -1,0 +1,21 @@
+{
+    "word": "genügen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to suffice",
+    "example_sentences": [
+        "Es genügt nicht, nur Deutsch zu lernen, man muss auch die Kultur verstehen.",
+        "Ich hoffe, dass das Essen für alle genügt.",
+        "Das wird nicht genügen, um das Problem zu lösen."
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ɡəˈnyːɡən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "genügt",
+    "past_perfect": "hat genügt",
+    "preterite": "genügte",
+    "frequency_scale": 7
+}

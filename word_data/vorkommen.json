@@ -1,0 +1,26 @@
+{
+    "word": "vorkommen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to occur, to happen, to come up",
+    "example_sentences": [
+        {
+            "de": "Es kommt oft vor, dass ich zu spät komme.",
+            "en": "It often happens that I'm late."
+        },
+        {
+            "de": "Das ist mir noch nie vorgekommen.",
+            "en": "That has never happened to me before."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈfɔʁkɔmən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "kommt vor",
+    "past_perfect": "vorgekommen",
+    "preterite": "kam vor",
+    "frequency_scale": 7
+}

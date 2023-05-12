@@ -1,0 +1,27 @@
+{
+    "word": "erhalten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "erhalten",
+    "translation": "to receive, to obtain",
+    "example_sentences": [
+        {
+            "de": "Ich habe gestern ein Paket erhalten.",
+            "en": "I received a package yesterday."
+        },
+        {
+            "de": "Er hat den Preis erhalten.",
+            "en": "He obtained the prize."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɛɐ̯ˈhaltn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erhält",
+    "past_perfect": "erhalten",
+    "preterite": "erhielt",
+    "frequency": 7
+}

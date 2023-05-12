@@ -1,0 +1,26 @@
+{
+    "word": "im",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "Präposition",
+    "translation": "in the",
+    "example_sentences": [
+        {
+            "de": "Ich bin im Park.",
+            "en": "I am in the park."
+        },
+        {
+            "de": "Das Buch liegt im Regal.",
+            "en": "The book is on the shelf."
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa": "ɪm",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 10
+}

@@ -1,0 +1,21 @@
+{
+    "word": "fußboden",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "floor",
+    "example_sentences": [
+        {
+            "de": "Ich habe den Fußboden gestern geputzt.",
+            "en": "I cleaned the floor yesterday."
+        },
+        {
+            "de": "Der Fußboden ist aus Holz.",
+            "en": "The floor is made of wood."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈfʊsˌboːdn̩",
+    "difficulty_level": "A2",
+    "irregular_verb": false
+}

@@ -1,0 +1,26 @@
+{
+    "word": "ersetzen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to replace",
+    "example_sentences": [
+        {
+            "de": "Ich muss meine alte Brille ersetzen.",
+            "en": "I need to replace my old glasses."
+        },
+        {
+            "de": "Kannst du mich heute Abend im Büro ersetzen?",
+            "en": "Can you replace me at the office tonight?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐ̯ˈzɛtsən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ersetzt",
+    "past_perfect": "ersetzt",
+    "preterite": "ersetzte",
+    "frequency_scale": 8
+}

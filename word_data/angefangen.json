@@ -1,0 +1,26 @@
+{
+    "word": "angefangen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "infinitive",
+    "translation": "begun",
+    "example_sentences": [
+        {
+            "de": "Ich habe vor einer Stunde angefangen zu arbeiten.",
+            "en": "I started working an hour ago."
+        },
+        {
+            "de": "Er hat gestern Abend mit dem Rauchen angefangen.",
+            "en": "He started smoking last night."
+        }
+    ],
+    "usage_frequency": 8,
+    "IPA": "ˈʔaŋəˌfaŋən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "fängt an",
+    "past_perfect": "hat angefangen",
+    "preterite": "fing an",
+    "frequency_scale": 8
+}

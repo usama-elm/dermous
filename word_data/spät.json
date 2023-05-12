@@ -1,0 +1,26 @@
+{
+    "word": "spät",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "late",
+    "example_sentences": [
+        {
+            "de": "Ich bin gestern spät nach Hause gekommen.",
+            "en": "I came home late yesterday."
+        },
+        {
+            "de": "Es ist schon spät, wir sollten langsam gehen.",
+            "en": "It's already late, we should go soon."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ʃpɛːt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

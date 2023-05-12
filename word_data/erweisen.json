@@ -1,0 +1,26 @@
+{
+    "word": "erweisen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to prove, to demonstrate",
+    "example_sentences": [
+        {
+            "de": "Er hat sich als unschuldig erwiesen.",
+            "en": "He has proven himself innocent."
+        },
+        {
+            "de": "Ich werde dir meine Dankbarkeit erweisen.",
+            "en": "I will show you my gratitude."
+        }
+    ],
+    "usage_frequency": 7,
+    "IPA": "/ɛɐ̯ˈvaɪzn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B2",
+    "irregular": true,
+    "present_3rd_singular": "erweist",
+    "past_perfect": "hat erwiesen",
+    "preterite": "erwies",
+    "frequency_scale": 8
+}

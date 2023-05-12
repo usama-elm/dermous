@@ -1,0 +1,26 @@
+{
+    "word": "erwartet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "erwarten",
+    "translation": "expected",
+    "example_sentences": [
+        {
+            "de": "Ich habe dich erwartet.",
+            "en": "I was expecting you."
+        },
+        {
+            "de": "Die Gäste werden bald erwartet.",
+            "en": "The guests will be arriving soon."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɛɐ̯ˈvaʁtət/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erwartet",
+    "past_perfect": "hat erwartet",
+    "preterite": "erwartete",
+    "frequency_scale": 7
+}

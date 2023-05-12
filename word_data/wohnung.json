@@ -1,0 +1,21 @@
+{
+    "word": "Wohnung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "apartment",
+    "example_sentences": [
+        {
+            "de": "Ich suche eine Wohnung in Berlin.",
+            "en": "I'm looking for an apartment in Berlin."
+        },
+        {
+            "de": "Die Wohnung ist sehr groß.",
+            "en": "The apartment is very large."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈvoːnʊŋ/",
+    "difficulty_level": "A2",
+    "irregular_verb": false
+}

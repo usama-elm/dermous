@@ -1,0 +1,27 @@
+{
+    "word": "fürchtet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "fürchten",
+    "translation": "to fear",
+    "example_sentences": [
+        {
+            "de": "Er fürchtet sich vor Spinnen.",
+            "en": "He is afraid of spiders."
+        },
+        {
+            "de": "Sie fürchtet, dass sie zu spät kommen wird.",
+            "en": "She is afraid that she will be late."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈfʏʁçtət",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "fürchtet",
+    "past_perfect": "hat gefürchtet",
+    "preterite": "fürchtete",
+    "frequency_scale": 8
+}

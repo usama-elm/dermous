@@ -1,0 +1,27 @@
+{
+    "word": "stellten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "stellen",
+    "translation": "to place, to put",
+    "example_sentences": [
+        {
+            "de": "Sie stellten die Blumen auf den Tisch.",
+            "en": "They put the flowers on the table."
+        },
+        {
+            "de": "Er stellte seine Tasche in die Ecke.",
+            "en": "He placed his bag in the corner."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈʃtɛlən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "stellt",
+    "past_perfect": "gestellt",
+    "preterite": "stellten",
+    "frequency_scale": 8
+}

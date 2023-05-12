@@ -1,0 +1,26 @@
+{
+    "word": "äußere",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Adjective",
+    "translation": "outer",
+    "example_sentences": [
+        {
+            "de": "Das äußere Erscheinungsbild täuscht oft.",
+            "en": "The outer appearance is often deceiving."
+        },
+        {
+            "de": "Die äußere Schicht des Kuchens ist knusprig.",
+            "en": "The outer layer of the cake is crispy."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ˈɔʏsəʀə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

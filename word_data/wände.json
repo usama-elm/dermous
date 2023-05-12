@@ -1,0 +1,26 @@
+{
+    "word": "wände",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Noun",
+    "translation": "walls",
+    "example_sentences": [
+        {
+            "de": "Die Wände des Hauses sind weiß gestrichen.",
+            "en": "The walls of the house are painted white."
+        },
+        {
+            "de": "Ich habe ein Bild an die Wand gehängt.",
+            "en": "I hung a picture on the wall."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈvɛndə",
+    "verb_auxiliary": "",
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": "",
+    "past_perfect": "",
+    "preterite": "",
+    "frequency_scale": 8
+}

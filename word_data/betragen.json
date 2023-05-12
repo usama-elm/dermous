@@ -1,0 +1,20 @@
+{
+    "word": "betragen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "amount to",
+    "example_sentences": [
+        "Der Preis beträgt 10 Euro.",
+        "Die Summe beträgt insgesamt 1000 Euro."
+    ],
+    "usage_frequency": 7,
+    "ipa": "bəˈtʁaːɡən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "beträgt",
+    "past_perfect": "hat betragen",
+    "preterite": "betrug",
+    "frequency_scale": 7
+}

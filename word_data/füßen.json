@@ -1,0 +1,26 @@
+{
+    "word": "füßen",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Verb",
+    "translation": "to base on, to rest on",
+    "example_sentences": [
+        {
+            "de": "Die Entscheidung füßt auf einer langen Tradition.",
+            "en": "The decision is based on a long tradition."
+        },
+        {
+            "de": "Seine Argumentation füßt auf falschen Annahmen.",
+            "en": "His argumentation rests on false assumptions."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "/ˈfyːsən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": "füßt",
+    "past_perfect": "gefüßt",
+    "preterite": "füßte",
+    "frequency_scale": 5
+}

@@ -1,0 +1,26 @@
+{
+    "word": "ewigkeit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "eternity",
+    "example_sentences": [
+        {
+            "de": "Die Ewigkeit ist ein langer Zeitraum.",
+            "en": "Eternity is a long period of time."
+        },
+        {
+            "de": "Ich werde dich für immer lieben, bis in alle Ewigkeit.",
+            "en": "I will love you forever, for all eternity."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/eˈvɪɡkaɪt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

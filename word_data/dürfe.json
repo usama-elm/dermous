@@ -1,0 +1,27 @@
+{
+    "word": "dürfe",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "dürfen",
+    "translation": "may",
+    "example_sentences": [
+        {
+            "de": "Ich dürfe das machen.",
+            "en": "I may do that."
+        },
+        {
+            "de": "Dürfe ich bitte gehen?",
+            "en": "May I please go?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈdʏʁfə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "darf",
+    "past_perfect": "gedurft",
+    "preterite": "durfte",
+    "frequency_scale": 8
+}

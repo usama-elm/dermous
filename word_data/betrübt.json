@@ -1,0 +1,26 @@
+{
+    "word": "betrübt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "sad",
+    "example_sentences": [
+        {
+            "de": "Er war betrübt über den Verlust seines Hundes.",
+            "en": "He was sad about the loss of his dog."
+        },
+        {
+            "de": "Sie sah betrübt aus, als sie die schlechte Nachricht erhielt.",
+            "en": "She looked sad when she received the bad news."
+        }
+    ],
+    "usage_frequency": 4,
+    "ipa": "bəˈtʁyːpt",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 4
+}

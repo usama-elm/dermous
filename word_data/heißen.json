@@ -1,0 +1,30 @@
+{
+    "word": "heißen",
+    "gender": "verb",
+    "article": "",
+    "word_type": "infinitive",
+    "translation": "to be called",
+    "example_sentences": [
+        {
+            "de": "Wie heißt du?",
+            "en": "What's your name?"
+        },
+        {
+            "de": "Ich heiße Anna.",
+            "en": "My name is Anna."
+        },
+        {
+            "de": "Wie heißt das auf Englisch?",
+            "en": "What's that called in English?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈhaɪ̯sn̩",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "er/sie/es heißt",
+    "past_perfect": "hat geheißen",
+    "preterite": "hieß",
+    "frequency_scale": 9
+}

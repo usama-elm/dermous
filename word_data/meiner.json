@@ -1,0 +1,26 @@
+{
+    "word": "meiner",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Possessive pronoun",
+    "translation": "mine",
+    "example_sentences": [
+        {
+            "de": "Das ist meiner.",
+            "en": "That's mine."
+        },
+        {
+            "de": "Meiner ist größer als deiner.",
+            "en": "Mine is bigger than yours."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈmaɪnɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 4
+}

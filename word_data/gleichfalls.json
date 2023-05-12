@@ -1,0 +1,26 @@
+{
+    "word": "gleichfalls",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "likewise",
+    "example_sentences": [
+        {
+            "de": "Ich wünsche Ihnen ein schönes Wochenende. Gleichfalls!",
+            "en": "I wish you a nice weekend. Likewise!"
+        },
+        {
+            "de": "Danke für die Einladung. Gleichfalls!",
+            "en": "Thanks for the invitation. Likewise!"
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈɡlaɪçˌfals/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

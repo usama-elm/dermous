@@ -1,0 +1,27 @@
+{
+    "word": "gewußt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "wissen",
+    "translation": "known",
+    "example_sentences": [
+        {
+            "de": "Ich habe es immer gewußt.",
+            "en": "I always knew it."
+        },
+        {
+            "de": "Hätte ich das gewußt, hätte ich anders gehandelt.",
+            "en": "If I had known that, I would have acted differently."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ɡəˈvʊst",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "weißt",
+    "past_perfect": "gewusst",
+    "preterite": "wußte",
+    "frequency_scale": 7
+}

@@ -1,0 +1,21 @@
+{
+    "word": "gemälde",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "painting",
+    "example_sentences": [
+        {
+            "de": "Das Gemälde hängt im Museum.",
+            "en": "The painting is hanging in the museum."
+        },
+        {
+            "de": "Ich habe gestern ein Gemälde gekauft.",
+            "en": "I bought a painting yesterday."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈmɛldə",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

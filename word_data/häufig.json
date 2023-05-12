@@ -1,0 +1,20 @@
+{
+    "word": "häufig",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "frequently",
+    "example_sentences": [
+        "Ich gehe häufig ins Kino. (I frequently go to the cinema.)",
+        "Es regnet hier häufig. (It frequently rains here.)"
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈhɔɪfɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

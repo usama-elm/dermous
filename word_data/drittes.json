@@ -1,0 +1,26 @@
+{
+    "word": "drittes",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "ordinal number",
+    "translation": "third",
+    "example_sentences": [
+        {
+            "de": "Ich bin das dritte Kind in meiner Familie.",
+            "en": "I am the third child in my family."
+        },
+        {
+            "de": "Das ist das dritte Mal, dass ich hier bin.",
+            "en": "This is the third time I am here."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈdʁɪtəs",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "bestimmten",
+    "gender": "m",
+    "article": "der",
+    "word_type": "bestimmen",
+    "translation": "determine",
+    "example_sentences": [
+        {
+            "de": "Ich habe einen bestimmten Plan.",
+            "en": "I have a specific plan."
+        },
+        {
+            "de": "Er hat den Zeitpunkt genau bestimmt.",
+            "en": "He determined the exact time."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/bəˈʃtɪmən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "bestimmt",
+    "past_perfect": "hat bestimmt",
+    "preterite": "bestimmte",
+    "frequency_scale": 8
+}

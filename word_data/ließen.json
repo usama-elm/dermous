@@ -1,0 +1,27 @@
+{
+    "word": "ließen",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "lassen",
+    "translation": "let",
+    "example_sentences": [
+        {
+            "de": "Wir ließen ihn gehen.",
+            "en": "We let him go."
+        },
+        {
+            "de": "Sie ließen das Fenster offen.",
+            "en": "They left the window open."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈliːsn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "lässt",
+    "past_perfect": "gelassen",
+    "preterite": "ließen",
+    "frequency_scale": 8
+}

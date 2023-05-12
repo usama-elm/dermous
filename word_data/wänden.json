@@ -1,0 +1,26 @@
+{
+    "word": "wänden",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "infinitive",
+    "translation": "to turn, to twist",
+    "example_sentences": [
+        {
+            "de": "Er wendet das Blatt.",
+            "en": "He turns the page."
+        },
+        {
+            "de": "Sie wenden das Fleisch auf dem Grill.",
+            "en": "They turn the meat on the grill."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "ˈvɛndən",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wendet",
+    "past_perfect": "gewendet",
+    "preterite": "wandte",
+    "frequency_scale": 6
+}

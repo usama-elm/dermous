@@ -1,0 +1,26 @@
+{
+    "word": "zähne",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Noun",
+    "translation": "teeth",
+    "example_sentences": [
+        {
+            "de": "Ich putze mir jeden Morgen die Zähne.",
+            "en": "I brush my teeth every morning."
+        },
+        {
+            "de": "Der Zahnarzt hat mir eine Füllung in den Zahn gemacht.",
+            "en": "The dentist put a filling in my tooth."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈtsɛːnə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 9
+}

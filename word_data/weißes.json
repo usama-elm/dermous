@@ -1,0 +1,26 @@
+{
+    "word": "weißes",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "weiß",
+    "translation": "white",
+    "example_sentences": [
+        {
+            "de": "Das weiße Haus steht in Washington.",
+            "en": "The White House is located in Washington."
+        },
+        {
+            "de": "Ich trage ein weißes Hemd.",
+            "en": "I am wearing a white shirt."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "vaɪsəs",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

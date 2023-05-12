@@ -1,0 +1,26 @@
+{
+    "word": "gegebenen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "Adjektiv",
+    "translation": "given",
+    "example_sentences": [
+        {
+            "de": "Die gegebenen Umstände erfordern schnelles Handeln.",
+            "en": "The given circumstances require quick action."
+        },
+        {
+            "de": "Aufgrund der gegebenen Situation müssen wir uns anpassen.",
+            "en": "Due to the given situation, we have to adapt."
+        }
+    ],
+    "usage_frequency": 7,
+    "IPA": "ɡəˈɡeːbnən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

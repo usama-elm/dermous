@@ -1,0 +1,26 @@
+{
+    "word": "öffnete",
+    "gender": "f",
+    "article": "die",
+    "word_type": "öffnen",
+    "translation": "opened",
+    "example_sentences": [
+        {
+            "de": "Sie öffnete die Tür.",
+            "en": "She opened the door."
+        },
+        {
+            "de": "Er öffnete die Flasche.",
+            "en": "He opened the bottle."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈœfnətə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "öffnet",
+    "past_perfect": "hat geöffnet",
+    "preterite": "öffnete",
+    "frequency_scale": 8
+}

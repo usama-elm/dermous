@@ -1,0 +1,26 @@
+{
+    "word": "gewähren",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to grant",
+    "example_sentences": [
+        {
+            "de": "Ich gewähre dir diese Bitte.",
+            "en": "I grant you this request."
+        },
+        {
+            "de": "Der König gewährte ihm eine Audienz.",
+            "en": "The king granted him an audience."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈvɛːʁən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "gewährt",
+    "past_perfect": "gewährt",
+    "preterite": "gewährte",
+    "frequency_scale": 7
+}

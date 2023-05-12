@@ -1,0 +1,26 @@
+{
+    "word": "geschlecht",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "gender",
+    "example_sentences": [
+        {
+            "de": "Das Geschlecht eines Menschen ist biologisch bedingt.",
+            "en": "The gender of a person is biologically determined."
+        },
+        {
+            "de": "In vielen Sprachen gibt es grammatisches Geschlecht.",
+            "en": "Many languages have grammatical gender."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈʃlɛçt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

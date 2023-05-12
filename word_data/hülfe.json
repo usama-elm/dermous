@@ -1,0 +1,26 @@
+{
+    "word": "hülfe",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Infinitive",
+    "translation": "help",
+    "example_sentences": [
+        {
+            "de": "Ich brauche deine Hülfe.",
+            "en": "I need your help."
+        },
+        {
+            "de": "Kannst du mir bitte Hülfe leisten?",
+            "en": "Can you please help me?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈhʏlfə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "hilft",
+    "past_perfect": "geholfen",
+    "preterite": "half",
+    "frequency_scale": 8
+}

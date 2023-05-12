@@ -1,0 +1,27 @@
+{
+    "word": "verletzt",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "verletzen",
+    "translation": "injure/hurt",
+    "example_sentences": [
+        {
+            "de": "Er hat sich beim Sport verletzt.",
+            "en": "He injured himself while playing sports."
+        },
+        {
+            "de": "Sie hat sich am Arm verletzt.",
+            "en": "She hurt her arm."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/fɛɐ̯ˈlɛtst/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verletzt",
+    "past_perfect": "hat verletzt",
+    "preterite": "verletzte",
+    "frequency_scale": 7
+}

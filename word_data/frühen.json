@@ -1,0 +1,26 @@
+{
+    "word": "frühen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "infinitive",
+    "translation": "to dawn",
+    "example_sentences": [
+        {
+            "de": "Die Sonne früht im Osten.",
+            "en": "The sun dawns in the east."
+        },
+        {
+            "de": "Es wird bald frühen.",
+            "en": "It will dawn soon."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "/ˈfʁyːən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "früht",
+    "past_perfect": "gefrüht",
+    "preterite": "frühte",
+    "frequency_scale": 6
+}

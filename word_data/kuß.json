@@ -1,0 +1,26 @@
+{
+    "word": "kuß",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "kiss",
+    "example_sentences": [
+        {
+            "de": "Er gab ihr einen Kuß auf die Wange.",
+            "en": "He gave her a kiss on the cheek."
+        },
+        {
+            "de": "Sie erwiderte seinen Kuß.",
+            "en": "She returned his kiss."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "kʊs",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

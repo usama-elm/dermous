@@ -1,0 +1,26 @@
+{
+    "word": "ergriff",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "seize",
+    "example_sentences": [
+        {
+            "de": "Er ergriff ihre Hand und führte sie zum Tanz.",
+            "en": "He seized her hand and led her to dance."
+        },
+        {
+            "de": "Die Angst ergriff ihn.",
+            "en": "Fear seized him."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐ̯ˈɡrɪf/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ergreift",
+    "past_perfect": "hat ergriffen",
+    "preterite": "ergriff",
+    "frequency_scale": 8
+}

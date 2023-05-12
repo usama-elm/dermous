@@ -1,0 +1,26 @@
+{
+    "word": "jedoch",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "conjunction",
+    "translation": "however",
+    "example_sentences": [
+        {
+            "de": "Ich wollte joggen gehen, jedoch hat es geregnet.",
+            "en": "I wanted to go jogging, however it was raining."
+        },
+        {
+            "de": "Er hat viel gearbeitet, jedoch ist er nicht vorangekommen.",
+            "en": "He worked a lot, however he didn't make any progress."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "jeˈdɔx",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

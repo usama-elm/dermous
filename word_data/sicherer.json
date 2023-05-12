@@ -1,0 +1,26 @@
+{
+    "word": "sicherer",
+    "gender": "m",
+    "article": "der",
+    "word_type": "sicher",
+    "translation": "safer",
+    "example_sentences": [
+        {
+            "de": "Ich fühle mich auf diesem Weg sicherer.",
+            "en": "I feel safer on this path."
+        },
+        {
+            "de": "Er ist ein sicherer Fahrer.",
+            "en": "He is a safe driver."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈzɪçərər/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

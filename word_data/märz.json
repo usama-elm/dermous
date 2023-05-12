@@ -1,0 +1,26 @@
+{
+    "word": "märz",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "March",
+    "example_sentences": [
+        {
+            "de": "Im März beginnt der Frühling.",
+            "en": "Spring begins in March."
+        },
+        {
+            "de": "Mein Geburtstag ist im März.",
+            "en": "My birthday is in March."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/mɛːʁts/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,23 @@
+{
+    "word": "zugrunde",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "underlying",
+    "example_sentences": [
+        {
+            "de": "Die Entscheidung wurde zugrunde gelegt.",
+            "en": "The decision was based on underlying factors."
+        },
+        {
+            "de": "Die Theorie geht von bestimmten Annahmen zugrunde.",
+            "en": "The theory is based on certain underlying assumptions."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "t͡suːˈɡʁʊndə",
+    "verb_auxiliary": null,
+    "difficulty_level": 2,
+    "irregular_forms": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "laufe",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Infinitive",
+    "translation": "to run",
+    "example_sentences": [
+        {
+            "de": "Ich laufe jeden Morgen im Park.",
+            "en": "I run in the park every morning."
+        },
+        {
+            "de": "Er läuft schnell wie ein Pferd.",
+            "en": "He runs fast like a horse."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈlaʊ̯fə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "läuft",
+    "past_perfect": "gelaufen",
+    "preterite": "lief",
+    "frequency_scale": 7
+}

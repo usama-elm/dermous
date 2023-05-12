@@ -1,0 +1,27 @@
+{
+    "word": "teilen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "teilen",
+    "translation": "to divide, to share",
+    "example_sentences": [
+        {
+            "de": "Wir teilen das Essen.",
+            "en": "We share the food."
+        },
+        {
+            "de": "Kannst du das in zwei Teile teilen?",
+            "en": "Can you divide that into two parts?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈtaɪ.lən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "teilt",
+    "past_perfect": "geteilt",
+    "preterite": "teilte",
+    "frequency_scale": 7
+}

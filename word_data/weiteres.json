@@ -1,0 +1,26 @@
+{
+    "word": "weiteres",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "further, additional",
+    "example_sentences": [
+        {
+            "de": "Ich brauche kein weiteres Bier.",
+            "en": "I don't need any more beer."
+        },
+        {
+            "de": "Hast du noch weitere Fragen?",
+            "en": "Do you have any more questions?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈvaɪ̯tərəs/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

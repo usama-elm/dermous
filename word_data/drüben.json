@@ -1,0 +1,26 @@
+{
+    "word": "drüben",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "over there",
+    "example_sentences": [
+        {
+            "de": "Ich sehe meine Freunde drüben.",
+            "en": "I see my friends over there."
+        },
+        {
+            "de": "Kommst du rüber oder bleibst du drüben?",
+            "en": "Are you coming over or staying over there?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈdʁyːbn̩",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

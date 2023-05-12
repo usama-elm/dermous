@@ -1,0 +1,26 @@
+{
+    "word": "deinem",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "deine",
+    "translation": "your",
+    "example_sentences": [
+        {
+            "de": "Ich habe deinem Vater ein Geschenk gegeben.",
+            "en": "I gave your father a gift."
+        },
+        {
+            "de": "Deinem Hund geht es gut.",
+            "en": "Your dog is doing well."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈdaɪ̯nəm/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 4
+}

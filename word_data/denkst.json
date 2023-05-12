@@ -1,0 +1,26 @@
+{
+    "word": "denkst",
+    "gender": "m/f/neuter",
+    "article": "none",
+    "word_type": "verb (infinitive: denken)",
+    "translation": "think",
+    "example_sentences": [
+        {
+            "de": "Was denkst du?",
+            "en": "What do you think?"
+        },
+        {
+            "de": "Ich denke, also bin ich.",
+            "en": "I think, therefore I am."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈdɛŋkst/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "denkt",
+    "past_perfect": "gedacht",
+    "preterite": "dachte",
+    "frequency_scale": 7
+}

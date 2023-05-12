@@ -1,0 +1,26 @@
+{
+    "word": "gänzlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "completely",
+    "example_sentences": [
+        {
+            "de": "Er hat gänzlich recht.",
+            "en": "He is completely right."
+        },
+        {
+            "de": "Das ist gänzlich unmöglich.",
+            "en": "That is completely impossible."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈɡɛnt͡sliç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

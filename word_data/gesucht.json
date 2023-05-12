@@ -1,0 +1,27 @@
+{
+    "word": "gesucht",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "suchen",
+    "translation": "sought",
+    "example_sentences": [
+        {
+            "de": "Die Polizei hat den Täter gesucht.",
+            "en": "The police searched for the perpetrator."
+        },
+        {
+            "de": "Ich habe lange nach meinem Schlüssel gesucht.",
+            "en": "I searched for my key for a long time."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈzʊxt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "sucht",
+    "past_perfect": "hat gesucht",
+    "preterite": "suchte",
+    "frequency_scale": 8
+}

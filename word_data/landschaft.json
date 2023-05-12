@@ -1,0 +1,26 @@
+{
+    "word": "landschaft",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "landscape",
+    "example_sentences": [
+        {
+            "de": "Die Landschaft hier ist sehr schön.",
+            "en": "The landscape here is very beautiful."
+        },
+        {
+            "de": "Ich liebe die Landschaft in Bayern.",
+            "en": "I love the landscape in Bavaria."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈlantʃaft/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

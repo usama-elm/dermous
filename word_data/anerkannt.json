@@ -1,0 +1,27 @@
+{
+    "word": "anerkannt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "anerkennen",
+    "translation": "recognized",
+    "example_sentences": [
+        {
+            "de": "Seine Arbeit wurde endlich anerkannt.",
+            "en": "His work was finally recognized."
+        },
+        {
+            "de": "Die Universität ist international anerkannt.",
+            "en": "The university is internationally recognized."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/anɛʁkannt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": {
+        "present_3rd_singular": "erkennt an",
+        "past_perfect": "anerkannt gehabt",
+        "preterite": "erkannte an",
+        "frequency": 6
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "word": "eigentümliche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "peculiar",
+    "example_sentences": [
+        {
+            "de": "Sie hat eine eigentümliche Art zu sprechen.",
+            "en": "She has a peculiar way of speaking."
+        },
+        {
+            "de": "Das ist eine eigentümliche Idee.",
+            "en": "That's a peculiar idea."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "ˈaɪ̯ɡn̩tʏmlɪçə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 4
+}

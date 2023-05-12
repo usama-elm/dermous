@@ -1,0 +1,26 @@
+{
+    "word": "königs",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "king's",
+    "example_sentences": [
+        {
+            "de": "Das Schloss gehört den Königs.",
+            "en": "The castle belongs to the king's."
+        },
+        {
+            "de": "Die Königs sind seit Jahrhunderten eine mächtige Familie.",
+            "en": "The king's have been a powerful family for centuries."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈkøːnɪçs",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

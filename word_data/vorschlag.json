@@ -1,0 +1,26 @@
+{
+    "word": "vorschlag",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "proposal",
+    "example_sentences": [
+        {
+            "de": "Ich habe einen Vorschlag für das Projekt.",
+            "en": "I have a proposal for the project."
+        },
+        {
+            "de": "Hast du einen Vorschlag, wie wir das Problem lösen können?",
+            "en": "Do you have a proposal for how we can solve the problem?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈfɔʁʃlaːk/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

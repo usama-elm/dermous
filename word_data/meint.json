@@ -1,0 +1,26 @@
+{
+    "word": "meint",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "meinen",
+    "translation": "means",
+    "example_sentences": [
+        {
+            "de": "Was meint das Wort?",
+            "en": "What does the word mean?"
+        },
+        {
+            "de": "Er meint es ernst.",
+            "en": "He means it seriously."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/maɪnt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "meint",
+    "past_perfect": "gemeint",
+    "preterite": "meinte",
+    "frequency_scale": 8
+}

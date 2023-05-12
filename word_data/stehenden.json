@@ -1,0 +1,26 @@
+{
+    "word": "stehenden",
+    "gender": "m",
+    "article": "der",
+    "word_type": "stehen",
+    "translation": "standing",
+    "example_sentences": [
+        {
+            "de": "Die stehenden Menschenmenge blockierte die Straße.",
+            "en": "The standing crowd blocked the street."
+        },
+        {
+            "de": "Die stehenden Ovationen waren ein Zeichen der Anerkennung.",
+            "en": "The standing ovations were a sign of recognition."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈʃteːəndən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3rd_singular": "steht",
+    "past_perfect": "hat gestanden",
+    "preterite": "stand",
+    "frequency_scale": 8
+}

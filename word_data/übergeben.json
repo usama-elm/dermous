@@ -1,0 +1,21 @@
+{
+    "word": "übergeben",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to hand over",
+    "example_sentences": [
+        "Ich werde ihm das Paket übergeben.",
+        "Er hat mir gestern das Buch übergeben.",
+        "Sie hat die Verantwortung an ihren Nachfolger übergeben."
+    ],
+    "usage_frequency": 7,
+    "ipa": "yːbɐˈɡeːbn̩",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "übergibt",
+    "past_perfect": "hat übergeben",
+    "preterite": "übergab",
+    "frequency_scale": 8
+}

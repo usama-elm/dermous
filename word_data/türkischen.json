@@ -1,0 +1,26 @@
+{
+    "word": "türkischen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjective",
+    "translation": "Turkish",
+    "example_sentences": [
+        {
+            "de": "Ich lerne türkisch.",
+            "en": "I am learning Turkish."
+        },
+        {
+            "de": "Er spricht türkisch.",
+            "en": "He speaks Turkish."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈtʏʁkɪʃən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

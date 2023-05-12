@@ -1,0 +1,21 @@
+{
+    "word": "anordnung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "arrangement",
+    "example_sentences": [
+        {
+            "de": "Die Anordnung der Möbel gefällt mir.",
+            "en": "I like the arrangement of the furniture."
+        },
+        {
+            "de": "Die Anordnung der Blumen ist sehr schön.",
+            "en": "The arrangement of the flowers is very beautiful."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈanɔʁdnʊŋ/",
+    "difficulty_level": "B1",
+    "irregular": false
+}

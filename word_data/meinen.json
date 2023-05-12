@@ -1,0 +1,26 @@
+{
+    "word": "meinen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "to mean",
+    "example_sentences": [
+        {
+            "de": "Was meinst du damit?",
+            "en": "What do you mean by that?"
+        },
+        {
+            "de": "Ich meine, dass wir das besser lassen sollten.",
+            "en": "I mean that we should better not do that."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈmaɪ̯nən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "meint",
+    "past_perfect": "gemeint",
+    "preterite": "meinte",
+    "frequency_scale": 7
+}

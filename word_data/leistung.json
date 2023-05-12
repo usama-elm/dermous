@@ -1,0 +1,26 @@
+{
+    "word": "leistung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "performance",
+    "example_sentences": [
+        {
+            "de": "Die Leistung des Motors ist beeindruckend.",
+            "en": "The performance of the engine is impressive."
+        },
+        {
+            "de": "Die Leistung des Athleten war außergewöhnlich.",
+            "en": "The athlete's performance was exceptional."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈlaɪ̯stʊŋ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

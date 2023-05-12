@@ -1,0 +1,23 @@
+{
+    "word": "jahreszeit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "season",
+    "example_sentences": [
+        {
+            "de": "Im Herbst beginnt die Jahreszeit der bunten Blätter.",
+            "en": "In autumn, the season of colorful leaves begins."
+        },
+        {
+            "de": "Die Jahreszeit des Winters ist oft von Schnee und Kälte geprägt.",
+            "en": "The season of winter is often characterized by snow and cold."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈjaːʁəsˌtsaɪt",
+    "verb_auxiliary": "",
+    "difficulty_level": "A2",
+    "irregular_forms": {},
+    "frequency_over_10": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "jahre",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "years",
+    "example_sentences": [
+        {
+            "de": "Ich habe in den letzten zehn Jahren viel gelernt.",
+            "en": "I have learned a lot in the last ten years."
+        },
+        {
+            "de": "Vor vielen Jahren habe ich Deutsch gelernt.",
+            "en": "I learned German many years ago."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈjaːʁə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "is_irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

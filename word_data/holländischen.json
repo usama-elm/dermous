@@ -1,0 +1,26 @@
+{
+    "word": "holländischen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "Adjective",
+    "translation": "Dutch",
+    "example_sentences": [
+        {
+            "de": "Ich habe gestern holländischen Käse gekauft.",
+            "en": "I bought Dutch cheese yesterday."
+        },
+        {
+            "de": "Die holländischen Windmühlen sind sehr bekannt.",
+            "en": "The Dutch windmills are very famous."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/hɔˈlɛndɪʃən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

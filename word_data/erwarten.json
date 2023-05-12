@@ -1,0 +1,26 @@
+{
+    "word": "erwarten",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to expect",
+    "example_sentences": [
+        {
+            "de": "Ich erwarte dich um 8 Uhr.",
+            "en": "I expect you at 8 o'clock."
+        },
+        {
+            "de": "Wir erwarten ein Baby.",
+            "en": "We are expecting a baby."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ɛɐ̯ˈvaʁtən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erwartet",
+    "past_perfect": "hat erwartet",
+    "preterite": "erwartete",
+    "frequency_scale": 7
+}

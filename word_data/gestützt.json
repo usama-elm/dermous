@@ -1,0 +1,26 @@
+{
+    "word": "gestützt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Infinitive",
+    "translation": "supported",
+    "example_sentences": [
+        {
+            "de": "Er hat sich auf den Stock gestützt.",
+            "en": "He leaned on the stick for support."
+        },
+        {
+            "de": "Die Entscheidung wurde auf Fakten gestützt.",
+            "en": "The decision was based on facts."
+        }
+    ],
+    "usage_frequency": 6,
+    "IPA": "ɡəˈʃtʏtst",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "stützt",
+    "past_perfect": "hat gestützt",
+    "preterite": "stützte",
+    "frequency_scale": 7
+}

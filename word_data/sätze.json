@@ -1,0 +1,26 @@
+{
+    "word": "Sätze",
+    "gender": "m",
+    "article": "die",
+    "word_type": "Noun",
+    "translation": "sentences",
+    "example_sentences": [
+        {
+            "de": "Ich schreibe gerne lange Sätze.",
+            "en": "I like to write long sentences."
+        },
+        {
+            "de": "Die Sätze in diesem Buch sind sehr kompliziert.",
+            "en": "The sentences in this book are very complicated."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈzɛt͡sə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

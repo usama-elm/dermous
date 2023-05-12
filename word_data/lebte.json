@@ -1,0 +1,27 @@
+{
+    "word": "lebte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "verb",
+    "infinitive": "leben",
+    "translation": "lived",
+    "example_sentences": [
+        {
+            "de": "Er lebte in einer kleinen Stadt.",
+            "en": "He lived in a small town."
+        },
+        {
+            "de": "Sie lebte für ihre Arbeit.",
+            "en": "She lived for her work."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈleːptə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "lebt",
+    "past_perfect": "gelebt",
+    "preterite": "lebte",
+    "frequency_scale": 8
+}

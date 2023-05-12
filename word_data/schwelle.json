@@ -1,0 +1,25 @@
+{
+    "word": "schwelle",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "threshold",
+    "example_sentences": [
+        {
+            "de": "Ich stehe auf der Schwelle zu einem neuen Leben.",
+            "en": "I am standing on the threshold of a new life."
+        },
+        {
+            "de": "Die Schwelle des Hauses war sehr hoch.",
+            "en": "The threshold of the house was very high."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈʃvɛlə/",
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "verb_auxiliary": null
+}

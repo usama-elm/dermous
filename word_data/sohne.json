@@ -1,0 +1,26 @@
+{
+    "word": "Söhne",
+    "gender": "plural, masculine",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "sons",
+    "example_sentences": [
+        {
+            "de": "Meine Söhne spielen gerne Fußball.",
+            "en": "My sons like to play soccer."
+        },
+        {
+            "de": "Die Söhne meines Bruders sind schon erwachsen.",
+            "en": "My brother's sons are already adults."
+        }
+    ],
+    "usage_frequency": 8.5,
+    "ipa": "/ˈzøːnə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": null
+}

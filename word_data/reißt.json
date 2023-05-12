@@ -1,0 +1,26 @@
+{
+    "word": "reißt",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Infinitive",
+    "translation": "tears",
+    "example_sentences": [
+        {
+            "de": "Sie reißt das Papier in kleine Stücke.",
+            "en": "She tears the paper into small pieces."
+        },
+        {
+            "de": "Der Sturm reißt die Bäume aus der Erde.",
+            "en": "The storm tears the trees out of the ground."
+        }
+    ],
+    "usage_frequency": 7,
+    "IPA_code": "/ʁaɪ̯st/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "reißt",
+    "past_perfect": "gerissen",
+    "preterite": "riss",
+    "frequency_scale": 8
+}

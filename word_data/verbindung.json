@@ -1,0 +1,21 @@
+{
+    "word": "Verbindung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "connection",
+    "example_sentences": [
+        {
+            "de": "Ich habe eine Verbindung zum Internet.",
+            "en": "I have a connection to the internet."
+        },
+        {
+            "de": "Die Verbindung zwischen den beiden Ländern ist sehr eng.",
+            "en": "The connection between the two countries is very close."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "fɛɐ̯ˈbɪndʊŋ",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

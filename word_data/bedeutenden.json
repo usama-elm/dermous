@@ -1,0 +1,26 @@
+{
+    "word": "bedeutenden",
+    "gender": "m/f/neuter",
+    "article": "der/die/das",
+    "word_type": "adjective",
+    "translation": "significant",
+    "example_sentences": [
+        {
+            "de": "Er hatte eine bedeutende Rolle in der Geschichte gespielt.",
+            "en": "He had played a significant role in history."
+        },
+        {
+            "de": "Die Firma hat eine bedeutende Stellung auf dem Markt.",
+            "en": "The company has a significant position in the market."
+        }
+    ],
+    "usage_frequency": 7,
+    "IPA": "bəˈdɔɪtəndən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

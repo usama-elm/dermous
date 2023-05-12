@@ -1,0 +1,21 @@
+{
+    "word": "grüßte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "grüßen",
+    "translation": "greeted",
+    "example_sentences": [
+        "Er grüßte mich freundlich.",
+        "Sie grüßte alle Anwesenden.",
+        "Ich habe gestern meinen alten Freund wiedergetroffen und ihn herzlichst gegrüßt."
+    ],
+    "usage_frequency": 7,
+    "IPA": "/ˈɡʁyːstə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "grüßt",
+    "past_perfect": "gegrüßt",
+    "preterite": "grüßte",
+    "frequency_scale": 8
+}

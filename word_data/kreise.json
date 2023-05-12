@@ -1,0 +1,21 @@
+{
+    "word": "kreise",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "circles",
+    "example_sentences": [
+        {
+            "de": "Ich zeichne Kreise auf das Papier.",
+            "en": "I draw circles on the paper."
+        },
+        {
+            "de": "Die Erde kreist um die Sonne.",
+            "en": "The Earth revolves around the sun."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈkʁaɪ̯zə/",
+    "difficulty_level": "A1",
+    "irregular_verb": false
+}

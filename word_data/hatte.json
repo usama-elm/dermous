@@ -1,0 +1,26 @@
+{
+    "word": "hatte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "haben",
+    "translation": "had",
+    "example_sentences": [
+        {
+            "de": "Ich hatte gestern viel zu tun.",
+            "en": "I had a lot to do yesterday."
+        },
+        {
+            "de": "Sie hatte keine Zeit für ein Treffen.",
+            "en": "She didn't have time for a meeting."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈhatə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "hat",
+    "past_perfect": "hat gehabt",
+    "preterite": "hatte",
+    "frequency_scale": 7
+}

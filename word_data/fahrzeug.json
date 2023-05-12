@@ -1,0 +1,26 @@
+{
+    "word": "fahrzeug",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "vehicle",
+    "example_sentences": [
+        {
+            "de": "Ich habe gestern ein neues Fahrzeug gekauft.",
+            "en": "I bought a new vehicle yesterday."
+        },
+        {
+            "de": "Das Fahrzeug ist sehr schnell.",
+            "en": "The vehicle is very fast."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈfaːɐ̯t͡sɔʏk/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": null
+}

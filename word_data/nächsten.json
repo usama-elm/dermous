@@ -1,0 +1,26 @@
+{
+    "word": "nächsten",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjektiv",
+    "translation": "next",
+    "example_sentences": [
+        {
+            "de": "Ich sehe meinen nächsten Geburtstag schon kommen.",
+            "en": "I can already see my next birthday coming."
+        },
+        {
+            "de": "Der nächste Zug fährt in 10 Minuten ab.",
+            "en": "The next train departs in 10 minutes."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈnɛkstən",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

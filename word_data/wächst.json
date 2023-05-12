@@ -1,0 +1,26 @@
+{
+    "word": "wächst",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "wachsen",
+    "translation": "grows",
+    "example_sentences": [
+        {
+            "de": "Der Baum wächst schnell.",
+            "en": "The tree grows quickly."
+        },
+        {
+            "de": "Die Bevölkerung wächst stetig.",
+            "en": "The population is growing steadily."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/vɛkst/",
+    "verb_auxiliary": "ist",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wächst",
+    "past_perfect": "gewachsen",
+    "preterite": "wuchs",
+    "frequency_scale": 7
+}

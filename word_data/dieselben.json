@@ -1,0 +1,27 @@
+{
+    "word": "dieselben",
+    "gender": "plural",
+    "article": "none",
+    "word_type": "pronoun",
+    "translation": "the same ones",
+    "example_sentences": [
+        {
+            "de": "Ich habe dieselben Schuhe wie du.",
+            "en": "I have the same shoes as you."
+        },
+        {
+            "de": "Wir haben dieselben Interessen.",
+            "en": "We have the same interests."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ˈdiːzəlˌbən",
+    "verb_auxiliary": "none",
+    "difficulty_level": "B1",
+    "irregularities": {
+        "present_3rd_singular": "none",
+        "past_perfect": "none",
+        "preterite": "none",
+        "frequency": 0
+    }
+}

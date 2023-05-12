@@ -1,0 +1,26 @@
+{
+    "word": "kampfe",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Infinitive",
+    "translation": "fight",
+    "example_sentences": [
+        {
+            "de": "Ich kampfe für meine Freiheit.",
+            "en": "I fight for my freedom."
+        },
+        {
+            "de": "Er kampft gegen die Ungerechtigkeit.",
+            "en": "He fights against injustice."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈkampfə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "kämpft",
+    "past_perfect": "gekämpft",
+    "preterite": "kämpfte",
+    "frequency_scale": 8
+}

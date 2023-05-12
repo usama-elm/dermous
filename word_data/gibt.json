@@ -1,0 +1,26 @@
+{
+    "word": "gibt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "geben",
+    "translation": "gives",
+    "example_sentences": [
+        {
+            "de": "Er gibt ihr eine Blume.",
+            "en": "He gives her a flower."
+        },
+        {
+            "de": "Es gibt viele Möglichkeiten.",
+            "en": "There are many possibilities."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ɡɪpt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "A1",
+    "irregular": true,
+    "present_3rd_singular": "gibt",
+    "past_perfect": "gegeben",
+    "preterite": "gab",
+    "frequency_scale": 9
+}

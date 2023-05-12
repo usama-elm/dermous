@@ -1,0 +1,21 @@
+{
+    "word": "lebten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "leben",
+    "translation": "lived",
+    "example_sentences": [
+        "Sie lebten glücklich bis ans Ende ihrer Tage. (They lived happily ever after.)",
+        "Die Dinosaurier lebten vor Millionen von Jahren. (The dinosaurs lived millions of years ago.)"
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈleːptən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "lebt",
+    "past_perfect": "gelebt",
+    "preterite": "lebten",
+    "frequency_scale": 8
+}

@@ -1,0 +1,27 @@
+{
+    "word": "häusern",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "häusern",
+    "translation": "to house",
+    "example_sentences": [
+        {
+            "de": "Die Stadt will Obdachlose in leerstehenden Gebäuden häusern lassen.",
+            "en": "The city wants to house homeless people in vacant buildings."
+        },
+        {
+            "de": "Wir haben uns entschieden, in einem kleinen Dorf zu häusern.",
+            "en": "We have decided to live in a small village."
+        }
+    ],
+    "usage_frequency": 5,
+    "ipa": "/ˈhɔʏzɐn/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "häusert",
+    "past_perfect": "gehäusert",
+    "preterite": "häuserte",
+    "frequency_scale": 7
+}

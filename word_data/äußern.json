@@ -1,0 +1,21 @@
+{
+    "word": "äußern",
+    "gender": "n/a",
+    "article": "n/a",
+    "word_type": "verb",
+    "translation": "to express, to voice",
+    "example_sentences": [
+        "Er äußerte seine Meinung zu dem Thema.",
+        "Sie äußerte ihre Bedenken gegenüber dem Plan.",
+        "Ich habe mich noch nicht dazu geäußert."
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈɔʏ̯sɐn/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "äußert",
+    "past_perfect": "geäußert",
+    "preterite": "äußerte",
+    "frequency": 6
+}

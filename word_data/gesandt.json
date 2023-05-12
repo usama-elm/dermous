@@ -1,0 +1,22 @@
+{
+    "word": "gesandt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "senden",
+    "translation": "sent",
+    "example_sentences": [
+        "Er hat den Brief gestern gesandt. (He sent the letter yesterday.)",
+        "Die Ware wird per Schiff gesandt. (The goods will be sent by ship.)"
+    ],
+    "usage_frequency": 3,
+    "ipa": "/ɡəˈzant/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregularities": {
+        "present_3rd_singular": "sendet",
+        "past_perfect": "gesandt",
+        "preterite": "sandte",
+        "frequency": 5
+    }
+}

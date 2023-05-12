@@ -1,0 +1,26 @@
+{
+    "word": "gewand",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "garment",
+    "example_sentences": [
+        {
+            "de": "Sie trug ein elegantes Gewand zur Hochzeit.",
+            "en": "She wore an elegant garment to the wedding."
+        },
+        {
+            "de": "Das Gewand des Königs war mit Gold bestickt.",
+            "en": "The king's garment was embroidered with gold."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ɡəˈvant",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

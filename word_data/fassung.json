@@ -1,0 +1,27 @@
+{
+    "word": "Fassung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "setting, mount, frame, socket, receptacle",
+    "example_sentences": [
+        {
+            "de": "Die Fassung der Glühbirne ist kaputt.",
+            "en": "The socket of the light bulb is broken."
+        },
+        {
+            "de": "Die Brille sitzt locker in der Fassung.",
+            "en": "The glasses are loose in the frame."
+        }
+    ],
+    "usage_frequency": 3.5,
+    "ipa": "/ˈfasʊŋ/",
+    "verb_auxiliary": "",
+    "difficulty_level": "B1",
+    "irregular_forms": {
+        "present_3rd_singular": "",
+        "past_participle": "",
+        "preterite": "",
+        "frequency": ""
+    }
+}

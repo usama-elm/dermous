@@ -1,0 +1,26 @@
+{
+    "word": "meinem",
+    "gender": "m",
+    "article": "der",
+    "word_type": "mein",
+    "translation": "my",
+    "example_sentences": [
+        {
+            "de": "Ich gebe meinem Freund ein Geschenk.",
+            "en": "I give my friend a present."
+        },
+        {
+            "de": "Meinem Bruder geht es gut.",
+            "en": "My brother is doing well."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈmaɪ̯nəm/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

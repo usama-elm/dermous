@@ -1,0 +1,20 @@
+{
+    "word": "schüchtern",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "shy",
+    "example_sentences": [
+        "Er ist sehr schüchtern und traut sich nicht, sie anzusprechen. (He is very shy and doesn't dare to talk to her.)",
+        "Sie ist schüchtern und zurückhaltend. (She is shy and reserved.)"
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈʃʏçtɐn/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

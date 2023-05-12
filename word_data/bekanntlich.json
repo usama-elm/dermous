@@ -1,0 +1,26 @@
+{
+    "word": "bekanntlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "as is well known",
+    "example_sentences": [
+        {
+            "de": "Bekanntlich ist er ein großer Fan von Fußball.",
+            "en": "As is well known, he is a big fan of soccer."
+        },
+        {
+            "de": "Bekanntlich ist der frühe Vogel der Wurm.",
+            "en": "As is well known, the early bird catches the worm."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈkan(t)lɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

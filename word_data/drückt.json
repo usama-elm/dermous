@@ -1,0 +1,21 @@
+{
+    "word": "drückt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "drücken",
+    "translation": "presses",
+    "example_sentences": [
+        "Er drückt den Knopf.",
+        "Sie drückt ihre Gefühle nicht aus.",
+        "Das Auto drückt auf die Straße."
+    ],
+    "usage_frequency": 7,
+    "IPA_code": "/ˈdʁʏkt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "drückt",
+    "past_perfect": "gedrückt",
+    "preterite": "drückte",
+    "frequency_scale": 8
+}

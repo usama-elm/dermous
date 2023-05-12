@@ -1,0 +1,26 @@
+{
+    "word": "gespannt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "excited",
+    "example_sentences": [
+        {
+            "de": "Ich bin gespannt auf das Konzert heute Abend.",
+            "en": "I am excited for the concert tonight."
+        },
+        {
+            "de": "Die Kinder waren gespannt auf ihre Geschenke.",
+            "en": "The children were excited for their presents."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈʃpant/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

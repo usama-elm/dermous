@@ -1,0 +1,27 @@
+{
+    "word": "betrifft",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "betreffen",
+    "translation": "concerns",
+    "example_sentences": [
+        {
+            "de": "Das betrifft mich nicht.",
+            "en": "That doesn't concern me."
+        },
+        {
+            "de": "Die neuen Regelungen betreffen alle Mitarbeiter.",
+            "en": "The new regulations concern all employees."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈtʁɪft/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "betrifft",
+    "past_perfect": "hat betroffen",
+    "preterite": "betroff",
+    "frequency_scale": 8
+}

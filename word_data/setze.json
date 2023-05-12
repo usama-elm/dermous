@@ -1,0 +1,26 @@
+{
+    "word": "setze",
+    "gender": "f",
+    "article": "die",
+    "word_type": "setzen",
+    "translation": "to set",
+    "example_sentences": [
+        {
+            "de": "Ich setze mich auf den Stuhl.",
+            "en": "I sit down on the chair."
+        },
+        {
+            "de": "Setz dich bitte hin.",
+            "en": "Please sit down."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈzɛtsə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "setzt",
+    "past_perfect": "gesetzt",
+    "preterite": "setzte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,21 @@
+{
+    "word": "eingeschlossen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "eingeschlossen (infinitive: einschließen)",
+    "translation": "enclosed",
+    "example_sentences": [
+        "Das Paket ist eingeschlossen.",
+        "Die Tür ist eingeschlossen.",
+        "Die Kinder sind im Haus eingeschlossen."
+    ],
+    "usage_frequency": 7,
+    "IPA": "ˈaɪnɡəˌʃlɔsn̩",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schließt ein",
+    "past_perfect": "hat eingeschlossen",
+    "preterite": "schloss ein",
+    "frequency": 6
+}

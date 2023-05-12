@@ -1,0 +1,26 @@
+{
+    "word": "Regierung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "government",
+    "example_sentences": [
+        {
+            "de": "Die Regierung hat beschlossen, die Steuern zu erhöhen.",
+            "en": "The government has decided to increase taxes."
+        },
+        {
+            "de": "Die Regierungspartei hat die Wahl gewonnen.",
+            "en": "The government party has won the election."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ʁeɡiˈʁʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

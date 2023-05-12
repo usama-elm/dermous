@@ -1,0 +1,26 @@
+{
+    "word": "helfen",
+    "gender": "verb",
+    "article": "",
+    "word_type": "infinitive",
+    "translation": "to help",
+    "example_sentences": [
+        {
+            "de": "Kannst du mir bitte helfen?",
+            "en": "Can you please help me?"
+        },
+        {
+            "de": "Ich helfe gerne anderen Menschen.",
+            "en": "I like to help other people."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈhɛlfən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "hilft",
+    "past_perfect": "geholfen",
+    "preterite": "half",
+    "frequency_scale": 9
+}

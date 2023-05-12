@@ -1,0 +1,26 @@
+{
+    "word": "tiefer",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjective",
+    "translation": "deeper",
+    "example_sentences": [
+        {
+            "de": "Der Fluss wird tiefer, je weiter man hinaus schwimmt.",
+            "en": "The river gets deeper the further you swim out."
+        },
+        {
+            "de": "Ich möchte tiefer in das Thema eintauchen.",
+            "en": "I want to delve deeper into the topic."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈtiːfɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

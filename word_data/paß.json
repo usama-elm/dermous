@@ -1,0 +1,21 @@
+{
+    "word": "Pass",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Noun",
+    "translation": "pass, passport",
+    "example_sentences": [
+        {
+            "de": "Ich brauche meinen Pass, um ins Ausland zu reisen.",
+            "en": "I need my passport to travel abroad."
+        },
+        {
+            "de": "Der Pass ist abgelaufen.",
+            "en": "The passport has expired."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/pas/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

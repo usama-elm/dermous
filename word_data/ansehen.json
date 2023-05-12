@@ -1,0 +1,26 @@
+{
+    "word": "ansehen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to look at, to watch",
+    "example_sentences": [
+        {
+            "de": "Ich sehe mir gerne Filme an.",
+            "en": "I like to watch movies."
+        },
+        {
+            "de": "Er sieht sich oft im Spiegel an.",
+            "en": "He often looks at himself in the mirror."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈanzeːən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "sieht an",
+    "past_perfect": "angesehen",
+    "preterite": "sah an",
+    "frequency_scale": 8
+}

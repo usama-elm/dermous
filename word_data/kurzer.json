@@ -1,0 +1,26 @@
+{
+    "word": "kurzer",
+    "gender": "m",
+    "article": "der",
+    "word_type": "adjective",
+    "translation": "shorter",
+    "example_sentences": [
+        {
+            "de": "Ich brauche einen kurzen Bleistift.",
+            "en": "I need a short pencil."
+        },
+        {
+            "de": "Das Kleid ist mir zu kurz.",
+            "en": "The dress is too short for me."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈkʊrt͡sɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

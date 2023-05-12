@@ -1,0 +1,26 @@
+{
+    "word": "drein",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "in, into",
+    "example_sentences": [
+        {
+            "de": "Er geht drein.",
+            "en": "He goes in."
+        },
+        {
+            "de": "Sie wirft das Geld drein.",
+            "en": "She throws the money in."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "dʁaɪ̯n",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": null
+}

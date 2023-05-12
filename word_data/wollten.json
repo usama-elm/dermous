@@ -1,0 +1,27 @@
+{
+    "word": "wollten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "wollen",
+    "translation": "wanted",
+    "example_sentences": [
+        {
+            "de": "Sie wollten gestern ins Kino gehen.",
+            "en": "They wanted to go to the cinema yesterday."
+        },
+        {
+            "de": "Wir wollten eigentlich schon längst da sein.",
+            "en": "We actually wanted to be there a long time ago."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈvɔltən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "will",
+    "past_perfect": "gewollt",
+    "preterite": "wollten",
+    "frequency_scale": 7
+}

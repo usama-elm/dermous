@@ -1,0 +1,27 @@
+{
+    "word": "meisten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "meisten",
+    "translation": "to master",
+    "example_sentences": [
+        {
+            "de": "Ich möchte Deutsch meistern.",
+            "en": "I want to master German."
+        },
+        {
+            "de": "Er hat das Spiel gemeistert.",
+            "en": "He mastered the game."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈmaɪstən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "meistert",
+    "past_perfect": "gemeistert",
+    "preterite": "meisterte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,27 @@
+{
+    "word": "sechs",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "number",
+    "translation": "six",
+    "example_sentences": [
+        {
+            "de": "Ich habe sechs Äpfel gekauft.",
+            "en": "I bought six apples."
+        },
+        {
+            "de": "Die Uhr zeigt sechs Uhr an.",
+            "en": "The clock shows six o'clock."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/zɛks/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregularities": {
+        "present_3rd_singular": null,
+        "past_perfect": null,
+        "preterite": null,
+        "frequency": null
+    }
+}

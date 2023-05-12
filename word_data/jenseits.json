@@ -1,0 +1,26 @@
+{
+    "word": "jenseits",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "beyond",
+    "example_sentences": [
+        {
+            "de": "Das Leben jenseits des Todes ist ein Mysterium.",
+            "en": "Life beyond death is a mystery."
+        },
+        {
+            "de": "Jenseits des Flusses liegt die Stadt.",
+            "en": "The city lies beyond the river."
+        }
+    ],
+    "usage_frequency": 4,
+    "ipa": "ˈjɛnzaits",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

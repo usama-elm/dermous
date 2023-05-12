@@ -1,0 +1,20 @@
+{
+    "word": "dauern",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to last",
+    "example_sentences": [
+        "Die Party dauert bis Mitternacht. (The party lasts until midnight.)",
+        "Es dauert lange, bis der Kuchen fertig ist. (It takes a long time until the cake is ready.)"
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈdaʊ̯ɐn/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "dauert",
+    "past_perfect": "gedauert",
+    "preterite": "dauerte",
+    "frequency": 6
+}

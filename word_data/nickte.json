@@ -1,0 +1,26 @@
+{
+    "word": "nickte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "nodded",
+    "example_sentences": [
+        {
+            "de": "Er nickte zustimmend.",
+            "en": "He nodded in agreement."
+        },
+        {
+            "de": "Sie nickte höflich.",
+            "en": "She nodded politely."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈnɪktə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "nickt",
+    "past_perfect": "genickt",
+    "preterite": "nickte",
+    "frequency": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "römer",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "Roman",
+    "example_sentences": [
+        {
+            "de": "Die Römer haben viele beeindruckende Bauwerke hinterlassen.",
+            "en": "The Romans have left behind many impressive buildings."
+        },
+        {
+            "de": "Ich habe gestern einen römischen Münzschatz gefunden.",
+            "en": "Yesterday, I found a Roman coin hoard."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈʁøːmɐ",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "erstaunen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to astonish",
+    "example_sentences": [
+        {
+            "de": "Seine Leistungen erstaunen mich immer wieder.",
+            "en": "His achievements astonish me again and again."
+        },
+        {
+            "de": "Es erstaunt mich, dass er das geschafft hat.",
+            "en": "I'm astonished that he managed to do that."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐ̯ˈʃtaʊ̯nən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erstaunt",
+    "past_perfect": "hat erstaunt",
+    "preterite": "erstaunte",
+    "frequency_scale": 8
+}

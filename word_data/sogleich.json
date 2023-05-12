@@ -1,0 +1,26 @@
+{
+    "word": "sogleich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "immediately",
+    "example_sentences": [
+        {
+            "de": "Ich komme sogleich.",
+            "en": "I'll be there immediately."
+        },
+        {
+            "de": "Er hat sogleich geantwortet.",
+            "en": "He answered immediately."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "zoˈɡlaɪ̯ç",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

@@ -1,0 +1,26 @@
+{
+    "word": "bedeutend",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "significant",
+    "example_sentences": [
+        {
+            "de": "Seine Arbeit war bedeutend für die Forschung.",
+            "en": "His work was significant for the research."
+        },
+        {
+            "de": "Die Firma hat bedeutende Fortschritte gemacht.",
+            "en": "The company has made significant progress."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈdɔɪ̯tənt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "angesehen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "respected",
+    "example_sentences": [
+        {
+            "de": "Er ist ein angesehener Arzt.",
+            "en": "He is a respected doctor."
+        },
+        {
+            "de": "Sie hat sich in der Firma einen angesehenen Namen gemacht.",
+            "en": "She has made a respected name for herself in the company."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈanɡəˌzeːən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

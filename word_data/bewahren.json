@@ -1,0 +1,20 @@
+{
+    "word": "bewahren",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to preserve, to keep",
+    "example_sentences": [
+        "Ich bewahre meine Erinnerungen in einer Schachtel auf. (I keep my memories in a box.)",
+        "Er bewahrt immer einen kühlen Kopf. (He always keeps a cool head.)"
+    ],
+    "usage_frequency": 7,
+    "IPA": "bəˈvaːʁən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "bewahrt",
+    "past_perfect": "hat bewahrt",
+    "preterite": "bewahrte",
+    "frequency": 6
+}

@@ -1,0 +1,25 @@
+{
+    "word": "früchte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "fruits",
+    "example_sentences": [
+        {
+            "de": "Ich esse gerne Früchte zum Frühstück.",
+            "en": "I like to eat fruits for breakfast."
+        },
+        {
+            "de": "Die Früchte des Baumes sind sehr süß.",
+            "en": "The fruits of the tree are very sweet."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈfʀʏçtə",
+    "difficulty_level": "A1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "steil",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "steep",
+    "example_sentences": [
+        {
+            "de": "Der Berg ist sehr steil.",
+            "en": "The mountain is very steep."
+        },
+        {
+            "de": "Die Straße ist zu steil für mein Fahrrad.",
+            "en": "The road is too steep for my bike."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ʃtaɪ̯l/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

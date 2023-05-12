@@ -1,0 +1,26 @@
+{
+    "word": "unterworfen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "infinitive",
+    "translation": "subjugated",
+    "example_sentences": [
+        {
+            "de": "Das Land wurde unterworfen und musste Tribut zahlen.",
+            "en": "The country was subjugated and had to pay tribute."
+        },
+        {
+            "de": "Die Bevölkerung war unterworfen und hatte keine Freiheit.",
+            "en": "The population was subjugated and had no freedom."
+        }
+    ],
+    "usage_frequency": 5,
+    "ipa": "/ˈʊntɐˌvɔʁfən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B2",
+    "irregular": true,
+    "present_3rd_singular": "unterwirft",
+    "past_perfect": "hat unterworfen",
+    "preterite": "unterwarf",
+    "frequency_scale": 8
+}

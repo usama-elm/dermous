@@ -1,0 +1,26 @@
+{
+    "word": "weich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "soft",
+    "example_sentences": [
+        {
+            "de": "Die Matratze ist sehr weich.",
+            "en": "The mattress is very soft."
+        },
+        {
+            "de": "Das Brot ist weich und frisch.",
+            "en": "The bread is soft and fresh."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/vaɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

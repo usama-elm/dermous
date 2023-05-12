@@ -1,0 +1,26 @@
+{
+    "word": "wirt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "innkeeper",
+    "example_sentences": [
+        {
+            "de": "Der Wirt hat uns freundlich empfangen.",
+            "en": "The innkeeper welcomed us warmly."
+        },
+        {
+            "de": "Der Wirt hat eine große Auswahl an Bieren.",
+            "en": "The innkeeper has a wide selection of beers."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/vɪʁt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

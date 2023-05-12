@@ -1,0 +1,26 @@
+{
+    "word": "tatsächlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "actually, really",
+    "example_sentences": [
+        {
+            "de": "Tatsächlich habe ich vergessen, meinen Schlüssel mitzunehmen.",
+            "en": "Actually, I forgot to take my key with me."
+        },
+        {
+            "de": "Tatsächlich ist es gar nicht so schwer, wie es aussieht.",
+            "en": "Really, it's not as difficult as it looks."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "tatsɛçlɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

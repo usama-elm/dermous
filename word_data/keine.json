@@ -1,0 +1,26 @@
+{
+    "word": "keine",
+    "gender": "f",
+    "article": "die",
+    "word_type": "pronoun",
+    "translation": "no, none, not any",
+    "example_sentences": [
+        {
+            "de": "Ich habe keine Zeit.",
+            "en": "I have no time."
+        },
+        {
+            "de": "Es gibt keine Probleme.",
+            "en": "There are no problems."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈkaɪ̯nə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

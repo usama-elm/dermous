@@ -1,0 +1,27 @@
+{
+    "word": "inseln",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "inseln",
+    "translation": "to island-hop",
+    "example_sentences": [
+        {
+            "de": "Wir haben im Urlaub die griechischen Inseln geinselt.",
+            "en": "We island-hopped in Greece on our vacation."
+        },
+        {
+            "de": "Sie wollen im Sommer die kroatischen Inseln inseln.",
+            "en": "They want to island-hop in Croatia this summer."
+        }
+    ],
+    "usage_frequency": 5,
+    "ipa": "/ˈɪnzəln/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "inselt",
+    "past_perfect": "geinselt",
+    "preterite": "inselte",
+    "frequency_scale": 7
+}

@@ -1,0 +1,21 @@
+{
+    "word": "stieß",
+    "gender": "m",
+    "article": "der",
+    "word_type": "stossen",
+    "translation": "pushed",
+    "example_sentences": [
+        "Er stieß die Tür auf.",
+        "Sie stieß ihn zur Seite.",
+        "Der Wagen stieß gegen die Mauer."
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ʃtiːs/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "stößt",
+    "past_perfect": "hat gestoßen",
+    "preterite": "stieß",
+    "frequency_scale": 8
+}

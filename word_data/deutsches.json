@@ -1,0 +1,26 @@
+{
+    "word": "deutsches",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "German",
+    "example_sentences": [
+        {
+            "de": "Ich spreche deutsches.",
+            "en": "I speak German."
+        },
+        {
+            "de": "Das ist ein deutsches Auto.",
+            "en": "That is a German car."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈdɔʏtʃəs/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

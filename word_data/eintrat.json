@@ -1,0 +1,27 @@
+{
+    "word": "eintrat",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "infinitive": "eintreten",
+    "translation": "to enter",
+    "example_sentences": [
+        {
+            "de": "Er trat in den Raum ein.",
+            "en": "He entered the room."
+        },
+        {
+            "de": "Wir sind in den Verein eingetreten.",
+            "en": "We joined the club."
+        }
+    ],
+    "usage_frequency": 7,
+    "IPA": "/ˈaɪnˌtʁaːt/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "tritt ein",
+    "past_perfect": "eingetreten",
+    "preterite": "trat ein",
+    "frequency": 8
+}

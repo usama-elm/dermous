@@ -1,0 +1,26 @@
+{
+    "word": "spiele",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "infinitive",
+    "translation": "play",
+    "example_sentences": [
+        {
+            "de": "Ich spiele gerne Fußball.",
+            "en": "I like to play soccer."
+        },
+        {
+            "de": "Kinder spielen oft draußen.",
+            "en": "Children often play outside."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈʃpiːlə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": "spielt",
+    "past_perfect": "gespielt",
+    "preterite": "spielte",
+    "frequency_scale": 8
+}

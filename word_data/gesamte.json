@@ -1,0 +1,26 @@
+{
+    "word": "gesamte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "entire",
+    "example_sentences": [
+        {
+            "de": "Die gesamte Familie war bei der Hochzeit dabei.",
+            "en": "The entire family was present at the wedding."
+        },
+        {
+            "de": "Ich habe die gesamte Nacht durchgearbeitet.",
+            "en": "I worked through the entire night."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈzamtə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

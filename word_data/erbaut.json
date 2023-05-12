@@ -1,0 +1,27 @@
+{
+    "word": "erbaut",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "erbauen",
+    "translation": "to build",
+    "example_sentences": [
+        {
+            "de": "Das Haus wurde im Jahr 2000 erbaut.",
+            "en": "The house was built in the year 2000."
+        },
+        {
+            "de": "Er hat eine Brücke über den Fluss erbaut.",
+            "en": "He built a bridge over the river."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɛɐ̯ˈbaʊ̯t",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erbaut",
+    "past_perfect": "hat erbaut",
+    "preterite": "erbaute",
+    "frequency_scale": 8
+}

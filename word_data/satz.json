@@ -1,0 +1,21 @@
+{
+    "word": "satz",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "sentence",
+    "example_sentences": [
+        {
+            "de": "Dies ist ein Beispiel-Satz.",
+            "en": "This is an example sentence."
+        },
+        {
+            "de": "Ich kann diesen Satz nicht verstehen.",
+            "en": "I can't understand this sentence."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/zats/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

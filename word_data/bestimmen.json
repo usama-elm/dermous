@@ -1,0 +1,26 @@
+{
+    "word": "bestimmen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to determine",
+    "example_sentences": [
+        {
+            "de": "Ich bestimme die Regeln.",
+            "en": "I determine the rules."
+        },
+        {
+            "de": "Wer bestimmt das Ergebnis?",
+            "en": "Who determines the outcome?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "bəˈʃtɪmən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "bestimmt",
+    "past_perfect": "bestimmt gehabt",
+    "preterite": "bestimmte",
+    "frequency_scale": 8
+}

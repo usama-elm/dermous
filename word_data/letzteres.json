@@ -1,0 +1,26 @@
+{
+    "word": "letzteres",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "pronoun",
+    "translation": "latter",
+    "example_sentences": [
+        {
+            "de": "Ich mag sowohl Äpfel als auch Birnen, aber letzteres ist mein Favorit.",
+            "en": "I like both apples and pears, but the latter is my favorite."
+        },
+        {
+            "de": "Ich habe zwei Bücher gelesen, das erste war gut, aber letzteres war großartig.",
+            "en": "I read two books, the first one was good, but the latter was great."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈlɛtstərəs",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

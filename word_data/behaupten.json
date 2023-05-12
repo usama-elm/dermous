@@ -1,0 +1,26 @@
+{
+    "word": "behaupten",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to claim",
+    "example_sentences": [
+        {
+            "de": "Er behauptet, er sei unschuldig.",
+            "en": "He claims he is innocent."
+        },
+        {
+            "de": "Ich behaupte nicht, dass ich immer Recht habe.",
+            "en": "I don't claim to always be right."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "bəˈhaʊptən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "behauptet",
+    "past_perfect": "behauptet gehabt",
+    "preterite": "behauptete",
+    "frequency_scale": 7
+}

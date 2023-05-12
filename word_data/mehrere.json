@@ -1,0 +1,26 @@
+{
+    "word": "mehrere",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "several",
+    "example_sentences": [
+        {
+            "de": "Ich habe mehrere Bücher gelesen.",
+            "en": "I have read several books."
+        },
+        {
+            "de": "Mehrere Personen haben den Unfall beobachtet.",
+            "en": "Several people witnessed the accident."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈmeːʁəʁə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

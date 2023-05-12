@@ -1,0 +1,26 @@
+{
+    "word": "zahlreichen",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "numerous",
+    "example_sentences": [
+        {
+            "de": "Die zahlreichen Besucher genossen die Ausstellung.",
+            "en": "The numerous visitors enjoyed the exhibition."
+        },
+        {
+            "de": "Die Stadt hat zahlreiche Sehenswürdigkeiten.",
+            "en": "The city has numerous sights."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈtsaːlˌʀaɪçən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

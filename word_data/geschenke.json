@@ -1,0 +1,26 @@
+{
+    "word": "geschenke",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "gifts",
+    "example_sentences": [
+        {
+            "de": "Ich habe viele Geschenke zu Weihnachten bekommen.",
+            "en": "I got a lot of gifts for Christmas."
+        },
+        {
+            "de": "Sie hat mir ein Geschenk zum Geburtstag gegeben.",
+            "en": "She gave me a gift for my birthday."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ɡəˈʃɛŋkə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

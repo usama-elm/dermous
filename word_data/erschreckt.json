@@ -1,0 +1,20 @@
+{
+    "word": "erschreckt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "erschrecken",
+    "translation": "scared",
+    "example_sentences": [
+        "Ich habe mich erschreckt, als ich das laute Geräusch gehört habe. (I got scared when I heard the loud noise.)",
+        "Er erschreckt sich immer, wenn er Horrorfilme sieht. (He always gets scared when he watches horror movies.)"
+    ],
+    "usage_frequency": 7,
+    "IPA_code": "/ɛɐ̯ˈʃʁɛkt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erschrickt",
+    "past_perfect": "hat erschrocken",
+    "preterite": "erschrak",
+    "frequency_scale": 8
+}

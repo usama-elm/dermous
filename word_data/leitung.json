@@ -1,0 +1,26 @@
+{
+    "word": "Leitung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "management, leadership, pipe, conduit",
+    "example_sentences": [
+        {
+            "de": "Die Leitung des Unternehmens hat sich geändert.",
+            "en": "The management of the company has changed."
+        },
+        {
+            "de": "Die Wasserleitung ist kaputt.",
+            "en": "The water pipe is broken."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈlaɪtʊŋ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,21 @@
+{
+    "word": "davon",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "of it, from it",
+    "example_sentences": [
+        "Ich habe genug davon.",
+        "Er hat nichts davon gesagt.",
+        "Davon habe ich noch nie gehört."
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/daˈfɔn/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

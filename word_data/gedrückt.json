@@ -1,0 +1,20 @@
+{
+    "word": "gedrückt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "depressed",
+    "example_sentences": [
+        "Er fühlt sich gedrückt und niedergeschlagen.",
+        "Die Stimmung im Raum war gedrückt und angespannt."
+    ],
+    "usage_frequency": 4,
+    "ipa": "ɡəˈdʁʏkt",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 4
+}

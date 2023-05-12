@@ -1,0 +1,26 @@
+{
+    "word": "bürgermeister",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "mayor",
+    "example_sentences": [
+        {
+            "de": "Der Bürgermeister hat gestern eine Rede gehalten.",
+            "en": "The mayor gave a speech yesterday."
+        },
+        {
+            "de": "Der Bürgermeister wird heute eine wichtige Entscheidung treffen.",
+            "en": "The mayor will make an important decision today."
+        }
+    ],
+    "usage_frequency": 8.5,
+    "ipa": "ˈbʏɐ̯ɡɐˌmaɪstɐ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

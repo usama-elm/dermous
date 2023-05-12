@@ -1,0 +1,26 @@
+{
+    "word": "gesetz",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "law",
+    "example_sentences": [
+        {
+            "de": "Das Gesetz verbietet das Rauchen in öffentlichen Gebäuden.",
+            "en": "The law prohibits smoking in public buildings."
+        },
+        {
+            "de": "Das Gesetz sieht eine Mindeststrafe von einem Jahr Gefängnis vor.",
+            "en": "The law provides for a minimum sentence of one year in prison."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈzɛts/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3sg": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

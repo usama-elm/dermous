@@ -1,0 +1,26 @@
+{
+    "word": "überhaupt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "at all, generally",
+    "example_sentences": [
+        {
+            "de": "Ich verstehe das überhaupt nicht.",
+            "en": "I don't understand that at all."
+        },
+        {
+            "de": "Überhaupt nicht!",
+            "en": "Not at all!"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈyːbɐhaʊ̯pt",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

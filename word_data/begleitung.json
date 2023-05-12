@@ -1,0 +1,26 @@
+{
+    "word": "begleitung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "accompaniment",
+    "example_sentences": [
+        {
+            "de": "Ich brauche Begleitung zum Arzt.",
+            "en": "I need accompaniment to the doctor."
+        },
+        {
+            "de": "Die Begleitung zur Party war sehr nett.",
+            "en": "The accompaniment to the party was very nice."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "bəˈɡlaɪtʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

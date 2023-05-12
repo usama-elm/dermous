@@ -1,0 +1,26 @@
+{
+    "word": "zustand",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "condition, state",
+    "example_sentences": [
+        {
+            "de": "Der Zustand des Patienten hat sich verbessert.",
+            "en": "The patient's condition has improved."
+        },
+        {
+            "de": "In welchem Zustand ist das Auto?",
+            "en": "In what condition is the car?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈt͡suːʃtant/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

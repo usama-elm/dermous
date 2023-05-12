@@ -1,0 +1,26 @@
+{
+    "word": "lateinischen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "Adjective",
+    "translation": "Latin",
+    "example_sentences": [
+        {
+            "de": "Die lateinische Sprache wird nicht mehr gesprochen.",
+            "en": "The Latin language is no longer spoken."
+        },
+        {
+            "de": "Er hat eine lateinische Redewendung benutzt.",
+            "en": "He used a Latin expression."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/la.teiˈnɪʃən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "erfolg",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "success",
+    "example_sentences": [
+        {
+            "de": "Sein Erfolg war unvermeidlich.",
+            "en": "His success was inevitable."
+        },
+        {
+            "de": "Sie hatte großen Erfolg mit ihrem neuen Buch.",
+            "en": "She had great success with her new book."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɛɐ̯ˈfɔlk/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

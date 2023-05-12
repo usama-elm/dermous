@@ -1,0 +1,26 @@
+{
+    "word": "deutscher",
+    "gender": "m",
+    "article": "der",
+    "word_type": "adjective",
+    "translation": "German",
+    "example_sentences": [
+        {
+            "de": "Ich bin deutscher Staatsbürger.",
+            "en": "I am a German citizen."
+        },
+        {
+            "de": "Die deutsche Sprache ist sehr schwer zu lernen.",
+            "en": "The German language is very difficult to learn."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈdɔʏtʃɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "schützen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to protect",
+    "example_sentences": [
+        {
+            "de": "Ich schütze meine Familie vor Gefahren.",
+            "en": "I protect my family from dangers."
+        },
+        {
+            "de": "Die Polizei schützt die Bürger vor Verbrechen.",
+            "en": "The police protect citizens from crimes."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈʃʏtsn̩",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schützt",
+    "past_perfect": "geschützt",
+    "preterite": "schützte",
+    "frequency_scale": 7
+}

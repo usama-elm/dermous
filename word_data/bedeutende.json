@@ -1,0 +1,26 @@
+{
+    "word": "bedeutende",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "significant",
+    "example_sentences": [
+        {
+            "de": "Sie hat eine bedeutende Rolle in der Geschichte gespielt.",
+            "en": "She played a significant role in history."
+        },
+        {
+            "de": "Das war ein bedeutender Moment in meinem Leben.",
+            "en": "That was a significant moment in my life."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "bəˈdɔʏtəndə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

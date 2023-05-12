@@ -1,0 +1,26 @@
+{
+    "word": "sichtbar",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "visible",
+    "example_sentences": [
+        {
+            "de": "Die Sterne sind in dieser Nacht besonders sichtbar.",
+            "en": "The stars are particularly visible tonight."
+        },
+        {
+            "de": "Die Auswirkungen der Klimaveränderungen sind sichtbar.",
+            "en": "The effects of climate change are visible."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈzɪçtbaːɐ̯/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

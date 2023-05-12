@@ -1,0 +1,26 @@
+{
+    "word": "vierten",
+    "gender": "m",
+    "article": "der",
+    "word_type": "ordinal number",
+    "translation": "fourth",
+    "example_sentences": [
+        {
+            "de": "Ich wohne im vierten Stock.",
+            "en": "I live on the fourth floor."
+        },
+        {
+            "de": "Das ist das vierte Mal, dass ich hier bin.",
+            "en": "This is the fourth time I've been here."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈfɪɐ̯tn̩",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "küsten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to coast",
+    "example_sentences": [
+        {
+            "de": "Wir haben die Küste entlang geküstet.",
+            "en": "We coasted along the shore."
+        },
+        {
+            "de": "Das Schiff hat die Küste gestreift.",
+            "en": "The ship grazed the coast."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "ˈkyːstən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "küstet",
+    "past_perfect": "geküstet",
+    "preterite": "küstete",
+    "frequency_scale": 5
+}

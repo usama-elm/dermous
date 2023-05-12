@@ -1,0 +1,21 @@
+{
+    "word": "herrscher",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "ruler",
+    "example_sentences": [
+        {
+            "de": "Der Herrscher des Landes wurde gestürzt.",
+            "en": "The ruler of the country was overthrown."
+        },
+        {
+            "de": "Er war ein grausamer Herrscher.",
+            "en": "He was a cruel ruler."
+        }
+    ],
+    "usage_frequency": 5,
+    "ipa": "/ˈhɛʁʃɐ/",
+    "difficulty_level": "B2",
+    "irregular_verb": false
+}

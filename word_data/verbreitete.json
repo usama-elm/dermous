@@ -1,0 +1,27 @@
+{
+    "word": "verbreitete",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "verbreiten",
+    "translation": "to spread",
+    "example_sentences": [
+        {
+            "de": "Die Krankheit verbreitete sich schnell.",
+            "en": "The disease spread quickly."
+        },
+        {
+            "de": "Er verbreitete das Gerücht.",
+            "en": "He spread the rumor."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/fɛɐ̯ˈbraɪtətə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "verbreitet",
+    "past_perfect": "hat verbreitet",
+    "preterite": "verbreitete",
+    "frequency_scale": 8
+}

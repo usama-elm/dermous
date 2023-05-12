@@ -1,0 +1,26 @@
+{
+    "word": "einzelner",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "individual",
+    "example_sentences": [
+        {
+            "de": "Ich traf gestern einen einzelnen Mann im Park.",
+            "en": "I met an individual man in the park yesterday."
+        },
+        {
+            "de": "Es gibt nur einen einzelnen Keks in der Dose.",
+            "en": "There is only one individual cookie in the jar."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ˈaɪ̯nzəlnɐ",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

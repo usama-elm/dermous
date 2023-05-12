@@ -1,0 +1,21 @@
+{
+    "word": "trafen",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "translation": "met",
+    "example_sentences": [
+        "Wir trafen uns gestern Abend.",
+        "Sie trafen sich zum ersten Mal auf einer Party.",
+        "Die Mannschaft traf den Ball ins Tor."
+    ],
+    "usage_frequency": 7,
+    "IPA": "/ˈtʁaːfn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "trifft",
+    "past_perfect": "getroffen",
+    "preterite": "traf",
+    "frequency_scale": 8
+}

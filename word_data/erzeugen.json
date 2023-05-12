@@ -1,0 +1,20 @@
+{
+    "word": "erzeugen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to produce",
+    "example_sentences": [
+        "Die Fabrik erzeugt täglich tausende von Produkten.",
+        "Die Solarzellen erzeugen Strom aus Sonnenlicht."
+    ],
+    "usage_frequency": 7,
+    "IPA_code": "/eɐ̯ˈt͡sɔʏɡən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erzeugt",
+    "past_perfect": "hat erzeugt",
+    "preterite": "erzeugte",
+    "frequency_scale": 8
+}

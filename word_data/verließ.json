@@ -1,0 +1,26 @@
+{
+    "word": "verließ",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "Infinitive",
+    "translation": "left",
+    "example_sentences": [
+        {
+            "de": "Er verließ das Haus.",
+            "en": "He left the house."
+        },
+        {
+            "de": "Sie verließ die Party früh.",
+            "en": "She left the party early."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/fɛɐ̯ˈliːs/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verlässt",
+    "past_perfect": "hat verlassen",
+    "preterite": "verließ",
+    "frequency": 6
+}

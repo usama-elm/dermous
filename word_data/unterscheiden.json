@@ -1,0 +1,26 @@
+{
+    "word": "unterscheiden",
+    "gender": "verb",
+    "article": "",
+    "word_type": "infinitive",
+    "translation": "to distinguish",
+    "example_sentences": [
+        {
+            "de": "Ich kann die beiden Sorten nicht unterscheiden.",
+            "en": "I can't distinguish between the two types."
+        },
+        {
+            "de": "Kannst du den Unterschied zwischen den beiden Farben unterscheiden?",
+            "en": "Can you distinguish the difference between the two colors?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ʊntɐˈʃaɪdn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "unterscheidet",
+    "past_perfect": "hat unterschieden",
+    "preterite": "unterschied",
+    "frequency_scale": 8
+}

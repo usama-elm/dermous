@@ -1,0 +1,26 @@
+{
+    "word": "berührt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "berühren",
+    "translation": "touched",
+    "example_sentences": [
+        {
+            "de": "Er hat mich berührt.",
+            "en": "He touched me."
+        },
+        {
+            "de": "Ich bin sehr berührt von deinem Geschenk.",
+            "en": "I am very touched by your gift."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/bəˈʁyːɐ̯t/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "berührt",
+    "past_perfect": "hat berührt",
+    "preterite": "berührte",
+    "frequency_scale": 8
+}

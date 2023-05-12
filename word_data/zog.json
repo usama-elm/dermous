@@ -1,0 +1,26 @@
+{
+    "word": "zog",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "pulled",
+    "example_sentences": [
+        {
+            "de": "Er zog an der Tür.",
+            "en": "He pulled on the door."
+        },
+        {
+            "de": "Sie zog ihre Jacke aus.",
+            "en": "She took off her jacket."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/tsoːk/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "zieht",
+    "past_perfect": "gezogen",
+    "preterite": "zog",
+    "frequency_scale": 8
+}

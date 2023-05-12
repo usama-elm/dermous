@@ -1,0 +1,26 @@
+{
+    "word": "hinauf",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "up, upward",
+    "example_sentences": [
+        {
+            "de": "Ich gehe hinauf zum Dachboden.",
+            "en": "I'm going up to the attic."
+        },
+        {
+            "de": "Der Ball rollt hinauf den Berg.",
+            "en": "The ball rolls up the hill."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "hiːnaʊf",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

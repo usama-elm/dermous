@@ -1,0 +1,20 @@
+{
+    "word": "gerichtet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "gerichtet (infinitive: richten)",
+    "translation": "directed",
+    "example_sentences": [
+        "Der Brief war an ihn gerichtet. (The letter was addressed to him.)",
+        "Die Kritik war gegen ihn gerichtet. (The criticism was directed against him.)"
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ɡəˈrɪçtət/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "richtet",
+    "past_perfect": "hat gerichtet",
+    "preterite": "richtete",
+    "frequency": 6
+}

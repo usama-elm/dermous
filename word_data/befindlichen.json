@@ -1,0 +1,26 @@
+{
+    "word": "befindlichen",
+    "gender": "neuter",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "sensitive, delicate",
+    "example_sentences": [
+        {
+            "de": "Die befindlichen Gegenstände müssen vorsichtig behandelt werden.",
+            "en": "The sensitive objects must be handled carefully."
+        },
+        {
+            "de": "Die befindlichen Daten sind vertraulich.",
+            "en": "The delicate data is confidential."
+        }
+    ],
+    "usage_frequency": 5,
+    "ipa": "bəˈfɪndlɪçən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

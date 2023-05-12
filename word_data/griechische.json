@@ -1,0 +1,26 @@
+{
+    "word": "griechische",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Adjective",
+    "translation": "Greek",
+    "example_sentences": [
+        {
+            "de": "Ich esse gerne griechische Salate.",
+            "en": "I like to eat Greek salads."
+        },
+        {
+            "de": "Die griechische Küche ist sehr lecker.",
+            "en": "Greek cuisine is very tasty."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡʁiːçɪʃə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

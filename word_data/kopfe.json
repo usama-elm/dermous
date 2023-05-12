@@ -1,0 +1,26 @@
+{
+    "word": "kopfe",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Kopf",
+    "translation": "head",
+    "example_sentences": [
+        {
+            "de": "Ich habe Kopfschmerzen.",
+            "en": "I have a headache."
+        },
+        {
+            "de": "Er hat den Kopf verloren.",
+            "en": "He lost his head."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈkɔpfə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

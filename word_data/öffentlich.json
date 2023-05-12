@@ -1,0 +1,26 @@
+{
+    "word": "öffentlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "public",
+    "example_sentences": [
+        {
+            "de": "Die Veranstaltung ist öffentlich zugänglich.",
+            "en": "The event is publicly accessible."
+        },
+        {
+            "de": "Die öffentlichen Verkehrsmittel sind sehr zuverlässig.",
+            "en": "Public transportation is very reliable."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈœfəntlɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

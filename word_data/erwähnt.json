@@ -1,0 +1,27 @@
+{
+    "word": "erwähnt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "erwähnen",
+    "translation": "mentioned",
+    "example_sentences": [
+        {
+            "de": "Ich habe ihn in meinem Tagebuch erwähnt.",
+            "en": "I mentioned him in my diary."
+        },
+        {
+            "de": "Er hat den Namen nicht erwähnt.",
+            "en": "He didn't mention the name."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐ̯ˈvɛːnt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erwähnt",
+    "past_perfect": "hat erwähnt",
+    "preterite": "erwähnte",
+    "frequency_scale": 8
+}

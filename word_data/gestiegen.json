@@ -1,0 +1,27 @@
+{
+    "word": "gestiegen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "steigen",
+    "translation": "to rise",
+    "example_sentences": [
+        {
+            "de": "Die Preise sind gestiegen.",
+            "en": "The prices have risen."
+        },
+        {
+            "de": "Die Sonne ist gestiegen.",
+            "en": "The sun has risen."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈʃtiːɡən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "steigt",
+    "past_perfect": "ist gestiegen",
+    "preterite": "stieg",
+    "frequency_scale": 8
+}

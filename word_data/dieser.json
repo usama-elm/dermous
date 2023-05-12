@@ -1,0 +1,26 @@
+{
+    "word": "dieser",
+    "gender": "m/f/neuter",
+    "article": "der/die/das",
+    "word_type": "demonstrative pronoun",
+    "translation": "this",
+    "example_sentences": [
+        {
+            "de": "Dieser Stuhl ist bequem.",
+            "en": "This chair is comfortable."
+        },
+        {
+            "de": "Dieser Apfel schmeckt gut.",
+            "en": "This apple tastes good."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈdiːzɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

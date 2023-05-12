@@ -1,0 +1,27 @@
+{
+    "word": "erscheint",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "erscheinen",
+    "translation": "to appear",
+    "example_sentences": [
+        {
+            "de": "Die Sonne erscheint am Morgen.",
+            "en": "The sun appears in the morning."
+        },
+        {
+            "de": "Es erscheint mir seltsam.",
+            "en": "It seems strange to me."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐ̯ˈʃaɪ̯nət/",
+    "verb_auxiliary": "ist",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erscheint",
+    "past_perfect": "erschienen",
+    "preterite": "erschien",
+    "frequency_scale": 8
+}

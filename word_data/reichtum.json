@@ -1,0 +1,26 @@
+{
+    "word": "Reichtum",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "wealth",
+    "example_sentences": [
+        {
+            "de": "Sein Reichtum kommt von seiner Erfindung.",
+            "en": "His wealth comes from his invention."
+        },
+        {
+            "de": "Der Reichtum des Landes liegt in seinen Bodenschätzen.",
+            "en": "The country's wealth lies in its natural resources."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈʁaɪ̯çtuːm",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

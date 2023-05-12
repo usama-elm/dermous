@@ -1,0 +1,26 @@
+{
+    "word": "Gebet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "prayer",
+    "example_sentences": [
+        {
+            "de": "Ich bete jeden Abend ein Gebet.",
+            "en": "I say a prayer every evening."
+        },
+        {
+            "de": "Das Gebet ist ein wichtiger Teil der religiösen Praxis.",
+            "en": "Prayer is an important part of religious practice."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈbeːt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

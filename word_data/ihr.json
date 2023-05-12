@@ -1,0 +1,26 @@
+{
+    "word": "ihr",
+    "gender": "feminine",
+    "article": "die",
+    "word_type": "pronoun",
+    "translation": "her",
+    "example_sentences": [
+        {
+            "de": "Ihr Name ist Maria.",
+            "en": "Her name is Maria."
+        },
+        {
+            "de": "Ich habe ihr ein Geschenk gegeben.",
+            "en": "I gave her a present."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/iːɐ̯/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular_verb": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

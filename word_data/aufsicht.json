@@ -1,0 +1,26 @@
+{
+    "word": "Aufsicht",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "supervision",
+    "example_sentences": [
+        {
+            "de": "Die Aufsicht über die Baustelle hat der Architekt.",
+            "en": "The architect is in charge of the supervision of the construction site."
+        },
+        {
+            "de": "Die Aufsichtspflicht liegt bei den Eltern.",
+            "en": "The responsibility for supervision lies with the parents."
+        }
+    ],
+    "usage_frequency": 7.5,
+    "ipa": "/ˈaʊfzɪçt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

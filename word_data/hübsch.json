@@ -1,0 +1,26 @@
+{
+    "word": "hübsch",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "pretty",
+    "example_sentences": [
+        {
+            "de": "Sie ist eine hübsche Frau.",
+            "en": "She is a pretty woman."
+        },
+        {
+            "de": "Das ist ein hübsches Kleid.",
+            "en": "That is a pretty dress."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈhʏpʃ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

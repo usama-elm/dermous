@@ -1,0 +1,26 @@
+{
+    "word": "kannst",
+    "gender": "m",
+    "article": "",
+    "word_type": "infinitive",
+    "translation": "can",
+    "example_sentences": [
+        {
+            "de": "Kannst du mir helfen?",
+            "en": "Can you help me?"
+        },
+        {
+            "de": "Ich kann nicht schwimmen.",
+            "en": "I can't swim."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "kantst",
+    "verb_auxiliary": "",
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": "",
+    "past_perfect": "",
+    "preterite": "",
+    "frequency_scale": 7
+}

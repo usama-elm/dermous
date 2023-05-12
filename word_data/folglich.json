@@ -1,0 +1,26 @@
+{
+    "word": "folglich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "consequently",
+    "example_sentences": [
+        {
+            "de": "Er hat viel gelernt, folglich kann er die Prüfung bestehen.",
+            "en": "He has learned a lot, consequently he can pass the exam."
+        },
+        {
+            "de": "Es hat den ganzen Tag geregnet, folglich sind die Straßen nass.",
+            "en": "It rained all day, consequently the streets are wet."
+        }
+    ],
+    "usage_frequency": 7,
+    "IPA": "ˈfɔlɡlɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

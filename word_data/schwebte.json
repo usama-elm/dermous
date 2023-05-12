@@ -1,0 +1,21 @@
+{
+    "word": "schwebte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "schweben",
+    "translation": "hovered",
+    "example_sentences": [
+        "Der Vogel schwebte über dem See.",
+        "Die Wolken schwebten am Himmel.",
+        "Die Idee schwebte ihm schon lange im Kopf herum."
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈʃveːbtə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schwebt",
+    "past_perfect": "geschwebt",
+    "preterite": "schwebte",
+    "frequency_scale": 8
+}

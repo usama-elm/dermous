@@ -1,0 +1,27 @@
+{
+    "word": "jahren",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "jahre",
+    "translation": "to age",
+    "example_sentences": [
+        {
+            "de": "Ich habe in den letzten Jahren viel gelernt.",
+            "en": "I have learned a lot in the last few years."
+        },
+        {
+            "de": "Er hat in den letzten Jahren viel zugenommen.",
+            "en": "He has gained a lot of weight in the last few years."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈjaːʁən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "jährt",
+    "past_perfect": "gejährt",
+    "preterite": "jahrte",
+    "frequency_scale": 8
+}

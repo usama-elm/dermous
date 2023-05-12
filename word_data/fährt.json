@@ -1,0 +1,26 @@
+{
+    "word": "fährt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "drives",
+    "example_sentences": [
+        {
+            "de": "Er fährt jeden Tag zur Arbeit.",
+            "en": "He drives to work every day."
+        },
+        {
+            "de": "Sie fährt gerne Fahrrad.",
+            "en": "She likes to ride a bike."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/fɛːʁt/",
+    "verb_auxiliary": "ist",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "fährt",
+    "past_perfect": "ist gefahren",
+    "preterite": "fuhr",
+    "frequency_scale": 7
+}

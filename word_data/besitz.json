@@ -1,0 +1,26 @@
+{
+    "word": "besitz",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "possession",
+    "example_sentences": [
+        {
+            "de": "Ich habe Besitz von diesem Haus genommen.",
+            "en": "I have taken possession of this house."
+        },
+        {
+            "de": "Er hat einen großen Besitz in der Stadt.",
+            "en": "He has a large estate in the city."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈzɪts/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

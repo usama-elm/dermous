@@ -1,0 +1,26 @@
+{
+    "word": "Ergebnis",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "result",
+    "example_sentences": [
+        {
+            "de": "Das Ergebnis der Prüfung war sehr gut.",
+            "en": "The result of the exam was very good."
+        },
+        {
+            "de": "Das Ergebnis der Wahl war überraschend.",
+            "en": "The result of the election was surprising."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɛɐ̯ˈɡɛpniːs/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": null
+}

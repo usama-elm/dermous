@@ -1,0 +1,21 @@
+{
+    "word": "haltung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "attitude, posture",
+    "example_sentences": [
+        {
+            "de": "Eine aufrechte Haltung ist wichtig für die Gesundheit.",
+            "en": "An upright posture is important for health."
+        },
+        {
+            "de": "Seine Haltung gegenüber der Politik ist sehr kritisch.",
+            "en": "His attitude towards politics is very critical."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈhal.tʊŋ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

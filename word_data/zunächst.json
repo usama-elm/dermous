@@ -1,0 +1,26 @@
+{
+    "word": "zunächst",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "first, initially",
+    "example_sentences": [
+        {
+            "de": "Zunächst müssen wir das Problem verstehen.",
+            "en": "First, we need to understand the problem."
+        },
+        {
+            "de": "Zunächst einmal vielen Dank für Ihre Hilfe.",
+            "en": "First of all, thank you very much for your help."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈtsʊnˌʃtɛft/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

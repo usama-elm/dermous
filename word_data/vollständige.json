@@ -1,0 +1,26 @@
+{
+    "word": "vollständige",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Adjective",
+    "translation": "complete",
+    "example_sentences": [
+        {
+            "de": "Ich brauche die vollständige Liste.",
+            "en": "I need the complete list."
+        },
+        {
+            "de": "Die vollständige Wahrheit muss ans Licht kommen.",
+            "en": "The complete truth must come to light."
+        }
+    ],
+    "usage_frequency": 8,
+    "IPA": "ˈfɔlˌʃtɛndɪɡə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "letztere",
+    "gender": "f",
+    "article": "die",
+    "word_type": "pronoun",
+    "translation": "latter",
+    "example_sentences": [
+        {
+            "de": "Ich habe zwei Optionen, die erste ist schwierig, die letztere ist einfach.",
+            "en": "I have two options, the first one is difficult, the latter is easy."
+        },
+        {
+            "de": "Ich habe zwei Freunde, der eine ist groß, die letztere ist klein.",
+            "en": "I have two friends, one is tall, the latter is short."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈlɛt͡stərə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "zerstörung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "destruction",
+    "example_sentences": [
+        {
+            "de": "Die Zerstörung der Stadt war verheerend.",
+            "en": "The destruction of the city was devastating."
+        },
+        {
+            "de": "Die Zerstörung von Naturgebieten ist ein großes Problem.",
+            "en": "The destruction of natural habitats is a big problem."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/t͡sɛɐ̯ˈʃtøːʁʊŋ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

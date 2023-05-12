@@ -1,0 +1,21 @@
+{
+    "word": "jahrhunderts",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "century",
+    "example_sentences": [
+        {
+            "de": "Im 19. Jahrhundert gab es viele wichtige Erfindungen.",
+            "en": "There were many important inventions in the 19th century."
+        },
+        {
+            "de": "Das 20. Jahrhundert war geprägt von Kriegen und Konflikten.",
+            "en": "The 20th century was marked by wars and conflicts."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈjaːɐ̯ˌhʊndɐt͡s",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

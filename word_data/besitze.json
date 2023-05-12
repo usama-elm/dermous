@@ -1,0 +1,26 @@
+{
+    "word": "besitze",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Infinitiv",
+    "translation": "possess",
+    "example_sentences": [
+        {
+            "de": "Ich besitze ein Auto.",
+            "en": "I possess a car."
+        },
+        {
+            "de": "Er besitzt ein Haus.",
+            "en": "He possesses a house."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "bəˈzɪtsə",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "besitzt",
+    "past_perfect": "hat besessen",
+    "preterite": "besaß",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "müde",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "tired",
+    "example_sentences": [
+        {
+            "de": "Ich bin müde.",
+            "en": "I am tired."
+        },
+        {
+            "de": "Sie sieht müde aus.",
+            "en": "She looks tired."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈmyːdə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

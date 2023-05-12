@@ -1,0 +1,21 @@
+{
+    "word": "Gehör",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "hearing",
+    "example_sentences": [
+        {
+            "de": "Ich habe ein gutes Gehör.",
+            "en": "I have good hearing."
+        },
+        {
+            "de": "Er hat ein Gehör für Musik.",
+            "en": "He has an ear for music."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈhøːɐ̯",
+    "difficulty_level": "A2",
+    "irregular_verb": false
+}

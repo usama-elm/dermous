@@ -1,0 +1,20 @@
+{
+    "word": "liefert",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "liefern",
+    "translation": "delivers",
+    "example_sentences": [
+        "Der Kurier liefert das Paket heute.",
+        "Die Firma liefert ihre Produkte weltweit aus."
+    ],
+    "usage_frequency": 8,
+    "IPA": "ˈliːfɐt",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "liefert",
+    "past_perfect": "geliefert",
+    "preterite": "lieferte",
+    "frequency_scale": 8
+}

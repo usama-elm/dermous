@@ -1,0 +1,26 @@
+{
+    "word": "lächelte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "lächeln",
+    "translation": "smiled",
+    "example_sentences": [
+        {
+            "de": "Er lächelte freundlich.",
+            "en": "He smiled kindly."
+        },
+        {
+            "de": "Sie lächelte verlegen.",
+            "en": "She smiled shyly."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈlɛːçəltə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "lächelt",
+    "past_perfect": "gelächelt",
+    "preterite": "lächelte",
+    "frequency_scale": 8
+}

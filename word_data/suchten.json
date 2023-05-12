@@ -1,0 +1,27 @@
+{
+    "word": "suchten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "suchen",
+    "translation": "to search",
+    "example_sentences": [
+        {
+            "de": "Wir suchten den ganzen Tag nach dem verlorenen Hund.",
+            "en": "We searched all day for the lost dog."
+        },
+        {
+            "de": "Die Polizei suchte nach Beweisen für das Verbrechen.",
+            "en": "The police searched for evidence of the crime."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈzʊxtən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "sucht",
+    "past_perfect": "gesucht",
+    "preterite": "suchten",
+    "frequency": 8
+}

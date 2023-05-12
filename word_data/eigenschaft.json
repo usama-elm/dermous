@@ -1,0 +1,26 @@
+{
+    "word": "eigenschaft",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "property, quality, characteristic",
+    "example_sentences": [
+        {
+            "de": "Eine wichtige Eigenschaft von Wasser ist, dass es bei 100 Grad Celsius kocht.",
+            "en": "An important property of water is that it boils at 100 degrees Celsius."
+        },
+        {
+            "de": "Eine gute Eigenschaft von ihm ist, dass er immer pünktlich ist.",
+            "en": "A good characteristic of him is that he is always on time."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈaɪ̯ɡn̩ʃaft/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

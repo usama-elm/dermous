@@ -1,0 +1,26 @@
+{
+    "word": "irgendeinem",
+    "gender": "m",
+    "article": "der",
+    "word_type": "irgendwelche",
+    "translation": "some",
+    "example_sentences": [
+        {
+            "de": "Ich habe irgendeinem Mann geholfen.",
+            "en": "I helped some man."
+        },
+        {
+            "de": "Er hat irgendeinem Tier Futter gegeben.",
+            "en": "He gave some animal food."
+        }
+    ],
+    "usage_frequency": 7,
+    "IPA_code": "ˈɪʁɡənˌdaɪ̯nəm",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

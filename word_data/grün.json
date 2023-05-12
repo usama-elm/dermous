@@ -1,0 +1,26 @@
+{
+    "word": "grün",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "green",
+    "example_sentences": [
+        {
+            "de": "Das Gras ist grün.",
+            "en": "The grass is green."
+        },
+        {
+            "de": "Ich mag grüne Äpfel.",
+            "en": "I like green apples."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡʁyːn/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "vorsichtig",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "cautious",
+    "example_sentences": [
+        {
+            "de": "Sei vorsichtig auf der Straße!",
+            "en": "Be careful on the street!"
+        },
+        {
+            "de": "Er ist sehr vorsichtig mit seinem Geld.",
+            "en": "He is very cautious with his money."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈfɔʁzɪçtɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

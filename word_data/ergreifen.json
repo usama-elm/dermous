@@ -1,0 +1,26 @@
+{
+    "word": "ergreifen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to seize",
+    "example_sentences": [
+        {
+            "de": "Die Polizei konnte den Dieb ergreifen.",
+            "en": "The police were able to seize the thief."
+        },
+        {
+            "de": "Ich konnte nicht ergreifen, was er meinte.",
+            "en": "I couldn't grasp what he meant."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɛɐ̯ˈɡʁaɪ̯fn̩",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ergreift",
+    "past_perfect": "hat ergriffen",
+    "preterite": "ergriff",
+    "frequency_scale": 8
+}

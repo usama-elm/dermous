@@ -1,0 +1,26 @@
+{
+    "word": "erblickte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "erblicken",
+    "translation": "to catch sight of",
+    "example_sentences": [
+        {
+            "de": "Sie erblickte ihn am anderen Ende des Raumes.",
+            "en": "She caught sight of him at the other end of the room."
+        },
+        {
+            "de": "Ich erblickte einen Vogel im Baum.",
+            "en": "I caught sight of a bird in the tree."
+        }
+    ],
+    "usage_frequency": 5,
+    "ipa": "/ɛɐ̯ˈblɪktə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erblickt",
+    "past_perfect": "hat erblickt",
+    "preterite": "erblickte",
+    "frequency_scale": 7
+}

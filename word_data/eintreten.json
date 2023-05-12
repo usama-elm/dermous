@@ -1,0 +1,27 @@
+{
+    "word": "eintreten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "eintreten",
+    "translation": "to enter",
+    "example_sentences": [
+        {
+            "de": "Ich trete in den Raum ein.",
+            "en": "I enter the room."
+        },
+        {
+            "de": "Sie sind gerade eingetreten.",
+            "en": "They have just entered."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaɪnˌtʀeːtn̩/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "tritt ein",
+    "past_perfect": "eingetreten",
+    "preterite": "trat ein",
+    "frequency": 6
+}

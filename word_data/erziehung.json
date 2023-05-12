@@ -1,0 +1,27 @@
+{
+    "word": "Erziehung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "upbringing, education",
+    "example_sentences": [
+        {
+            "de": "Eine gute Erziehung ist wichtig für die Entwicklung eines Kindes.",
+            "en": "A good upbringing is important for a child's development."
+        },
+        {
+            "de": "Die Erziehung der Kinder ist eine gemeinsame Aufgabe von Eltern und Lehrern.",
+            "en": "The education of children is a joint task of parents and teachers."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɛʁˈtsiːʊŋ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "frequency": 7,
+    "response_metadata": {
+        "version": "1.0",
+        "timestamp": "2021-10-20T12:00:00Z",
+        "provider": "German Dictionary API"
+    }
+}

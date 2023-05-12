@@ -1,0 +1,21 @@
+{
+    "word": "verlauf",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "course, progression",
+    "example_sentences": [
+        {
+            "de": "Der Verlauf der Krankheit war unvorhersehbar.",
+            "en": "The course of the illness was unpredictable."
+        },
+        {
+            "de": "Der Verlauf des Flusses war sehr malerisch.",
+            "en": "The progression of the river was very picturesque."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "fɛɐ̯laʊ̯f",
+    "difficulty_level": "B1",
+    "irregular": false
+}

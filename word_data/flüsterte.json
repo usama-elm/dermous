@@ -1,0 +1,27 @@
+{
+    "word": "flüsterte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "verb",
+    "infinitive": "flüstern",
+    "translation": "whispered",
+    "example_sentences": [
+        {
+            "de": "Er flüsterte ihr etwas ins Ohr.",
+            "en": "He whispered something in her ear."
+        },
+        {
+            "de": "Sie flüsterten heimlich miteinander.",
+            "en": "They whispered secretly to each other."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈflʏstɐtə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "flüstert",
+    "past_perfect": "geflüstert",
+    "preterite": "flüsterte",
+    "frequency_scale": 8
+}

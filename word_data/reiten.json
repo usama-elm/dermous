@@ -1,0 +1,26 @@
+{
+    "word": "reiten",
+    "gender": "n/a",
+    "article": "n/a",
+    "word_type": "verb",
+    "translation": "to ride",
+    "example_sentences": [
+        {
+            "de": "Ich reite gerne Pferde.",
+            "en": "I like to ride horses."
+        },
+        {
+            "de": "Sie reitet jeden Tag zur Arbeit.",
+            "en": "She rides to work every day."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈʁaɪ̯tn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "reitet",
+    "past_perfect": "geritten",
+    "preterite": "ritt",
+    "frequency_scale": 8
+}

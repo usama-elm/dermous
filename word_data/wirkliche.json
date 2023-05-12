@@ -1,0 +1,26 @@
+{
+    "word": "wirkliche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "real",
+    "example_sentences": [
+        {
+            "de": "Das ist die wirkliche Welt.",
+            "en": "This is the real world."
+        },
+        {
+            "de": "Ich brauche eine wirkliche Veränderung in meinem Leben.",
+            "en": "I need a real change in my life."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈvɪʁklɪçə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

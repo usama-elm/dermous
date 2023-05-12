@@ -1,0 +1,26 @@
+{
+    "word": "hierauf",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "hereupon",
+    "example_sentences": [
+        {
+            "de": "Er antwortete nicht auf meine Frage, sondern sprach hierauf eine andere Angelegenheit an.",
+            "en": "He didn't answer my question, but instead spoke hereupon about another matter."
+        },
+        {
+            "de": "Ich werde mich hierauf noch einmal genauer informieren.",
+            "en": "I will inform myself more precisely hereupon."
+        }
+    ],
+    "usage_frequency": 4,
+    "ipa": "/ˈhiːr.aʊ̯f/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_participle": null,
+    "preterite": null,
+    "frequency_over_10": null
+}

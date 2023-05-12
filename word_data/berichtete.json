@@ -1,0 +1,20 @@
+{
+    "word": "berichtete",
+    "gender": "f",
+    "article": "die",
+    "word_type": "berichten",
+    "translation": "reported",
+    "example_sentences": [
+        "Sie berichtete ihm von ihrem Urlaub. (She reported to him about her vacation.)",
+        "Er berichtete der Polizei von dem Vorfall. (He reported the incident to the police.)"
+    ],
+    "usage_frequency": 7,
+    "ipa": "bəˈʁɪçtətə",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "berichtet",
+    "past_perfect": "hat berichtet",
+    "preterite": "berichtete",
+    "frequency_scale": 8
+}

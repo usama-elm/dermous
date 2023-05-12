@@ -1,0 +1,26 @@
+{
+    "word": "raum",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "space, room",
+    "example_sentences": [
+        {
+            "de": "Ich brauche mehr Raum für meine Sachen.",
+            "en": "I need more space for my things."
+        },
+        {
+            "de": "Der Raum ist sehr groß.",
+            "en": "The room is very big."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ʁaʊm/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "behauptete",
+    "gender": "f",
+    "article": "die",
+    "word_type": "behaupten",
+    "translation": "claimed",
+    "example_sentences": [
+        {
+            "de": "Er behauptete, er sei unschuldig.",
+            "en": "He claimed he was innocent."
+        },
+        {
+            "de": "Sie behauptete, sie hätte das schon einmal gemacht.",
+            "en": "She claimed she had done it before."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈhaʊptətə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "behauptet",
+    "past_perfect": "behauptet gehabt",
+    "preterite": "behauptete",
+    "frequency_scale": 8
+}

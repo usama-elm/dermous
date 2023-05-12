@@ -1,0 +1,26 @@
+{
+    "word": "kurze",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "short",
+    "example_sentences": [
+        {
+            "de": "Ich habe kurze Haare.",
+            "en": "I have short hair."
+        },
+        {
+            "de": "Das ist eine kurze Strecke.",
+            "en": "That is a short distance."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈkʊrt͡sə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

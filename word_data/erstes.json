@@ -1,0 +1,26 @@
+{
+    "word": "erstes",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "first",
+    "example_sentences": [
+        {
+            "de": "Mein erstes Auto war ein roter VW Käfer.",
+            "en": "My first car was a red VW Beetle."
+        },
+        {
+            "de": "Das ist mein erstes Mal in Berlin.",
+            "en": "This is my first time in Berlin."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈɛʁstəs",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "gleichmäßig",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "even, uniform",
+    "example_sentences": [
+        {
+            "de": "Die Maschine läuft gleichmäßig.",
+            "en": "The machine runs evenly."
+        },
+        {
+            "de": "Die Verteilung der Ressourcen sollte gleichmäßig erfolgen.",
+            "en": "The distribution of resources should be uniform."
+        }
+    ],
+    "usage_frequency": 7.5,
+    "ipa": "ɡlaɪçˈmɛːsɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

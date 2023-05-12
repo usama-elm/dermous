@@ -1,0 +1,26 @@
+{
+    "word": "könntest",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "können",
+    "translation": "could",
+    "example_sentences": [
+        {
+            "de": "Könntest du mir bitte helfen?",
+            "en": "Could you please help me?"
+        },
+        {
+            "de": "Ich wüsste nicht, was ich sonst tun könnte.",
+            "en": "I wouldn't know what else I could do."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈkœn.təst",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "kann",
+    "past_perfect": "gekonnt",
+    "preterite": "konntest",
+    "frequency_scale": 7
+}

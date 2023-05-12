@@ -1,0 +1,26 @@
+{
+    "word": "bleich",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "pale",
+    "example_sentences": [
+        {
+            "de": "Sie sah bleich aus.",
+            "en": "She looked pale."
+        },
+        {
+            "de": "Sein Gesicht war bleich vor Schreck.",
+            "en": "His face was pale with shock."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/blaɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

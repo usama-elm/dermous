@@ -1,0 +1,26 @@
+{
+    "word": "ähnlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "similar",
+    "example_sentences": [
+        {
+            "de": "Die beiden Häuser sehen sich ähnlich.",
+            "en": "The two houses look similar to each other."
+        },
+        {
+            "de": "Sein Verhalten ist ähnlich wie das von seinem Vater.",
+            "en": "His behavior is similar to that of his father."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈɛːnlɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

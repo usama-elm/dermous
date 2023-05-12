@@ -1,0 +1,26 @@
+{
+    "word": "bereitet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "bereiten",
+    "translation": "prepared",
+    "example_sentences": [
+        {
+            "de": "Sie hat das Essen für die Party vorbereitet.",
+            "en": "She prepared the food for the party."
+        },
+        {
+            "de": "Er bereitet sich auf die Prüfung vor.",
+            "en": "He is preparing for the exam."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/bəˈʁaɪtət/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "bereitet",
+    "past_perfect": "hat vorbereitet",
+    "preterite": "bereitete",
+    "frequency_scale": 8
+}

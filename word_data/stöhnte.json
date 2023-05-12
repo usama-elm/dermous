@@ -1,0 +1,26 @@
+{
+    "word": "stöhnte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "stöhnen",
+    "translation": "moaned",
+    "example_sentences": [
+        {
+            "de": "Er stöhnte vor Schmerzen.",
+            "en": "He moaned in pain."
+        },
+        {
+            "de": "Sie stöhnte vor Lust.",
+            "en": "She moaned with pleasure."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈʃtøːntə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "stöhnt",
+    "past_perfect": "hat gestöhnt",
+    "preterite": "stöhnte",
+    "frequency_scale": 8
+}

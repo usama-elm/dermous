@@ -1,0 +1,26 @@
+{
+    "word": "höhen",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "translation": "to raise",
+    "example_sentences": [
+        {
+            "de": "Wir müssen die Mauer höhen.",
+            "en": "We need to raise the wall."
+        },
+        {
+            "de": "Die Preise wurden um 10% gehöht.",
+            "en": "The prices were raised by 10%."
+        }
+    ],
+    "usage_frequency": 5,
+    "ipa": "/ˈhøːən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "er/sie/es höht",
+    "past_perfect": "hat gehöht",
+    "preterite": "höhte",
+    "frequency_scale": 7
+}

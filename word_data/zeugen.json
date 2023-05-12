@@ -1,0 +1,27 @@
+{
+    "word": "zeugen",
+    "gender": "n",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to bear witness",
+    "example_sentences": [
+        {
+            "de": "Ich kann nicht zeugen, was ich nicht gesehen habe.",
+            "en": "I can't bear witness to what I haven't seen."
+        },
+        {
+            "de": "Er hat vor Gericht gegen seinen Freund gezeugt.",
+            "en": "He testified against his friend in court."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈt͡sɔʏɡən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregularities": {
+        "present_3rd_singular": "zeugt",
+        "past_perfect": "gezeugt",
+        "preterite": "zeugte",
+        "frequency": 5
+    }
+}

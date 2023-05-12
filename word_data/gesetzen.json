@@ -1,0 +1,26 @@
+{
+    "word": "gesetzen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "infinitive",
+    "translation": "to set",
+    "example_sentences": [
+        {
+            "de": "Ich werde mich heute Abend hinsetzen und lesen.",
+            "en": "I will sit down and read tonight."
+        },
+        {
+            "de": "Er hat sich auf den Stuhl gesetzt.",
+            "en": "He sat down on the chair."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ɡəˈzɛtsən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "setzt",
+    "past_perfect": "gesetzt",
+    "preterite": "setzte",
+    "frequency_scale": 7
+}

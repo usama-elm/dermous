@@ -1,0 +1,26 @@
+{
+    "word": "wechseln",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to change",
+    "example_sentences": [
+        {
+            "de": "Ich muss meine Kleidung wechseln.",
+            "en": "I need to change my clothes."
+        },
+        {
+            "de": "Kannst du das Geld wechseln?",
+            "en": "Can you change the money?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈvɛkslən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wechselt",
+    "past_perfect": "gewechselt",
+    "preterite": "wechselte",
+    "frequency_scale": 8
+}

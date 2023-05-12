@@ -1,0 +1,26 @@
+{
+    "word": "reichlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "plenty, abundant",
+    "example_sentences": [
+        {
+            "de": "Es gibt reichlich Essen für alle.",
+            "en": "There is plenty of food for everyone."
+        },
+        {
+            "de": "Wir haben reichlich Zeit, um alles zu erledigen.",
+            "en": "We have plenty of time to get everything done."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈʁaɪçlɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,27 @@
+{
+    "word": "befehlen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to command, to order",
+    "example_sentences": [
+        {
+            "de": "Der General befiehlt seinen Soldaten.",
+            "en": "The general commands his soldiers."
+        },
+        {
+            "de": "Ich befehle dir, sofort aufzuhören!",
+            "en": "I order you to stop immediately!"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "bəˈfeːlən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregularities": {
+        "present_3rd_singular": "befiehlt",
+        "past_perfect": "hat befohlen",
+        "preterite": "befahl",
+        "frequency": 6
+    }
+}

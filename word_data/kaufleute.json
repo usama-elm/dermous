@@ -1,0 +1,26 @@
+{
+    "word": "kaufleute",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "merchants",
+    "example_sentences": [
+        {
+            "de": "Die Kaufleute haben ihre Waren auf dem Markt verkauft.",
+            "en": "The merchants sold their goods at the market."
+        },
+        {
+            "de": "Die Kaufleute haben eine wichtige Rolle in der Wirtschaft.",
+            "en": "Merchants play an important role in the economy."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈkaʊfˌlɔʏtə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

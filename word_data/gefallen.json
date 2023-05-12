@@ -1,0 +1,27 @@
+{
+    "word": "gefallen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "gefallen",
+    "translation": "to please",
+    "example_sentences": [
+        {
+            "de": "Mir gefällt das neue Auto.",
+            "en": "I like the new car."
+        },
+        {
+            "de": "Das Essen hat ihm gut gefallen.",
+            "en": "He enjoyed the food."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈfalən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gefällt",
+    "past_perfect": "hat gefallen",
+    "preterite": "gefiel",
+    "frequency_scale": 7
+}

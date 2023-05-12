@@ -1,0 +1,20 @@
+{
+    "word": "kreisen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to circle/to revolve",
+    "example_sentences": [
+        "Die Erde kreist um die Sonne. (The Earth revolves around the sun.)",
+        "Der Hubschrauber kreiste über der Stadt. (The helicopter circled above the city.)"
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈkʁaɪ̯zn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "kreist",
+    "past_perfect": "gekreist",
+    "preterite": "kreiste",
+    "frequency": 7
+}

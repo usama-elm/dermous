@@ -1,0 +1,26 @@
+{
+    "word": "nutzen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "to use",
+    "example_sentences": [
+        {
+            "de": "Ich nutze mein Fahrrad, um zur Arbeit zu fahren.",
+            "en": "I use my bike to go to work."
+        },
+        {
+            "de": "Kannst du bitte das Werkzeug nutzen, um den Nagel einzuschlagen?",
+            "en": "Can you please use the tool to hammer in the nail?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈnʊt͡sn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "nutzt",
+    "past_perfect": "genutzt",
+    "preterite": "nutzte",
+    "frequency_scale": 7
+}

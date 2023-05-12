@@ -1,0 +1,26 @@
+{
+    "word": "dichtung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "poetry",
+    "example_sentences": [
+        {
+            "de": "Er schrieb eine Dichtung über die Natur.",
+            "en": "He wrote a poem about nature."
+        },
+        {
+            "de": "Die Dichtung hat eine lange Tradition in Deutschland.",
+            "en": "Poetry has a long tradition in Germany."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈdɪçtʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

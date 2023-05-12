@@ -1,0 +1,27 @@
+{
+    "word": "gekleidet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "kleiden",
+    "translation": "dressed",
+    "example_sentences": [
+        {
+            "de": "Sie ist heute sehr elegant gekleidet.",
+            "en": "She is dressed very elegantly today."
+        },
+        {
+            "de": "Er hat sich für die Party schick gekleidet.",
+            "en": "He dressed up for the party."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈklaɪdət/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "kleidet",
+    "past_perfect": "gekleidet gehabt",
+    "preterite": "kleidete",
+    "frequency_scale": 8
+}

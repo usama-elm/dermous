@@ -1,0 +1,26 @@
+{
+    "word": "lüge",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "lie",
+    "example_sentences": [
+        {
+            "de": "Er erzählt eine Lüge.",
+            "en": "He is telling a lie."
+        },
+        {
+            "de": "Ich kann keine Lüge erzählen.",
+            "en": "I can't tell a lie."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈlyːɡə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

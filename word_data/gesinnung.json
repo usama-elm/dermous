@@ -1,0 +1,21 @@
+{
+    "word": "gesinnung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "disposition, attitude, mindset",
+    "example_sentences": [
+        {
+            "de": "Seine Gesinnung war immer sehr positiv.",
+            "en": "His attitude was always very positive."
+        },
+        {
+            "de": "Die Gesinnung der Gruppe war sehr radikal.",
+            "en": "The group's mindset was very radical."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ɡəˈzɪnʊŋ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

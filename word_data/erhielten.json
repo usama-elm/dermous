@@ -1,0 +1,22 @@
+{
+    "word": "erhielten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "erhalten",
+    "translation": "to receive",
+    "example_sentences": [
+        "Wir erhielten gestern ein Paket.",
+        "Sie haben den Preis erhielten.",
+        "Die Schüler erhielten eine gute Note in der Prüfung."
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɛɐ̯ˈhiːltən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erhält",
+    "past_perfect": "hat erhalten",
+    "preterite": "erhielten",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "erlauben",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to allow",
+    "example_sentences": [
+        {
+            "de": "Ich erlaube dir, das zu tun.",
+            "en": "I allow you to do that."
+        },
+        {
+            "de": "Er erlaubt sich zu viel.",
+            "en": "He allows himself too much."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐ̯ˈlaʊbən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erlaubt",
+    "past_perfect": "erlaubt gehabt",
+    "preterite": "erlaubte",
+    "frequency_scale": 8
+}

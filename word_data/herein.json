@@ -1,0 +1,26 @@
+{
+    "word": "herein",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "in, inside",
+    "example_sentences": [
+        {
+            "de": "Komm doch herein!",
+            "en": "Come on in!"
+        },
+        {
+            "de": "Er ging herein und schloss die Tür.",
+            "en": "He went inside and closed the door."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/hɛrˈaɪ̯n/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "kräftige",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "strong",
+    "example_sentences": [
+        {
+            "de": "Sie hat eine kräftige Stimme.",
+            "en": "She has a strong voice."
+        },
+        {
+            "de": "Er hat kräftige Arme.",
+            "en": "He has strong arms."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈkʁɛftɪɡə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

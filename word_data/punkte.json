@@ -1,0 +1,26 @@
+{
+    "word": "punkte",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "translation": "to score, to point",
+    "example_sentences": [
+        {
+            "de": "Die Mannschaft hat drei Punkte geholt.",
+            "en": "The team scored three points."
+        },
+        {
+            "de": "Ich habe gestern Abend 20 Punkte beim Scrabble gemacht.",
+            "en": "I scored 20 points in Scrabble last night."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈpʊŋktə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "punktet",
+    "past_perfect": "gepunktet",
+    "preterite": "punktete",
+    "frequency": 7
+}

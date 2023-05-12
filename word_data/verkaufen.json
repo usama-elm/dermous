@@ -1,0 +1,27 @@
+{
+    "word": "verkaufen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to sell",
+    "example_sentences": [
+        {
+            "de": "Ich möchte mein Auto verkaufen.",
+            "en": "I want to sell my car."
+        },
+        {
+            "de": "Sie haben ihr Haus verkauft.",
+            "en": "They sold their house."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "fɛɐ̯ˈkaʊ̯fn̩",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregularities": {
+        "present_3rd_singular": "verkauft",
+        "past_perfect": "hat verkauft",
+        "preterite": "verkaufte",
+        "frequency": 7
+    }
+}

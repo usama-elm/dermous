@@ -1,0 +1,26 @@
+{
+    "word": "eigentlichen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "Adjective",
+    "translation": "actual",
+    "example_sentences": [
+        {
+            "de": "Der eigentliche Grund für seinen Erfolg ist seine Hartnäckigkeit.",
+            "en": "The actual reason for his success is his persistence."
+        },
+        {
+            "de": "Das eigentliche Problem ist nicht die Technologie, sondern die Menschen, die sie nutzen.",
+            "en": "The actual problem is not the technology, but the people who use it."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaɪ̯ɡn̩tənlɪçən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

@@ -1,0 +1,27 @@
+{
+    "word": "wäre",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "sein",
+    "translation": "would be",
+    "example_sentences": [
+        {
+            "de": "Wenn ich reich wäre, würde ich ein Haus kaufen.",
+            "en": "If I were rich, I would buy a house."
+        },
+        {
+            "de": "Es wäre schön, wenn du mitkommen könntest.",
+            "en": "It would be nice if you could come along."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈvɛːrə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ist",
+    "past_perfect": "gewesen",
+    "preterite": "war",
+    "frequency_scale": 7
+}

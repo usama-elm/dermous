@@ -1,0 +1,26 @@
+{
+    "word": "höchster",
+    "gender": "m",
+    "article": "der",
+    "word_type": "adjective",
+    "translation": "highest",
+    "example_sentences": [
+        {
+            "de": "Der höchste Berg der Welt ist der Mount Everest.",
+            "en": "The highest mountain in the world is Mount Everest."
+        },
+        {
+            "de": "Er hat den höchsten Turm der Stadt gebaut.",
+            "en": "He built the tallest tower in the city."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈhœçstɐ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

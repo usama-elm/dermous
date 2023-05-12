@@ -1,0 +1,20 @@
+{
+    "word": "stimmte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "stimmen",
+    "translation": "agreed",
+    "example_sentences": [
+        "Sie stimmte dem Vorschlag zu. (She agreed to the proposal.)",
+        "Er stimmte mit mir überein. (He agreed with me.)"
+    ],
+    "usage_frequency": 6,
+    "IPA": "/ˈʃtɪm.tə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "stimmt",
+    "past_perfect": "hat gestimmt",
+    "preterite": "stimmte",
+    "frequency_scale": 7
+}

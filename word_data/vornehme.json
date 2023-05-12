@@ -1,0 +1,26 @@
+{
+    "word": "vornehme",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "distinguished",
+    "example_sentences": [
+        {
+            "de": "Sie ist eine sehr vornehme Dame.",
+            "en": "She is a very distinguished lady."
+        },
+        {
+            "de": "Sein Auftreten war sehr vornehm.",
+            "en": "His demeanor was very distinguished."
+        }
+    ],
+    "usage_frequency": 5,
+    "ipa": "ˈfɔʁnəmə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

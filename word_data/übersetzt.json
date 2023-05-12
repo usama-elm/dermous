@@ -1,0 +1,27 @@
+{
+    "word": "übersetzt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "übersetzen",
+    "translation": "translated",
+    "example_sentences": [
+        {
+            "de": "Er hat das Buch ins Englische übersetzt.",
+            "en": "He translated the book into English."
+        },
+        {
+            "de": "Ich habe den Text ins Französische übersetzt.",
+            "en": "I translated the text into French."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈyːbɐzɛtst/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "übersetzt",
+    "past_perfect": "hat übersetzt",
+    "preterite": "übersetzte",
+    "frequency_scale": 8
+}

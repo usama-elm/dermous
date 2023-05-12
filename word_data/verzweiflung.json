@@ -1,0 +1,21 @@
+{
+    "word": "verzweiflung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "despair",
+    "example_sentences": [
+        {
+            "de": "Ich fühle mich in Verzweiflung.",
+            "en": "I feel despair."
+        },
+        {
+            "de": "Sie war voller Verzweiflung.",
+            "en": "She was full of despair."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/fɛɐ̯ˈt͡svaɪ̯flʊŋ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

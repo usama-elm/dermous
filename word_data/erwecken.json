@@ -1,0 +1,21 @@
+{
+    "word": "erwecken",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to awaken",
+    "example_sentences": [
+        "Die Sonne erweckt die Natur zum Leben.",
+        "Seine Rede erweckte in mir den Wunsch nach Veränderung.",
+        "Ich versuche, meine Kreativität zu erwecken, indem ich neue Dinge ausprobiere."
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ɛɐ̯ˈvɛkən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erweckt",
+    "past_perfect": "hat erweckt",
+    "preterite": "erweckte",
+    "frequency": 5
+}

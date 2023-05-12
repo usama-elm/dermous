@@ -1,0 +1,27 @@
+{
+    "word": "gefangen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "fangen",
+    "translation": "caught",
+    "example_sentences": [
+        {
+            "de": "Er wurde gestern von der Polizei gefangen.",
+            "en": "He was caught by the police yesterday."
+        },
+        {
+            "de": "Ich habe den Ball gefangen.",
+            "en": "I caught the ball."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈfaŋən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "fängt",
+    "past_perfect": "gefangen gehabt",
+    "preterite": "fing",
+    "frequency_scale": 7
+}

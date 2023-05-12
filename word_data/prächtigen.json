@@ -1,0 +1,26 @@
+{
+    "word": "prächtigen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "prächtig",
+    "translation": "magnificent",
+    "example_sentences": [
+        {
+            "de": "Er hat ein prächtiges Haus.",
+            "en": "He has a magnificent house."
+        },
+        {
+            "de": "Die prächtigen Blumen blühen im Garten.",
+            "en": "The magnificent flowers are blooming in the garden."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈpʁɛçtɪɡən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

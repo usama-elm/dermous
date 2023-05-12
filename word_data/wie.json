@@ -1,0 +1,25 @@
+{
+    "word": "wie",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "how, like",
+    "example_sentences": [
+        {
+            "de": "Wie geht es dir?",
+            "en": "How are you?"
+        },
+        {
+            "de": "Ich sehe aus wie meine Mutter.",
+            "en": "I look like my mother."
+        }
+    ],
+    "usage_frequency": 9,
+    "IPA_code": "/viː/",
+    "verb_auxiliary_for_past": "haben",
+    "european_difficulty_level": "A1",
+    "irregular_verb_present_3rd_form_singular": null,
+    "irregular_verb_past_perfect": null,
+    "irregular_verb_preterite": null,
+    "irregular_verb_frequency": null
+}

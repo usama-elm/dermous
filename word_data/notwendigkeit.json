@@ -1,0 +1,26 @@
+{
+    "word": "notwendigkeit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "necessity",
+    "example_sentences": [
+        {
+            "de": "Die Notwendigkeit zu handeln ist groß.",
+            "en": "The necessity to act is great."
+        },
+        {
+            "de": "Ohne Notwendigkeit sollte man nicht handeln.",
+            "en": "One should not act without necessity."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈnɔt.vɛn.dɪç.kaɪt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

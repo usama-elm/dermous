@@ -1,0 +1,26 @@
+{
+    "word": "mußt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "müssen",
+    "translation": "must",
+    "example_sentences": [
+        {
+            "de": "Du musst pünktlich sein.",
+            "en": "You must be on time."
+        },
+        {
+            "de": "Ich muss heute Abend arbeiten.",
+            "en": "I must work tonight."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/mʊst/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "muss",
+    "past_perfect": "gemusst",
+    "preterite": "musste",
+    "frequency_scale": 7
+}

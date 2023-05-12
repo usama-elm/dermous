@@ -1,0 +1,21 @@
+{
+    "word": "vernichtung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "destruction",
+    "example_sentences": [
+        {
+            "de": "Die Vernichtung der Stadt war unvermeidlich.",
+            "en": "The destruction of the city was inevitable."
+        },
+        {
+            "de": "Die Vernichtung von Beweismitteln ist strafbar.",
+            "en": "The destruction of evidence is punishable."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/fɛɐ̯ˈnɪçtʊŋ/",
+    "difficulty_level": "B2",
+    "irregular_verb": false
+}

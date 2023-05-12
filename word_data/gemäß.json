@@ -1,0 +1,26 @@
+{
+    "word": "gemäß",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "in accordance with",
+    "example_sentences": [
+        {
+            "de": "Gemäß dem Gesetz müssen wir Steuern zahlen.",
+            "en": "According to the law, we have to pay taxes."
+        },
+        {
+            "de": "Ich habe gehandelt gemäß meinen Überzeugungen.",
+            "en": "I acted in accordance with my beliefs."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈmɛːs",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

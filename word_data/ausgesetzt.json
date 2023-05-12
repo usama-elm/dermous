@@ -1,0 +1,26 @@
+{
+    "word": "ausgesetzt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "exposed",
+    "example_sentences": [
+        {
+            "de": "Die Haut ist der Sonne ausgesetzt.",
+            "en": "The skin is exposed to the sun."
+        },
+        {
+            "de": "Er hat sich ausgesetzt gefühlt.",
+            "en": "He felt exposed."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈaʊsɡəˌzɛts(t)/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

@@ -1,0 +1,26 @@
+{
+    "word": "heutigen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "today's",
+    "example_sentences": [
+        {
+            "de": "Der heutige Tag ist sehr schön.",
+            "en": "Today's weather is very nice."
+        },
+        {
+            "de": "Ich habe den heutigen Termin vergessen.",
+            "en": "I forgot about today's appointment."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈhɔʏtɪɡən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

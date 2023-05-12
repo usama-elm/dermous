@@ -1,0 +1,26 @@
+{
+    "word": "ich",
+    "gender": "m",
+    "article": "der",
+    "word_type": "pronoun",
+    "translation": "I",
+    "example_sentences": [
+        {
+            "de": "Ich gehe heute Abend ins Kino.",
+            "en": "I'm going to the cinema tonight."
+        },
+        {
+            "de": "Ich habe gestern ein Buch gelesen.",
+            "en": "I read a book yesterday."
+        }
+    ],
+    "usage_frequency": 10,
+    "ipa": "ɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": 1,
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": null
+}

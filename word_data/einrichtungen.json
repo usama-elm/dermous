@@ -1,0 +1,22 @@
+{
+    "word": "einrichtungen",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "facilities",
+    "example_sentences": [
+        {
+            "de": "Die Einrichtungen des Hotels sind sehr modern.",
+            "en": "The facilities of the hotel are very modern."
+        },
+        {
+            "de": "Die Einrichtungen der Schule sind sehr gut.",
+            "en": "The facilities of the school are very good."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈaɪ̯nˌʁɪçtʊŋən",
+    "verb_auxiliary": "",
+    "difficulty_level": "B1",
+    "irregular": false
+}

@@ -1,0 +1,26 @@
+{
+    "word": "vorschein",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "glimmer, glint, glimpse",
+    "example_sentences": [
+        {
+            "de": "Ich sah einen Vorschein von Hoffnung.",
+            "en": "I saw a glimmer of hope."
+        },
+        {
+            "de": "Am Horizont war ein Vorschein von Licht zu sehen.",
+            "en": "There was a glint of light on the horizon."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "ˈfɔʁʃaɪ̯n",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

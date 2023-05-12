@@ -1,0 +1,26 @@
+{
+    "word": "empfindet",
+    "gender": "f",
+    "article": "die",
+    "word_type": "infinitive",
+    "translation": "feels",
+    "example_sentences": [
+        {
+            "de": "Sie empfindet Freude bei der Arbeit.",
+            "en": "She feels joy at work."
+        },
+        {
+            "de": "Er empfindet Schmerzen im Rücken.",
+            "en": "He feels pain in his back."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ɛmˈpflɪndət/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_form_singular": "empfindet",
+    "past_perfect": "hat empfunden",
+    "preterite": "empfand",
+    "frequency_scale": 8
+}

@@ -1,0 +1,21 @@
+{
+    "word": "ecke",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "corner",
+    "example_sentences": [
+        {
+            "de": "Ich stehe an der Ecke.",
+            "en": "I'm standing on the corner."
+        },
+        {
+            "de": "Die Katze sitzt in der Ecke.",
+            "en": "The cat is sitting in the corner."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈɛkə/",
+    "difficulty_level": "A1",
+    "irregular_verb": false
+}

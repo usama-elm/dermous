@@ -1,0 +1,26 @@
+{
+    "word": "schießen",
+    "gender": "n",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to shoot",
+    "example_sentences": [
+        {
+            "de": "Er schießt ein Tor.",
+            "en": "He scores a goal."
+        },
+        {
+            "de": "Ich habe noch nie eine Waffe geschossen.",
+            "en": "I have never shot a weapon before."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈʃiːsən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schießt",
+    "past_perfect": "geschossen",
+    "preterite": "schoss",
+    "frequency_scale": 8
+}

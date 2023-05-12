@@ -1,0 +1,27 @@
+{
+    "word": "erscheinen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "erscheinen",
+    "translation": "to appear",
+    "example_sentences": [
+        {
+            "de": "Er wird morgen in der Zeitung erscheinen.",
+            "en": "He will appear in the newspaper tomorrow."
+        },
+        {
+            "de": "Die Sonne erscheint am Horizont.",
+            "en": "The sun appears on the horizon."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐ̯ˈʃaɪ̯nən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erscheint",
+    "past_perfect": "erschienen",
+    "preterite": "erschien",
+    "frequency_scale": 8
+}

@@ -1,0 +1,27 @@
+{
+    "word": "fragt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "verb",
+    "infinitive": "fragen",
+    "translation": "asks",
+    "example_sentences": [
+        {
+            "de": "Er fragt nach dem Weg.",
+            "en": "He asks for directions."
+        },
+        {
+            "de": "Sie fragt ihn, ob er Zeit hat.",
+            "en": "She asks him if he has time."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/fʁaːkt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "fragt",
+    "past_perfect": "gefragt",
+    "preterite": "fragte",
+    "frequency_scale": 7
+}

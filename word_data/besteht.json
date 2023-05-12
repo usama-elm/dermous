@@ -1,0 +1,27 @@
+{
+    "word": "besteht",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "bestehen",
+    "translation": "to exist",
+    "example_sentences": [
+        {
+            "de": "Die Möglichkeit besteht, dass es regnet.",
+            "en": "There is a possibility that it will rain."
+        },
+        {
+            "de": "Das Problem besteht schon seit Jahren.",
+            "en": "The problem has existed for years."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈʃtaɪ̯ən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "besteht",
+    "past_perfect": "hat bestanden",
+    "preterite": "bestand",
+    "frequency_scale": 8
+}

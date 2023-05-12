@@ -1,0 +1,26 @@
+{
+    "word": "einsamkeit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "loneliness",
+    "example_sentences": [
+        {
+            "de": "Ich fühle mich oft in meiner Einsamkeit verloren.",
+            "en": "I often feel lost in my loneliness."
+        },
+        {
+            "de": "Die Einsamkeit kann sehr belastend sein.",
+            "en": "Loneliness can be very burdensome."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaɪ̯nzaːmkaɪ̯t/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

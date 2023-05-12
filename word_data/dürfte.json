@@ -1,0 +1,27 @@
+{
+    "word": "dürfte",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "dürfen",
+    "translation": "may, might, could",
+    "example_sentences": [
+        {
+            "de": "Ich dürfte das machen.",
+            "en": "I may do that."
+        },
+        {
+            "de": "Er dürfte schon angekommen sein.",
+            "en": "He might have already arrived."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈdʏʁftə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "darf",
+    "past_perfect": "gedurft",
+    "preterite": "durfte",
+    "frequency_scale": 8
+}

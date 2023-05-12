@@ -1,0 +1,26 @@
+{
+    "word": "infolge",
+    "gender": "f",
+    "article": "die",
+    "word_type": "preposition",
+    "translation": "as a result of",
+    "example_sentences": [
+        {
+            "de": "Infolge des Unfalls kam es zu Verzögerungen im Verkehr.",
+            "en": "As a result of the accident, there were delays in traffic."
+        },
+        {
+            "de": "Infolge der schlechten Wetterbedingungen musste das Konzert abgesagt werden.",
+            "en": "Due to the bad weather conditions, the concert had to be cancelled."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈɪn.fɔl.ɡə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

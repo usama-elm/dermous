@@ -1,0 +1,26 @@
+{
+    "word": "besorgt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "worried",
+    "example_sentences": [
+        {
+            "de": "Ich bin besorgt um meine Gesundheit.",
+            "en": "I am worried about my health."
+        },
+        {
+            "de": "Sie war besorgt um ihre Kinder.",
+            "en": "She was worried about her children."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈzɔʁkt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

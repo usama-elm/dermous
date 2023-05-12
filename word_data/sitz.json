@@ -1,0 +1,26 @@
+{
+    "word": "sitz",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "seat",
+    "example_sentences": [
+        {
+            "de": "Ich nehme auf dem Sitz Platz.",
+            "en": "I take a seat on the chair."
+        },
+        {
+            "de": "Der Sitz ist sehr bequem.",
+            "en": "The seat is very comfortable."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/zɪts/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

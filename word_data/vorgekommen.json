@@ -1,0 +1,28 @@
+{
+    "word": "vorgekommen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "vorkommen",
+    "translation": "to occur, to happen",
+    "example_sentences": [
+        {
+            "de": "Es ist mir schon öfter vorgekommen, dass ich meinen Schlüssel verlegt habe.",
+            "en": "It has happened to me several times that I misplaced my key."
+        },
+        {
+            "de": "Ist dir das schon einmal vorgekommen?",
+            "en": "Has this ever happened to you?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/fɔʁˈɡəkɔmən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregularities": {
+        "present_3rd_singular": "kommt vor",
+        "past_perfect": "vorgekommen",
+        "preterite": "kam vor"
+    },
+    "irregularity_frequency": 3
+}

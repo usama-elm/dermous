@@ -1,0 +1,26 @@
+{
+    "word": "verständlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "understandable",
+    "example_sentences": [
+        {
+            "de": "Die Anweisungen waren nicht verständlich genug.",
+            "en": "The instructions were not clear enough."
+        },
+        {
+            "de": "Der Vortrag war sehr verständlich und gut strukturiert.",
+            "en": "The lecture was very clear and well-structured."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "fɛɐ̯ˈʃtɛntlɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

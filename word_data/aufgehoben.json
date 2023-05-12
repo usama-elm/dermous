@@ -1,0 +1,21 @@
+{
+    "word": "aufgehoben",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "aufheben",
+    "translation": "lifted, cancelled, preserved",
+    "example_sentences": [
+        "Die Sperrung der Straße wurde aufgehoben. (The road closure was lifted.)",
+        "Die Entscheidung wurde aufgehoben. (The decision was cancelled.)",
+        "Die alten Traditionen werden aufgehoben. (The old traditions are preserved.)"
+    ],
+    "usage_frequency": 7,
+    "IPA": "/ˈaʊfɡəˌhoːbn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "hebt auf",
+    "past_perfect": "hat aufgehoben",
+    "preterite": "hob auf",
+    "frequency_scale": 8
+}

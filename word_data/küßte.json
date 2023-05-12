@@ -1,0 +1,26 @@
+{
+    "word": "küßte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "küssen",
+    "translation": "kissed",
+    "example_sentences": [
+        {
+            "de": "Er küßte sie auf die Wange.",
+            "en": "He kissed her on the cheek."
+        },
+        {
+            "de": "Sie küßte ihn leidenschaftlich.",
+            "en": "She kissed him passionately."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈkyːstə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "küßt",
+    "past_perfect": "geküßt",
+    "preterite": "küßte",
+    "frequency_scale": 8
+}

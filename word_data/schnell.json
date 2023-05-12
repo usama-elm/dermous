@@ -1,0 +1,26 @@
+{
+    "word": "schnell",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "quick, fast",
+    "example_sentences": [
+        {
+            "de": "Ich laufe schnell.",
+            "en": "I run quickly."
+        },
+        {
+            "de": "Das Auto fährt schnell.",
+            "en": "The car drives fast."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ʃnɛl/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

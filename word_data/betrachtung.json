@@ -1,0 +1,21 @@
+{
+    "word": "betrachtung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "observation, contemplation",
+    "example_sentences": [
+        {
+            "de": "Seine Betrachtungen über das Leben waren sehr tiefgründig.",
+            "en": "His observations about life were very profound."
+        },
+        {
+            "de": "Ich brauche etwas Zeit zur Betrachtung der Situation.",
+            "en": "I need some time to contemplate the situation."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/bəˈtʁaxtʊŋ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

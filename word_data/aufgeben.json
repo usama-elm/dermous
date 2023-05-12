@@ -1,0 +1,21 @@
+{
+    "word": "aufgeben",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to give up",
+    "example_sentences": [
+        "Ich gebe auf.",
+        "Er hat das Spiel aufgegeben.",
+        "Sie gibt ihre Träume auf."
+    ],
+    "usage_frequency": 8,
+    "IPA": "/ˈaʊfɡeːbən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gibt auf",
+    "past_perfect": "hat aufgegeben",
+    "preterite": "gab auf",
+    "frequency": 8
+}

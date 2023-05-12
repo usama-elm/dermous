@@ -1,0 +1,27 @@
+{
+    "word": "sitzt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "sitzen",
+    "translation": "sits",
+    "example_sentences": [
+        {
+            "de": "Er sitzt auf dem Stuhl.",
+            "en": "He sits on the chair."
+        },
+        {
+            "de": "Sie sitzt im Café.",
+            "en": "She sits in the café."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/zɪts(t)/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "A1",
+    "irregular": true,
+    "present_3rd_singular": "sitzt",
+    "past_perfect": "hat gesessen",
+    "preterite": "saß",
+    "frequency_scale": 7
+}

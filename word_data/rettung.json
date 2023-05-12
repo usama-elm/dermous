@@ -1,0 +1,26 @@
+{
+    "word": "Rettung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "rescue",
+    "example_sentences": [
+        {
+            "de": "Die Rettung kam rechtzeitig.",
+            "en": "The rescue came in time."
+        },
+        {
+            "de": "Die Feuerwehr war schnell bei der Rettung.",
+            "en": "The fire department was quick in the rescue."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈʁɛtʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

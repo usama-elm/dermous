@@ -1,0 +1,27 @@
+{
+    "word": "erzählt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "erzählen",
+    "translation": "to tell",
+    "example_sentences": [
+        {
+            "de": "Er erzählt mir eine Geschichte.",
+            "en": "He tells me a story."
+        },
+        {
+            "de": "Sie erzählt gerne Witze.",
+            "en": "She likes to tell jokes."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɛɐ̯ˈtsɛːlt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erzählt",
+    "past_perfect": "hat erzählt",
+    "preterite": "erzählte",
+    "frequency_scale": 7
+}

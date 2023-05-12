@@ -1,0 +1,21 @@
+{
+    "word": "Anzahl",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "number, quantity",
+    "example_sentences": [
+        {
+            "de": "Die Anzahl der Teilnehmer ist begrenzt.",
+            "en": "The number of participants is limited."
+        },
+        {
+            "de": "Die Anzahl der Bewerbungen hat zugenommen.",
+            "en": "The quantity of applications has increased."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈanˌtsaːl/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

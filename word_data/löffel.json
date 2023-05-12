@@ -1,0 +1,26 @@
+{
+    "word": "löffel",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "spoon",
+    "example_sentences": [
+        {
+            "de": "Ich esse Suppe mit einem Löffel.",
+            "en": "I eat soup with a spoon."
+        },
+        {
+            "de": "Kannst du mir bitte den Löffel geben?",
+            "en": "Can you please give me the spoon?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈlœfl̩",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

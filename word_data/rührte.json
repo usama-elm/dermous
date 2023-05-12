@@ -1,0 +1,20 @@
+{
+    "word": "rührte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "rühren",
+    "translation": "stirred",
+    "example_sentences": [
+        "Sie rührte den Teig vorsichtig um. (She stirred the dough carefully.)",
+        "Er rührte sich nicht vom Fleck. (He didn't move a muscle.)"
+    ],
+    "usage_frequency": 6,
+    "IPA": "ˈʁyːʁtə",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "rührt",
+    "past_perfect": "gerührt",
+    "preterite": "rührte",
+    "frequency_scale": 8
+}

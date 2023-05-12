@@ -1,0 +1,26 @@
+{
+    "word": "übergang",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "transition",
+    "example_sentences": [
+        {
+            "de": "Der Übergang von der Schule zur Universität war schwierig.",
+            "en": "The transition from school to university was difficult."
+        },
+        {
+            "de": "Der Übergang zwischen den Jahreszeiten ist oft unvorhersehbar.",
+            "en": "The transition between seasons is often unpredictable."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈyːɐ̯bɛrɡaŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

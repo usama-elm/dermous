@@ -1,0 +1,26 @@
+{
+    "word": "erwiesen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "erweisen",
+    "translation": "proven",
+    "example_sentences": [
+        {
+            "de": "Es hat sich als erwiesen erwiesen, dass er recht hatte.",
+            "en": "It has proven that he was right."
+        },
+        {
+            "de": "Die Theorie wurde als falsch erwiesen.",
+            "en": "The theory was proven to be false."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɛɐ̯ˈviːzn̩",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B2",
+    "irregular": true,
+    "present_3rd_singular": "erweist",
+    "past_perfect": "hat erwiesen",
+    "preterite": "erwies",
+    "frequency_scale": 8
+}

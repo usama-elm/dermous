@@ -1,0 +1,26 @@
+{
+    "word": "entsetzlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "appalling",
+    "example_sentences": [
+        {
+            "de": "Das war eine entsetzliche Tat.",
+            "en": "That was an appalling act."
+        },
+        {
+            "de": "Ich hatte entsetzliche Kopfschmerzen.",
+            "en": "I had appalling headaches."
+        }
+    ],
+    "usage_frequency": 5,
+    "ipa": "/ɛntˈzɛt͡s.lɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

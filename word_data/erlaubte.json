@@ -1,0 +1,26 @@
+{
+    "word": "erlaubte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "erlauben",
+    "translation": "allowed",
+    "example_sentences": [
+        {
+            "de": "Ich erlaubte ihm, das Auto zu fahren.",
+            "en": "I allowed him to drive the car."
+        },
+        {
+            "de": "Sie erlaubte mir, das Buch auszuleihen.",
+            "en": "She allowed me to borrow the book."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɛɐ̯ˈlaʊptə",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erlaubt",
+    "past_perfect": "hat erlaubt",
+    "preterite": "erlaubte",
+    "frequency_scale": 8
+}

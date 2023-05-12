@@ -1,0 +1,27 @@
+{
+    "word": "gestört",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "stören",
+    "translation": "disturbed",
+    "example_sentences": [
+        {
+            "de": "Ich bin gestört worden.",
+            "en": "I have been disturbed."
+        },
+        {
+            "de": "Die Ruhe wurde gestört.",
+            "en": "The peace was disturbed."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈʃtœʁt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "stört",
+    "past_perfect": "hat gestört",
+    "preterite": "störte",
+    "frequency_scale": 7
+}

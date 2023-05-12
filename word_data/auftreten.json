@@ -1,0 +1,26 @@
+{
+    "word": "auftreten",
+    "gender": "n",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to appear, to perform",
+    "example_sentences": [
+        {
+            "de": "Er tritt heute Abend im Theater auf.",
+            "en": "He is performing at the theater tonight."
+        },
+        {
+            "de": "Das Problem ist gestern aufgetreten.",
+            "en": "The problem appeared yesterday."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaʊfˌtʀeːtn̩/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "tritt auf",
+    "past_perfect": "ist aufgetreten",
+    "preterite": "trat auf",
+    "frequency_scale": 8
+}

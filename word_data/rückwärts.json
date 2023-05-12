@@ -1,0 +1,26 @@
+{
+    "word": "rückwärts",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "backwards",
+    "example_sentences": [
+        {
+            "de": "Er ging rückwärts aus dem Raum.",
+            "en": "He walked backwards out of the room."
+        },
+        {
+            "de": "Das Auto fuhr rückwärts in die Garage.",
+            "en": "The car drove backwards into the garage."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈʁʏkvɛʁts",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

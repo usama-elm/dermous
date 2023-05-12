@@ -1,0 +1,26 @@
+{
+    "word": "ersetzt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "ersetzen (infinitive verb)",
+    "translation": "replaced",
+    "example_sentences": [
+        {
+            "de": "Er hat das defekte Teil ersetzt.",
+            "en": "He replaced the defective part."
+        },
+        {
+            "de": "Die neue Technologie hat die alte ersetzt.",
+            "en": "The new technology has replaced the old one."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ɛɐ̯ˈzɛtst/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ersetzt",
+    "past_perfect": "ersetzt",
+    "preterite": "ersetzte",
+    "frequency_scale": 8
+}

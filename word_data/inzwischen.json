@@ -1,0 +1,26 @@
+{
+    "word": "inzwischen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "meanwhile",
+    "example_sentences": [
+        {
+            "de": "Inzwischen hat sich viel verändert.",
+            "en": "Meanwhile, a lot has changed."
+        },
+        {
+            "de": "Inzwischen ist es dunkel geworden.",
+            "en": "Meanwhile, it has become dark."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ɪnˈt͡svɪʃən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

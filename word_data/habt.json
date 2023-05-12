@@ -1,0 +1,27 @@
+{
+    "word": "habt",
+    "gender": "plural",
+    "article": "ihr",
+    "word_type": "verb",
+    "infinitive": "haben",
+    "translation": "have",
+    "example_sentences": [
+        {
+            "de": "Ihr habt eine schöne Wohnung.",
+            "en": "You have a beautiful apartment."
+        },
+        {
+            "de": "Habt ihr schon gegessen?",
+            "en": "Have you eaten already?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈhapt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A1",
+    "irregular": true,
+    "present_3rd_singular": "hat",
+    "past_perfect": "hatte gehabt",
+    "preterite": "hatte",
+    "frequency_scale": 7
+}

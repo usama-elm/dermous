@@ -1,0 +1,22 @@
+{
+    "word": "gleichen",
+    "gender": "n/a",
+    "article": "n/a",
+    "word_type": "verb",
+    "translation": "to be equal to; to resemble",
+    "example_sentences": [
+        "Die beiden Schwestern gleichen sich sehr.",
+        "The two sisters resemble each other very much.",
+        "Die Ergebnisse gleichen sich fast vollständig.",
+        "The results are almost completely equal."
+    ],
+    "usage_frequency": 7.5,
+    "ipa": "/ˈɡlaɪçən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular_conjugation": true,
+    "present_3rd_singular": "gleicht",
+    "past_perfect": "geglichen",
+    "preterite": "glich",
+    "frequency_scale": 7
+}

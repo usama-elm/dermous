@@ -1,0 +1,26 @@
+{
+    "word": "teile",
+    "gender": "f",
+    "article": "die",
+    "word_type": "teilen",
+    "translation": "to share",
+    "example_sentences": [
+        {
+            "de": "Ich teile gerne mein Essen mit anderen.",
+            "en": "I like to share my food with others."
+        },
+        {
+            "de": "Wir teilen uns die Kosten für das Hotelzimmer.",
+            "en": "We share the costs for the hotel room."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈtaɪ̯lə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": "teilt",
+    "past_perfect": "geteilt",
+    "preterite": "teilte",
+    "frequency_scale": 8
+}

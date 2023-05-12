@@ -1,0 +1,21 @@
+{
+    "word": "kühnen",
+    "suggestions": [
+        {
+            "word": "kühn",
+            "gender": "m",
+            "article": "der",
+            "word_type": "adjective",
+            "translation": "bold, brave",
+            "example_sentences": [
+                "Er ist ein kühner Kletterer.",
+                "Sie hat eine kühne Idee.",
+                "Sein kühnes Verhalten hat ihn in Schwierigkeiten gebracht."
+            ],
+            "usage_frequency": 7,
+            "ipa": "kʏn",
+            "difficulty_level": "B1",
+            "is_irregular": false
+        }
+    ]
+}

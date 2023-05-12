@@ -1,0 +1,26 @@
+{
+    "word": "presste",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Verb (Infinitiv: pressen)",
+    "translation": "pressed",
+    "example_sentences": [
+        {
+            "de": "Sie presste die Zitrone aus.",
+            "en": "She squeezed the lemon."
+        },
+        {
+            "de": "Er presste seine Lippen zusammen.",
+            "en": "He pressed his lips together."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈpʁɛstə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "presst",
+    "past_perfect": "gepresst",
+    "preterite": "presste",
+    "frequency_scale": 7
+}

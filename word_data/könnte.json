@@ -1,0 +1,27 @@
+{
+    "word": "könnte",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "können",
+    "translation": "could",
+    "example_sentences": [
+        {
+            "de": "Ich könnte dir helfen.",
+            "en": "I could help you."
+        },
+        {
+            "de": "Er könnte kommen, wenn er Zeit hat.",
+            "en": "He could come if he has time."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈkœnətə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "kann",
+    "past_perfect": "gekonnt",
+    "preterite": "konnte",
+    "frequency_scale": 8
+}

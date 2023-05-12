@@ -1,0 +1,26 @@
+{
+    "word": "sehe",
+    "gender": "f",
+    "article": "die",
+    "word_type": "sehen",
+    "translation": "see",
+    "example_sentences": [
+        {
+            "de": "Ich sehe einen Vogel.",
+            "en": "I see a bird."
+        },
+        {
+            "de": "Sie sieht fern.",
+            "en": "She watches TV."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈzeːə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": "sieht",
+    "past_perfect": "gesehen",
+    "preterite": "sah",
+    "frequency_scale": 7
+}

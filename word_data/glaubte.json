@@ -1,0 +1,26 @@
+{
+    "word": "glaubte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "glauben",
+    "translation": "believed",
+    "example_sentences": [
+        {
+            "de": "Ich glaubte ihm nicht.",
+            "en": "I didn't believe him."
+        },
+        {
+            "de": "Sie glaubte an Gott.",
+            "en": "She believed in God."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈɡlaʊ̯ptə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "glaubt",
+    "past_perfect": "geglaubt",
+    "preterite": "glaubte",
+    "frequency_scale": 8
+}

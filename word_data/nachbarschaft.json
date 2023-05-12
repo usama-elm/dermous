@@ -1,0 +1,21 @@
+{
+    "word": "nachbarschaft",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "neighborhood",
+    "example_sentences": [
+        {
+            "de": "Ich wohne in einer ruhigen Nachbarschaft.",
+            "en": "I live in a quiet neighborhood."
+        },
+        {
+            "de": "In unserer Nachbarschaft gibt es viele Kinder.",
+            "en": "There are many children in our neighborhood."
+        }
+    ],
+    "usage_frequency": 7.5,
+    "ipa": "/ˈnaːpbaʁˌʃaft/",
+    "difficulty_level": "B1",
+    "error": null
+}

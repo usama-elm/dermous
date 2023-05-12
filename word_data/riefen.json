@@ -1,0 +1,27 @@
+{
+    "word": "riefen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "rufen",
+    "translation": "to call",
+    "example_sentences": [
+        {
+            "de": "Ich rief meinen Freund an.",
+            "en": "I called my friend."
+        },
+        {
+            "de": "Er ruft immer laut.",
+            "en": "He always calls loudly."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈʁaɪ̯fn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ruft",
+    "past_perfect": "hat gerufen",
+    "preterite": "rief",
+    "frequency_scale": 8
+}

@@ -1,0 +1,22 @@
+{
+    "word": "unterscheidet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "unterscheiden",
+    "translation": "distinguish",
+    "example_sentences": [
+        "Man unterscheidet zwischen gutem und schlechtem Verhalten.",
+        "Es ist wichtig, zwischen Fakten und Meinungen zu unterscheiden.",
+        "One distinguishes between good and bad behavior.",
+        "It is important to distinguish between facts and opinions."
+    ],
+    "usage_frequency": 7,
+    "IPA_code": "/ˈʊntɐʃaɪ̯dət/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "unterscheidet",
+    "past_perfect": "hat unterschieden",
+    "preterite": "unterschied",
+    "frequency_scale": 8
+}

@@ -1,0 +1,27 @@
+{
+    "word": "liefen",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "laufen",
+    "translation": "to run",
+    "example_sentences": [
+        {
+            "de": "Wir liefen gestern im Park.",
+            "en": "We ran in the park yesterday."
+        },
+        {
+            "de": "Die Kinder liefen schnell nach Hause.",
+            "en": "The children ran quickly home."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈlaʊ̯fən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "läuft",
+    "past_perfect": "gelaufen",
+    "preterite": "lief",
+    "frequency_scale": 7
+}

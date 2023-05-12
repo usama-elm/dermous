@@ -1,0 +1,26 @@
+{
+    "word": "ihres",
+    "gender": "f",
+    "article": "die",
+    "word_type": "pronoun",
+    "translation": "hers",
+    "example_sentences": [
+        {
+            "de": "Das ist ihr Auto. Das Auto ist ihres.",
+            "en": "That is her car. The car is hers."
+        },
+        {
+            "de": "Ich habe ihr Buch verloren. Das Buch ist ihres.",
+            "en": "I lost her book. The book is hers."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈiːrəs",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "is_irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 4
+}

@@ -1,0 +1,26 @@
+{
+    "word": "Aussicht",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "view, prospect, outlook",
+    "example_sentences": [
+        {
+            "de": "Von hier aus hat man eine tolle Aussicht auf die Stadt.",
+            "en": "From here you have a great view of the city."
+        },
+        {
+            "de": "Die Aussicht auf Erfolg motiviert mich.",
+            "en": "The prospect of success motivates me."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaʊsɪçt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

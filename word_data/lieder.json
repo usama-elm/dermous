@@ -1,0 +1,26 @@
+{
+    "word": "lieder",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "songs",
+    "example_sentences": [
+        {
+            "de": "Ich höre gerne deutsche Lieder.",
+            "en": "I like listening to German songs."
+        },
+        {
+            "de": "Er singt Lieder von seiner Heimat.",
+            "en": "He sings songs from his homeland."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈliːdɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

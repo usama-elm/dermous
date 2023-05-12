@@ -1,0 +1,26 @@
+{
+    "word": "künstlerischen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "artistic",
+    "example_sentences": [
+        {
+            "de": "Er hat eine künstlerische Ader.",
+            "en": "He has an artistic streak."
+        },
+        {
+            "de": "Die künstlerischen Fähigkeiten des Malers sind beeindruckend.",
+            "en": "The artistic skills of the painter are impressive."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈkʏnstləʁɪʃən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

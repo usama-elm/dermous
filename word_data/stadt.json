@@ -1,0 +1,26 @@
+{
+    "word": "stadt",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "city",
+    "example_sentences": [
+        {
+            "de": "Ich wohne in einer Stadt.",
+            "en": "I live in a city."
+        },
+        {
+            "de": "Die Stadt ist sehr groß.",
+            "en": "The city is very big."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ʃtat/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

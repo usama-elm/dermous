@@ -1,0 +1,26 @@
+{
+    "word": "keinen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "kein",
+    "translation": "no, not any",
+    "example_sentences": [
+        {
+            "de": "Ich habe keinen Hunger.",
+            "en": "I'm not hungry."
+        },
+        {
+            "de": "Es gibt keinen Grund zur Sorge.",
+            "en": "There's no reason to worry."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈkaɪ̯nən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

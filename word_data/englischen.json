@@ -1,0 +1,26 @@
+{
+    "word": "englischen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjektiv",
+    "translation": "English",
+    "example_sentences": [
+        {
+            "de": "Ich lerne englische Grammatik.",
+            "en": "I am learning English grammar."
+        },
+        {
+            "de": "Er spricht fließend englisch.",
+            "en": "He speaks fluent English."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈɛŋlɪʃən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 4
+}

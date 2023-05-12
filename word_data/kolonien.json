@@ -1,0 +1,26 @@
+{
+    "word": "kolonien",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "colonies",
+    "example_sentences": [
+        {
+            "de": "Die europäischen Kolonien in Afrika wurden im 20. Jahrhundert unabhängig.",
+            "en": "The European colonies in Africa became independent in the 20th century."
+        },
+        {
+            "de": "Die Kolonien waren ein wichtiger Bestandteil des Kolonialismus.",
+            "en": "The colonies were an important part of colonialism."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "koˈloːniən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "sollst",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "sollen",
+    "translation": "should",
+    "example_sentences": [
+        {
+            "de": "Du sollst nicht lügen.",
+            "en": "You should not lie."
+        },
+        {
+            "de": "Was sollst du heute Abend machen?",
+            "en": "What should you do tonight?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/zɔlst/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "soll",
+    "past_perfect": "hat gesollt",
+    "preterite": "solltest",
+    "frequency_scale": 7
+}

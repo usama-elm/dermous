@@ -1,0 +1,20 @@
+{
+    "word": "führt",
+    "gender": "f",
+    "article": "die",
+    "word_type": "führen",
+    "translation": "leads",
+    "example_sentences": [
+        "Sie führt das Unternehmen seit 10 Jahren.",
+        "Er führt die Mannschaft zum Sieg."
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/fʏrt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "führt",
+    "past_perfect": "geführt",
+    "preterite": "führte",
+    "frequency_scale": 9
+}

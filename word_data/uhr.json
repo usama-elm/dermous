@@ -1,0 +1,26 @@
+{
+    "word": "Uhr",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "clock",
+    "example_sentences": [
+        {
+            "de": "Ich schaue auf die Uhr.",
+            "en": "I look at the clock."
+        },
+        {
+            "de": "Die Uhr tickt laut.",
+            "en": "The clock ticks loudly."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/uːɐ̯/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

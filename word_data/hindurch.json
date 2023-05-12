@@ -1,0 +1,26 @@
+{
+    "word": "hindurch",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "through",
+    "example_sentences": [
+        {
+            "de": "Er ging hindurch.",
+            "en": "He went through."
+        },
+        {
+            "de": "Wir müssen hindurch.",
+            "en": "We have to go through."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/hɪndʊʁç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

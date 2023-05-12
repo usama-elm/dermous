@@ -1,0 +1,26 @@
+{
+    "word": "befehl",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "command",
+    "example_sentences": [
+        {
+            "de": "Er gab den Befehl zum Angriff.",
+            "en": "He gave the command to attack."
+        },
+        {
+            "de": "Der Befehlshaber hat das Kommando übernommen.",
+            "en": "The commander has taken command."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈfeːl/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

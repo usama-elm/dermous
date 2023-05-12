@@ -1,0 +1,26 @@
+{
+    "word": "wirklichen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjektiv",
+    "translation": "real",
+    "example_sentences": [
+        {
+            "de": "Ich habe den wirklichen Grund für sein Verhalten herausgefunden.",
+            "en": "I found out the real reason for his behavior."
+        },
+        {
+            "de": "Er hat einen wirklichen Traum verwirklicht.",
+            "en": "He has realized a real dream."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈvɪʁklɪçən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

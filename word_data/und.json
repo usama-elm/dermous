@@ -1,0 +1,26 @@
+{
+    "word": "und",
+    "gender": "conjunction",
+    "article": "",
+    "word_type": "conjunction",
+    "translation": "and",
+    "example_sentences": [
+        {
+            "de": "Ich trinke Kaffee und esse ein Croissant.",
+            "en": "I drink coffee and eat a croissant."
+        },
+        {
+            "de": "Er spielt Fußball und sie tanzt Ballett.",
+            "en": "He plays soccer and she dances ballet."
+        }
+    ],
+    "usage_frequency": 10,
+    "IPA_code": "/ʊnt/",
+    "verb_auxiliary_for_past": "",
+    "european_difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_form_singular": "",
+    "past_perfect": "",
+    "preterite": "",
+    "frequency_scale_of_10": 10
+}

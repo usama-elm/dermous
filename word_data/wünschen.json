@@ -1,0 +1,27 @@
+{
+    "word": "wünschen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "wünschen",
+    "translation": "to wish",
+    "example_sentences": [
+        {
+            "de": "Ich wünsche dir einen schönen Tag.",
+            "en": "I wish you a nice day."
+        },
+        {
+            "de": "Ich wünsche mir ein neues Auto.",
+            "en": "I wish for a new car."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈvʏnʃən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wünscht",
+    "past_perfect": "gewünscht",
+    "preterite": "wünschte",
+    "frequency_scale": 7
+}

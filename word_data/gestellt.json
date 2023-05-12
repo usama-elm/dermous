@@ -1,0 +1,26 @@
+{
+    "word": "gestellt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "stellen",
+    "translation": "placed",
+    "example_sentences": [
+        {
+            "de": "Ich habe das Buch auf den Tisch gestellt.",
+            "en": "I placed the book on the table."
+        },
+        {
+            "de": "Er hat die Frage gestellt.",
+            "en": "He asked the question."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ɡəˈʃtɛlt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "stellt",
+    "past_perfect": "gestellt gehabt",
+    "preterite": "stellte",
+    "frequency_scale": 8
+}

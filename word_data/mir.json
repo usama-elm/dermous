@@ -1,0 +1,26 @@
+{
+    "word": "mir",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "pronoun",
+    "translation": "me",
+    "example_sentences": [
+        {
+            "de": "Ich gebe mir Mühe.",
+            "en": "I am making an effort."
+        },
+        {
+            "de": "Mir geht es gut.",
+            "en": "I am doing well."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/mɪʁ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

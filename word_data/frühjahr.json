@@ -1,0 +1,26 @@
+{
+    "word": "frühjahr",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "spring",
+    "example_sentences": [
+        {
+            "de": "Im Frühjahr blühen die Blumen.",
+            "en": "In spring, the flowers bloom."
+        },
+        {
+            "de": "Ich liebe das Frühjahr.",
+            "en": "I love spring."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈfʀyˌjaːɐ̯/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

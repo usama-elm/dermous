@@ -1,0 +1,26 @@
+{
+    "word": "fliehen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to flee",
+    "example_sentences": [
+        {
+            "de": "Die Menschen mussten vor dem Krieg fliehen.",
+            "en": "The people had to flee from the war."
+        },
+        {
+            "de": "Er ist vor der Polizei geflohen.",
+            "en": "He fled from the police."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈfliːən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "flieht",
+    "past_perfect": "ist geflohen",
+    "preterite": "floh",
+    "frequency": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "griechen",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "translation": "to greek",
+    "example_sentences": [
+        {
+            "de": "Wir griechen heute Abend.",
+            "en": "We are having Greek food tonight."
+        },
+        {
+            "de": "Sie haben gestern griechisch gegessen.",
+            "en": "They ate Greek food yesterday."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈɡʁiːçən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "griecht",
+    "past_perfect": "gegriecht",
+    "preterite": "griechte",
+    "frequency_scale": 7
+}

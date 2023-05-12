@@ -1,0 +1,21 @@
+{
+    "word": "stößt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "stossen",
+    "translation": "pushes",
+    "example_sentences": [
+        "Er stößt die Tür auf.",
+        "Sie stößt den Wagen an.",
+        "Das Schiff stößt gegen den Kai."
+    ],
+    "usage_frequency": 6,
+    "IPA": "/ʃtœst/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "stößt",
+    "past_perfect": "gestoßen",
+    "preterite": "stieß",
+    "frequency_scale": 7
+}

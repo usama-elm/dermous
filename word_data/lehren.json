@@ -1,0 +1,26 @@
+{
+    "word": "lehren",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "translation": "to teach",
+    "example_sentences": [
+        {
+            "de": "Ich lehre Deutsch.",
+            "en": "I teach German."
+        },
+        {
+            "de": "Er lehrt Mathematik.",
+            "en": "He teaches mathematics."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈleːʁən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "lehrt",
+    "past_perfect": "gelehrt",
+    "preterite": "lehrte",
+    "frequency_scale": 8
+}

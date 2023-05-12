@@ -1,0 +1,26 @@
+{
+    "word": "vorwurf",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "accusation",
+    "example_sentences": [
+        {
+            "de": "Er machte ihr den Vorwurf, dass sie zu spät gekommen war.",
+            "en": "He accused her of being late."
+        },
+        {
+            "de": "Ich kann keinen Vorwurf daran finden.",
+            "en": "I can't find any fault with it."
+        }
+    ],
+    "usage_frequency": 6.5,
+    "ipa": "ˈfɔʁvʊʁf",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

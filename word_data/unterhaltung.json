@@ -1,0 +1,21 @@
+{
+    "word": "Unterhaltung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "entertainment",
+    "example_sentences": [
+        {
+            "de": "Ich schaue gerne Unterhaltungsshows im Fernsehen.",
+            "en": "I like to watch entertainment shows on TV."
+        },
+        {
+            "de": "Die Unterhaltung auf der Party war sehr gut.",
+            "en": "The entertainment at the party was very good."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈʊntɐˌhaltʊŋ/",
+    "difficulty_level": "A2",
+    "irregular_verb": false
+}

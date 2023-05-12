@@ -1,0 +1,26 @@
+{
+    "word": "gewählt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "wählen",
+    "translation": "elected",
+    "example_sentences": [
+        {
+            "de": "Er wurde zum Präsidenten gewählt.",
+            "en": "He was elected president."
+        },
+        {
+            "de": "Die Partei hat einen neuen Vorsitzenden gewählt.",
+            "en": "The party has elected a new chairman."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ɡəˈvɛlt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wählt",
+    "past_perfect": "gewählt gehabt",
+    "preterite": "wählte",
+    "frequency_scale": 8
+}

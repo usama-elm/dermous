@@ -1,0 +1,26 @@
+{
+    "word": "wesentlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "essential",
+    "example_sentences": [
+        {
+            "de": "Es ist wesentlich, dass du pünktlich bist.",
+            "en": "It is essential that you are on time."
+        },
+        {
+            "de": "Die wesentlichen Punkte wurden bereits besprochen.",
+            "en": "The essential points have already been discussed."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/vəˈzɛntlɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

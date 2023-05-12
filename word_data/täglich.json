@@ -1,0 +1,26 @@
+{
+    "word": "täglich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "daily",
+    "example_sentences": [
+        {
+            "de": "Ich trinke täglich Kaffee.",
+            "en": "I drink coffee daily."
+        },
+        {
+            "de": "Es ist wichtig, sich täglich zu bewegen.",
+            "en": "It's important to exercise daily."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "ˈtɛːɡlɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

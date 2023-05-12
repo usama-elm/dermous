@@ -1,0 +1,26 @@
+{
+    "word": "gelehrten",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "scholar",
+    "example_sentences": [
+        {
+            "de": "Die Gelehrten haben das Buch geschrieben.",
+            "en": "The scholars wrote the book."
+        },
+        {
+            "de": "Die Gelehrten diskutierten über die Theorie.",
+            "en": "The scholars discussed the theory."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈleːɐ̯tn̩/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

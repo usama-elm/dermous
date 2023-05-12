@@ -1,0 +1,27 @@
+{
+    "word": "erklärt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "verb",
+    "infinitive": "erklären",
+    "translation": "explained",
+    "example_sentences": [
+        {
+            "de": "Erklärt es mir bitte noch einmal.",
+            "en": "Please explain it to me again."
+        },
+        {
+            "de": "Sie hat ihm alles erklärt.",
+            "en": "She explained everything to him."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɛɐ̯ˈklɛːɐ̯t/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erklärt",
+    "past_perfect": "hat erklärt",
+    "preterite": "erklärte",
+    "frequency_scale": 7
+}

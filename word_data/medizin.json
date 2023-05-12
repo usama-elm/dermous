@@ -1,0 +1,26 @@
+{
+    "word": "medizin",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "medicine",
+    "example_sentences": [
+        {
+            "de": "Ich studiere Medizin.",
+            "en": "I am studying medicine."
+        },
+        {
+            "de": "Die Medizin hat große Fortschritte gemacht.",
+            "en": "Medicine has made great progress."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/meˈdɪt͡sɪn/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

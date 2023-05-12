@@ -1,0 +1,26 @@
+{
+    "word": "zufriedenheit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "satisfaction",
+    "example_sentences": [
+        {
+            "de": "Ich empfinde große Zufriedenheit mit meinem Leben.",
+            "en": "I feel great satisfaction with my life."
+        },
+        {
+            "de": "Die Zufriedenheit der Kunden ist uns sehr wichtig.",
+            "en": "The satisfaction of the customers is very important to us."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "tsuːfʁiːdn̩haɪt",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

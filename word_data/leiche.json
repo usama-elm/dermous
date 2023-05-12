@@ -1,0 +1,26 @@
+{
+    "word": "Leiche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "corpse",
+    "example_sentences": [
+        {
+            "de": "Die Polizei hat eine Leiche gefunden.",
+            "en": "The police found a corpse."
+        },
+        {
+            "de": "Er hat Angst vor Leichen.",
+            "en": "He's afraid of corpses."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈlaɪ̯çə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

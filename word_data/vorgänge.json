@@ -1,0 +1,26 @@
+{
+    "word": "vorgänge",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "processes",
+    "example_sentences": [
+        {
+            "de": "Die Vorgänge in der Fabrik sind sehr komplex.",
+            "en": "The processes in the factory are very complex."
+        },
+        {
+            "de": "Die Vorgänge im Körper sind sehr kompliziert.",
+            "en": "The processes in the body are very complicated."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈfɔɐ̯ˌɡɛŋə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

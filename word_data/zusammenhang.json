@@ -1,0 +1,26 @@
+{
+    "word": "zusammenhang",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "context",
+    "example_sentences": [
+        {
+            "de": "Der Zusammenhang zwischen Ursache und Wirkung ist wichtig.",
+            "en": "The context between cause and effect is important."
+        },
+        {
+            "de": "Es gibt einen Zusammenhang zwischen Rauchen und Krebs.",
+            "en": "There is a connection between smoking and cancer."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈt͡suːzamənhaŋ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

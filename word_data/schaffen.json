@@ -1,0 +1,27 @@
+{
+    "word": "schaffen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "schaffen",
+    "translation": "to manage, to create",
+    "example_sentences": [
+        {
+            "de": "Ich schaffe es, pünktlich zu sein.",
+            "en": "I manage to be on time."
+        },
+        {
+            "de": "Wir müssen es schaffen, bis morgen fertig zu sein.",
+            "en": "We have to manage to be finished by tomorrow."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈʃafən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schafft",
+    "past_perfect": "geschafft",
+    "preterite": "schaffte",
+    "frequency_scale": 7
+}

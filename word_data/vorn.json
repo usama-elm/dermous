@@ -1,0 +1,26 @@
+{
+    "word": "vorn",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "front",
+    "example_sentences": [
+        {
+            "de": "Ich sitze vorn im Bus.",
+            "en": "I'm sitting in the front of the bus."
+        },
+        {
+            "de": "Das Auto hat einen Schaden vorn.",
+            "en": "The car has damage in the front."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "fɔʁn",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

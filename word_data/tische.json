@@ -1,0 +1,26 @@
+{
+    "word": "tische",
+    "gender": "f",
+    "article": "die",
+    "word_type": "tisch",
+    "translation": "tables",
+    "example_sentences": [
+        {
+            "de": "Ich kaufe einen Tisch.",
+            "en": "I am buying a table."
+        },
+        {
+            "de": "Die Tische sind aus Holz.",
+            "en": "The tables are made of wood."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈtɪʃə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

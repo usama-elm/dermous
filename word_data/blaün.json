@@ -1,0 +1,27 @@
+{
+    "word": "blaün",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "blauen",
+    "translation": "to turn blue",
+    "example_sentences": [
+        {
+            "de": "Die Blume blaut in der Sonne.",
+            "en": "The flower turns blue in the sun."
+        },
+        {
+            "de": "Das Wasser blaut langsam.",
+            "en": "The water is slowly turning blue."
+        }
+    ],
+    "usage_frequency": 5,
+    "ipa": "/ˈblaʊ̯ən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "blaut",
+    "past_perfect": "geblaut",
+    "preterite": "blaute",
+    "frequency_scale": 7
+}

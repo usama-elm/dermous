@@ -1,0 +1,26 @@
+{
+    "word": "infolgedessen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "as a result, consequently",
+    "example_sentences": [
+        {
+            "de": "Er hat das Geld gestohlen. Infolgedessen wurde er verhaftet.",
+            "en": "He stole the money. As a result, he was arrested."
+        },
+        {
+            "de": "Sie hat den Job nicht bekommen. Infolgedessen war sie sehr enttäuscht.",
+            "en": "She didn't get the job. Consequently, she was very disappointed."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɪnˈfoːlɡəˌdɛsən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

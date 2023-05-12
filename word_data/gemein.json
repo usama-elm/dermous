@@ -1,0 +1,26 @@
+{
+    "word": "gemein",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "mean",
+    "example_sentences": [
+        {
+            "de": "Sie hat gemeine Dinge über mich gesagt.",
+            "en": "She said mean things about me."
+        },
+        {
+            "de": "Das war eine gemeine Lüge.",
+            "en": "That was a mean lie."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈmaɪn",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

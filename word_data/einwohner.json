@@ -1,0 +1,26 @@
+{
+    "word": "einwohner",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "inhabitant",
+    "example_sentences": [
+        {
+            "de": "Die Einwohner der Stadt sind sehr freundlich.",
+            "en": "The inhabitants of the city are very friendly."
+        },
+        {
+            "de": "Die Einwohnerzahl hat sich in den letzten Jahren erhöht.",
+            "en": "The number of inhabitants has increased in recent years."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaɪnˌvoːnɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

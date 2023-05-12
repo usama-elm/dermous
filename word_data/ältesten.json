@@ -1,0 +1,26 @@
+{
+    "word": "ältesten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "oldest",
+    "example_sentences": [
+        {
+            "de": "Die ältesten Bäume im Wald sind über 500 Jahre alt.",
+            "en": "The oldest trees in the forest are over 500 years old."
+        },
+        {
+            "de": "Meine ältesten Freunde kenne ich schon seit der Kindheit.",
+            "en": "I've known my oldest friends since childhood."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈɛltəstən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

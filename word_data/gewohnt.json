@@ -1,0 +1,26 @@
+{
+    "word": "gewohnt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "gewöhnen",
+    "translation": "accustomed",
+    "example_sentences": [
+        {
+            "de": "Ich bin es gewohnt, früh aufzustehen.",
+            "en": "I am accustomed to getting up early."
+        },
+        {
+            "de": "Sie hat sich schnell an die neue Umgebung gewohnt.",
+            "en": "She quickly got used to the new surroundings."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈvoːnt",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gewöhnt",
+    "past_perfect": "hat gewöhnt",
+    "preterite": "gewöhnte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "leidenschaft",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "passion",
+    "example_sentences": [
+        {
+            "de": "Sie hat eine große Leidenschaft für Musik.",
+            "en": "She has a great passion for music."
+        },
+        {
+            "de": "Seine Leidenschaft für das Kochen begann in seiner Jugend.",
+            "en": "His passion for cooking began in his youth."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈlaɪdn̩ˌʃaft/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

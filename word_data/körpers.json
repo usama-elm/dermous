@@ -1,0 +1,21 @@
+{
+    "word": "Körper",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "body",
+    "example_sentences": [
+        {
+            "de": "Mein Körper tut mir weh.",
+            "en": "My body hurts."
+        },
+        {
+            "de": "Ich habe meinen Körper trainiert.",
+            "en": "I have trained my body."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈkœʁpɐ",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

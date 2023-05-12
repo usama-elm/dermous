@@ -1,0 +1,26 @@
+{
+    "word": "wählen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to choose",
+    "example_sentences": [
+        {
+            "de": "Ich werde bei der nächsten Wahl die Grünen wählen.",
+            "en": "I will choose the Greens in the next election."
+        },
+        {
+            "de": "Du musst dich zwischen zwei Optionen entscheiden und eine wählen.",
+            "en": "You have to decide between two options and choose one."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈvɛːlən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wählt",
+    "past_perfect": "gewählt",
+    "preterite": "wählte",
+    "frequency_scale": 8
+}

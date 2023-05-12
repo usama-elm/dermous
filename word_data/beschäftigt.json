@@ -1,0 +1,26 @@
+{
+    "word": "beschäftigt",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "translation": "occupied",
+    "example_sentences": [
+        {
+            "de": "Ich bin heute den ganzen Tag beschäftigt.",
+            "en": "I'm busy all day today."
+        },
+        {
+            "de": "Sie ist immer sehr beschäftigt mit ihrer Arbeit.",
+            "en": "She's always very busy with her work."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/bəˈʃɛftɪçt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "beschäftigt",
+    "past_perfect": "hat beschäftigt",
+    "preterite": "beschäftigte",
+    "frequency_scale": 7
+}

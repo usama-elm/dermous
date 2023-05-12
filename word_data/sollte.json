@@ -1,0 +1,26 @@
+{
+    "word": "sollte",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "sollen",
+    "translation": "should",
+    "example_sentences": [
+        {
+            "de": "Ich sollte heute Abend ins Kino gehen.",
+            "en": "I should go to the cinema tonight."
+        },
+        {
+            "de": "Du solltest mehr Sport treiben.",
+            "en": "You should do more sports."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈzɔltə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "soll",
+    "past_perfect": "hat gesollt",
+    "preterite": "sollte",
+    "frequency_scale": 7
+}

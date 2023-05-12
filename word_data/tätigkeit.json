@@ -1,0 +1,21 @@
+{
+    "word": "tätigkeit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "activity",
+    "example_sentences": [
+        {
+            "de": "Meine Tätigkeit als Lehrer macht mir viel Spaß.",
+            "en": "I enjoy my job as a teacher."
+        },
+        {
+            "de": "Die Tätigkeit des Unternehmens ist auf den Verkauf von Elektronikgeräten spezialisiert.",
+            "en": "The company's activity is specialized in the sale of electronic devices."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈtɛːtɪɡkaɪt/",
+    "difficulty_level": "B1",
+    "irregular": false
+}

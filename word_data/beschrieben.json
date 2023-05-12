@@ -1,0 +1,27 @@
+{
+    "word": "beschrieben",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "beschreiben",
+    "translation": "to describe",
+    "example_sentences": [
+        {
+            "de": "Ich habe das Buch beschrieben.",
+            "en": "I described the book."
+        },
+        {
+            "de": "Er hat den Unfall genau beschrieben.",
+            "en": "He described the accident in detail."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈʃʁaɪ̯bn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "beschreibt",
+    "past_perfect": "hat beschrieben",
+    "preterite": "beschrieb",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "meister",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "master",
+    "example_sentences": [
+        {
+            "de": "Er ist ein Meister seines Fachs.",
+            "en": "He is a master of his craft."
+        },
+        {
+            "de": "Der Meister hat das Problem schnell gelöst.",
+            "en": "The master solved the problem quickly."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈmaɪstɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

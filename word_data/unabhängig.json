@@ -1,0 +1,26 @@
+{
+    "word": "unabhängig",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "independent",
+    "example_sentences": [
+        {
+            "de": "Ich bin unabhängig von meinen Eltern.",
+            "en": "I am independent from my parents."
+        },
+        {
+            "de": "Die Zeitung ist unabhängig und objektiv.",
+            "en": "The newspaper is independent and objective."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ʊnaˈbɛŋɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

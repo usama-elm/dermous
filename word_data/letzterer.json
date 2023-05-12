@@ -1,0 +1,26 @@
+{
+    "word": "letzterer",
+    "gender": "m",
+    "article": "der",
+    "word_type": "pronoun",
+    "translation": "latter",
+    "example_sentences": [
+        {
+            "de": "Ich mag Äpfel und Birnen, aber letzterer ist mein Lieblingsobst.",
+            "en": "I like apples and pears, but the latter is my favorite fruit."
+        },
+        {
+            "de": "Ich habe zwei Bücher gelesen, das erste war gut, aber letzterer war großartig.",
+            "en": "I've read two books, the first one was good, but the latter was great."
+        }
+    ],
+    "usage_frequency": 7,
+    "IPA": "ˈlɛtstərər",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

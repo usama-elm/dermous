@@ -1,0 +1,26 @@
+{
+    "word": "aufgegeben",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "aufgeben",
+    "translation": "given up",
+    "example_sentences": [
+        {
+            "de": "Ich habe aufgegeben, Deutsch zu lernen.",
+            "en": "I have given up learning German."
+        },
+        {
+            "de": "Er hat das Spiel aufgegeben.",
+            "en": "He has given up the game."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaʊfɡəˌɡɛbn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gibt auf",
+    "past_perfect": "hat aufgegeben",
+    "preterite": "gab auf",
+    "frequency_scale": 8
+}

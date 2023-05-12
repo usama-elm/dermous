@@ -1,0 +1,27 @@
+{
+    "word": "gehören",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "gehören",
+    "translation": "to belong",
+    "example_sentences": [
+        {
+            "de": "Dieses Buch gehört mir.",
+            "en": "This book belongs to me."
+        },
+        {
+            "de": "Zu einer guten Party gehört auch gute Musik.",
+            "en": "Good music is also part of a good party."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈhœʁən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gehört",
+    "past_perfect": "hat gehört",
+    "preterite": "gehörte",
+    "frequency_scale": 7
+}

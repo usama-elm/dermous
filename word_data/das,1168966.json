@@ -1,0 +1,26 @@
+{
+    "word": "das",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "pronoun",
+    "translation": "the",
+    "example_sentences": [
+        {
+            "de": "Das ist ein Stift.",
+            "en": "This is a pen."
+        },
+        {
+            "de": "Das Buch ist interessant.",
+            "en": "The book is interesting."
+        }
+    ],
+    "usage_frequency": 10,
+    "ipa": "/das/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 10
+}

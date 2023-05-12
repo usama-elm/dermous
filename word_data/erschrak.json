@@ -1,0 +1,26 @@
+{
+    "word": "erschrak",
+    "gender": "m",
+    "article": null,
+    "word_type": "verb",
+    "translation": "was startled",
+    "example_sentences": [
+        {
+            "de": "Ich erschrak, als ich das laute Geräusch hörte.",
+            "en": "I was startled when I heard the loud noise."
+        },
+        {
+            "de": "Er erschrak, als er die Spinne sah.",
+            "en": "He was startled when he saw the spider."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "ɛɐ̯ˈʃʁaːk",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erschrickt",
+    "past_perfect": "erschrocken",
+    "preterite": "erschrak",
+    "frequency_scale": 7
+}

@@ -1,0 +1,27 @@
+{
+    "word": "fließt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "fließen",
+    "translation": "flows",
+    "example_sentences": [
+        {
+            "de": "Das Wasser fließt schnell.",
+            "en": "The water flows quickly."
+        },
+        {
+            "de": "Der Verkehr fließt gut.",
+            "en": "The traffic is flowing well."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/fliːst/",
+    "verb_auxiliary": "ist",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "fließt",
+    "past_perfect": "ist geflossen",
+    "preterite": "floss",
+    "frequency_scale": 8
+}

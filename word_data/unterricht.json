@@ -1,0 +1,26 @@
+{
+    "word": "Unterricht",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "lesson, instruction, teaching",
+    "example_sentences": [
+        {
+            "de": "Ich gebe heute Nachmittag Unterricht.",
+            "en": "I'm teaching this afternoon."
+        },
+        {
+            "de": "Der Unterricht beginnt um 8 Uhr.",
+            "en": "The lesson starts at 8 o'clock."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈʊntɐˌʁɪçt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "persönliche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "personal",
+    "example_sentences": [
+        {
+            "de": "Ich habe meine persönliche Meinung dazu.",
+            "en": "I have my personal opinion about it."
+        },
+        {
+            "de": "Das ist meine persönliche Entscheidung.",
+            "en": "That's my personal decision."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/pɛʁˈzœnlɪçə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

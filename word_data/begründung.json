@@ -1,0 +1,26 @@
+{
+    "word": "begründung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "justification",
+    "example_sentences": [
+        {
+            "de": "Die Begründung für seine Entscheidung war nicht überzeugend.",
+            "en": "The justification for his decision was not convincing."
+        },
+        {
+            "de": "Kannst du mir die Begründung für diese Regel erklären?",
+            "en": "Can you explain the justification for this rule to me?"
+        }
+    ],
+    "usage_frequency": 7.5,
+    "ipa": "bəˈɡʁʏndʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

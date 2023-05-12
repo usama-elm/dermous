@@ -1,0 +1,26 @@
+{
+    "word": "ließe",
+    "gender": "f",
+    "article": "die",
+    "word_type": "lassen",
+    "translation": "let",
+    "example_sentences": [
+        {
+            "de": "Wenn ich mehr Zeit hätte, ließe ich dich gerne besuchen.",
+            "en": "If I had more time, I would gladly let you visit."
+        },
+        {
+            "de": "Er ließe sich niemals von jemandem herumkommandieren.",
+            "en": "He would never let anyone boss him around."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈliːsə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B2",
+    "irregular": true,
+    "present_3rd_singular": "lässt",
+    "past_perfect": "gelassen",
+    "preterite": "ließ",
+    "frequency_scale": 8
+}

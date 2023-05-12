@@ -1,0 +1,26 @@
+{
+    "word": "gegenüber",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "preposition",
+    "translation": "opposite, across from",
+    "example_sentences": [
+        {
+            "de": "Das Café ist gegenüber dem Park.",
+            "en": "The café is across from the park."
+        },
+        {
+            "de": "Ich wohne gegenüber von dir.",
+            "en": "I live opposite you."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈɡnøːbɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

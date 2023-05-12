@@ -1,0 +1,26 @@
+{
+    "word": "wahre",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Adjective",
+    "translation": "true",
+    "example_sentences": [
+        {
+            "de": "Ich suche nach der wahren Liebe.",
+            "en": "I'm searching for true love."
+        },
+        {
+            "de": "Er hat die wahre Bedeutung des Lebens erkannt.",
+            "en": "He has recognized the true meaning of life."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈvaːrə",
+    "verb_auxiliary": null,
+    "difficulty_level": 2,
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,27 @@
+{
+    "word": "sind",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "sein",
+    "translation": "are",
+    "example_sentences": [
+        {
+            "de": "Wir sind Freunde.",
+            "en": "We are friends."
+        },
+        {
+            "de": "Sie sind in Berlin.",
+            "en": "They are in Berlin."
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa": "/zɪnt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A1",
+    "irregular": true,
+    "present_3rd_singular": "ist",
+    "past_perfect": "gewesen",
+    "preterite": "waren",
+    "frequency_scale": 10
+}

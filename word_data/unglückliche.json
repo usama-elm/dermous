@@ -1,0 +1,26 @@
+{
+    "word": "unglückliche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "unhappy",
+    "example_sentences": [
+        {
+            "de": "Sie ist unglücklich in ihrer Ehe.",
+            "en": "She is unhappy in her marriage."
+        },
+        {
+            "de": "Er hat eine unglückliche Kindheit gehabt.",
+            "en": "He had an unhappy childhood."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ʊnˈɡlʏklɪçə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

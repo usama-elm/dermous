@@ -1,0 +1,20 @@
+{
+    "word": "angehört",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "angehören",
+    "translation": "belonged to",
+    "example_sentences": [
+        "Das Haus hat früher meinem Großvater angehört. (The house used to belong to my grandfather.)",
+        "Das Auto gehört ihm. (The car belongs to him.)"
+    ],
+    "usage_frequency": 5,
+    "ipa": "/ˈanɡəˌhœʁt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gehört an",
+    "past_perfect": "hat angehört",
+    "preterite": "angehörte",
+    "frequency": 4
+}

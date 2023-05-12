@@ -1,0 +1,26 @@
+{
+    "word": "angriff",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "attack",
+    "example_sentences": [
+        {
+            "de": "Der Angriff auf das Schloss war erfolgreich.",
+            "en": "The attack on the castle was successful."
+        },
+        {
+            "de": "Die Mannschaft startete einen Angriff auf das gegnerische Tor.",
+            "en": "The team launched an attack on the opposing goal."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaŋɡrɪf/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

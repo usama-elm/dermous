@@ -1,0 +1,26 @@
+{
+    "word": "entdeckt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "entdecken",
+    "translation": "discovered",
+    "example_sentences": [
+        {
+            "de": "Ich habe gestern eine neue Stadt entdeckt.",
+            "en": "I discovered a new city yesterday."
+        },
+        {
+            "de": "Er hat das Geheimnis endlich entdeckt.",
+            "en": "He finally discovered the secret."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛntˈdɛkt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "entdeckt",
+    "past_perfect": "hat entdeckt",
+    "preterite": "entdeckte",
+    "frequency_scale": 8
+}

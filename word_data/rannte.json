@@ -1,0 +1,26 @@
+{
+    "word": "rannte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Infinitiv",
+    "translation": "ran",
+    "example_sentences": [
+        {
+            "de": "Er rannte schnell zum Bahnhof.",
+            "en": "He ran quickly to the train station."
+        },
+        {
+            "de": "Sie rannte jeden Morgen im Park.",
+            "en": "She ran every morning in the park."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈʁantə",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "rennt",
+    "past_perfect": "ist gerannt",
+    "preterite": "rannte",
+    "frequency_scale": 8
+}

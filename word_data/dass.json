@@ -1,0 +1,26 @@
+{
+    "word": "dass",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "conjunction",
+    "translation": "that",
+    "example_sentences": [
+        {
+            "de": "Ich denke, dass ich morgen frei habe.",
+            "en": "I think that I have tomorrow off."
+        },
+        {
+            "de": "Es ist wichtig, dass du pünktlich bist.",
+            "en": "It's important that you're on time."
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa_code": "/das/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,27 @@
+{
+    "word": "gebiete",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "gebieten",
+    "translation": "to command, to order",
+    "example_sentences": [
+        {
+            "de": "Ich gebiete dir, aufzuhören.",
+            "en": "I command you to stop."
+        },
+        {
+            "de": "Er gebietet über eine Armee.",
+            "en": "He commands an army."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ɡəˈbiːtə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gebietet",
+    "past_perfect": "geboten",
+    "preterite": "gebot",
+    "frequency_scale": 7
+}

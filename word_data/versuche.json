@@ -1,0 +1,26 @@
+{
+    "word": "versuche",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "try",
+    "example_sentences": [
+        {
+            "de": "Ich versuche, pünktlich zu sein.",
+            "en": "I try to be on time."
+        },
+        {
+            "de": "Versuche es noch einmal.",
+            "en": "Try it again."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/fɛɐ̯ˈzuːxə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "versucht",
+    "past_perfect": "hat versucht",
+    "preterite": "versuchte",
+    "frequency_scale": 7
+}

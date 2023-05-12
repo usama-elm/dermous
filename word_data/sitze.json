@@ -1,0 +1,26 @@
+{
+    "word": "sitze",
+    "gender": "f",
+    "article": "die",
+    "word_type": "sitzen",
+    "translation": "to sit",
+    "example_sentences": [
+        {
+            "de": "Ich sitze auf dem Stuhl.",
+            "en": "I am sitting on the chair."
+        },
+        {
+            "de": "Sie sitzt im Park.",
+            "en": "She is sitting in the park."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈzɪtsə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": "sitzt",
+    "past_perfect": "gesessen",
+    "preterite": "saß",
+    "frequency_scale": 8
+}

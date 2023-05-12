@@ -1,0 +1,26 @@
+{
+    "word": "gehe",
+    "gender": "f",
+    "article": "die",
+    "word_type": "gehen",
+    "translation": "go",
+    "example_sentences": [
+        {
+            "de": "Ich gehe zur Schule.",
+            "en": "I go to school."
+        },
+        {
+            "de": "Sie geht jeden Tag spazieren.",
+            "en": "She goes for a walk every day."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈɡeːə/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "A1",
+    "irregular": true,
+    "present_3rd_singular": "geht",
+    "past_perfect": "gegangen",
+    "preterite": "ging",
+    "frequency_scale": 7
+}

@@ -1,0 +1,27 @@
+{
+    "word": "verkauft",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "verkaufen",
+    "translation": "sold",
+    "example_sentences": [
+        {
+            "de": "Ich habe mein Auto verkauft.",
+            "en": "I sold my car."
+        },
+        {
+            "de": "Er hat gestern sein Haus verkauft.",
+            "en": "He sold his house yesterday."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/fɛɐ̯ˈkaʊ̯ft/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verkauft",
+    "past_perfect": "hat verkauft",
+    "preterite": "verkaufte",
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "entschuldigung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "excuse",
+    "example_sentences": [
+        {
+            "de": "Entschuldigung, ich habe Ihren Namen vergessen.",
+            "en": "Excuse me, I forgot your name."
+        },
+        {
+            "de": "Kann ich mich bitte entschuldigen?",
+            "en": "Can I please apologize?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɛntˈʃʊldɪɡʊŋ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

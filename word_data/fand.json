@@ -1,0 +1,26 @@
+{
+    "word": "fand",
+    "gender": "m",
+    "article": "der",
+    "word_type": "finden",
+    "translation": "found",
+    "example_sentences": [
+        {
+            "de": "Ich fand meinen Schlüssel.",
+            "en": "I found my key."
+        },
+        {
+            "de": "Sie fand das Buch langweilig.",
+            "en": "She found the book boring."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/fand/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "findet",
+    "past_perfect": "gefunden",
+    "preterite": "fand",
+    "frequency_scale": 8
+}

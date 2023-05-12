@@ -1,0 +1,26 @@
+{
+    "word": "gehörig",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "proper",
+    "example_sentences": [
+        {
+            "de": "Sie hat ihm gehörig die Meinung gesagt.",
+            "en": "She gave him a proper piece of her mind."
+        },
+        {
+            "de": "Er hat sich gehörig blamiert.",
+            "en": "He made a proper fool of himself."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ɡəˈhøːʁɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": 2,
+    "irregular_verb": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "zeichnen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to draw",
+    "example_sentences": [
+        {
+            "de": "Ich zeichne gerne Porträts.",
+            "en": "I like to draw portraits."
+        },
+        {
+            "de": "Kannst du mir eine Karte zeichnen?",
+            "en": "Can you draw me a map?"
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈt͡seɪçnən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "zeichnet",
+    "past_perfect": "gezeichnet",
+    "preterite": "zeichnete",
+    "frequency_scale": 8
+}

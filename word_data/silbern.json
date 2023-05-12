@@ -1,0 +1,27 @@
+{
+    "word": "silbern",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "silbern",
+    "translation": "to silver",
+    "example_sentences": [
+        {
+            "de": "Ich habe gestern meine Kette silbern lassen.",
+            "en": "Yesterday, I had my necklace silvered."
+        },
+        {
+            "de": "Kannst du mir sagen, wie man das Besteck silbern kann?",
+            "en": "Can you tell me how to silver the cutlery?"
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "/ˈzɪlbɐn/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "silbert",
+    "past_perfect": "hat silbernd gehabt",
+    "preterite": "silberte",
+    "frequency_scale": 5
+}

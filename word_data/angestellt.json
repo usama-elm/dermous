@@ -1,0 +1,22 @@
+{
+    "word": "angestellt",
+    "gender": "m/f/neuter",
+    "article": "der/die/das",
+    "word_type": "verb",
+    "infinitive": "anstellen",
+    "translation": "employed/hired",
+    "example_sentences": [
+        "Ich bin angestellt als Lehrer.",
+        "Sie ist seit einem Jahr angestellt bei der Firma.",
+        "Er hat sich als Angestellter beworben."
+    ],
+    "usage_frequency": "7/10",
+    "IPA": "/ˈanɡəˌʃtɛlt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "stellt an",
+    "past_perfect": "hat angestellt",
+    "preterite": "stellte an",
+    "frequency": "7/10"
+}

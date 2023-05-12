@@ -1,0 +1,26 @@
+{
+    "word": "allgemeinen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjective",
+    "translation": "general",
+    "example_sentences": [
+        {
+            "de": "Im allgemeinen ist das Wetter hier sehr schön.",
+            "en": "In general, the weather here is very nice."
+        },
+        {
+            "de": "Die allgemeinen Geschäftsbedingungen müssen akzeptiert werden.",
+            "en": "The general terms and conditions must be accepted."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈalɡəˌmaɪ̯nən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

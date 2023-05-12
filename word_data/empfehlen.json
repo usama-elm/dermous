@@ -1,0 +1,26 @@
+{
+    "word": "empfehlen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to recommend",
+    "example_sentences": [
+        {
+            "de": "Ich empfehle dir dieses Buch.",
+            "en": "I recommend this book to you."
+        },
+        {
+            "de": "Kannst du mir ein gutes Restaurant empfehlen?",
+            "en": "Can you recommend a good restaurant to me?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ɛmˈfeːlən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "empfiehlt",
+    "past_perfect": "empfohlen",
+    "preterite": "empfahl",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "gefangene",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "prisoner",
+    "example_sentences": [
+        {
+            "de": "Die Gefangene wurde gestern freigelassen.",
+            "en": "The prisoner was released yesterday."
+        },
+        {
+            "de": "Die Gefangene hatte eine lange Haftstrafe.",
+            "en": "The prisoner had a long sentence."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈfaŋənə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

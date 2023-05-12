@@ -1,0 +1,27 @@
+{
+    "word": "vorbereitet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "vorbereiten",
+    "translation": "prepared",
+    "example_sentences": [
+        {
+            "de": "Ich habe mich gut auf die Prüfung vorbereitet.",
+            "en": "I prepared well for the exam."
+        },
+        {
+            "de": "Wir müssen uns auf den Sturm vorbereiten.",
+            "en": "We need to prepare for the storm."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/fɔɐbəˈʁaɪtət/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "bereitet vor",
+    "past_perfect": "hat vorbereitet",
+    "preterite": "bereitete vor",
+    "frequency_scale": 7
+}

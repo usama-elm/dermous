@@ -1,0 +1,20 @@
+{
+    "word": "stimmt",
+    "gender": "f",
+    "article": "die",
+    "word_type": "stimmen",
+    "translation": "is correct",
+    "example_sentences": [
+        "Ja, das stimmt.",
+        "Stimmt es, dass du morgen frei hast?"
+    ],
+    "usage_frequency": 8,
+    "IPA": "ʃtɪmt",
+    "verb_auxiliary": "",
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": "",
+    "past_perfect": "",
+    "preterite": "",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "achseln",
+    "gender": "plural",
+    "article": null,
+    "word_type": "verb",
+    "translation": "to shrug one's shoulders",
+    "example_sentences": [
+        {
+            "de": "Er zuckte mit den Achseln.",
+            "en": "He shrugged his shoulders."
+        },
+        {
+            "de": "Sie achselten nur mit den Schultern.",
+            "en": "They just shrugged their shoulders."
+        }
+    ],
+    "usage_frequency": 2,
+    "ipa": "ˈaksəln",
+    "verb_auxiliary": null,
+    "difficulty_level": 2,
+    "irregular": false,
+    "present_3rd_singular": "achselt",
+    "past_perfect": "geach­selt",
+    "preterite": "achselte",
+    "frequency": 2
+}

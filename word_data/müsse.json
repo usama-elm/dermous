@@ -1,0 +1,26 @@
+{
+    "word": "müsse",
+    "gender": "f",
+    "article": "die",
+    "word_type": "müssen",
+    "translation": "must",
+    "example_sentences": [
+        {
+            "de": "Ich müsse jetzt gehen.",
+            "en": "I must go now."
+        },
+        {
+            "de": "Er sagte, dass er müsse arbeiten.",
+            "en": "He said he must work."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈmʏsə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "muss",
+    "past_perfect": "gemusst",
+    "preterite": "musste",
+    "frequency_scale": 8
+}

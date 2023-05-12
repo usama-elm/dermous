@@ -1,0 +1,20 @@
+{
+    "word": "überlegen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to consider",
+    "example_sentences": [
+        "Ich muss darüber nachdenken, ob ich den Job annehmen soll. (I have to think about whether I should take the job.)",
+        "Er überlegt, ob er in den Urlaub fahren soll. (He is considering whether he should go on vacation.)"
+    ],
+    "usage_frequency": 8,
+    "ipa": "/yːbɐˈleːɡən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "überlegt",
+    "past_perfect": "überlegt",
+    "preterite": "überlegte",
+    "frequency_scale": 7
+}

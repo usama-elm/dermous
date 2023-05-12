@@ -1,0 +1,21 @@
+{
+    "word": "erfolge",
+    "gender": "m",
+    "article": "der",
+    "word_type": "erfolgen",
+    "translation": "success",
+    "example_sentences": [
+        "Seine Erfolge sind beeindruckend. (His successes are impressive.)",
+        "Ich hoffe auf Erfolg bei meiner Prüfung. (I hope for success in my exam.)"
+    ],
+    "usage_frequency": 8,
+    "ipa": "ɛɐ̯ˈfɔlɡə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": {
+        "present_3rd_singular": "erfolgt",
+        "past_perfect": "ist erfolgt",
+        "preterite": "erfolgte",
+        "frequency": 6
+    }
+}

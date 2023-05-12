@@ -1,0 +1,26 @@
+{
+    "word": "bezüglich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "preposition",
+    "translation": "regarding, with respect to",
+    "example_sentences": [
+        {
+            "de": "Bezüglich deiner Frage kann ich dir leider nicht weiterhelfen.",
+            "en": "Regarding your question, I'm afraid I can't help you further."
+        },
+        {
+            "de": "Bezüglich des Termins müssen wir uns noch absprechen.",
+            "en": "With respect to the date, we still need to coordinate."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/bəˈtsyːklɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

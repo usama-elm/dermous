@@ -1,0 +1,21 @@
+{
+    "word": "schloss",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "castle",
+    "example_sentences": [
+        {
+            "de": "Das Schloss ist sehr alt.",
+            "en": "The castle is very old."
+        },
+        {
+            "de": "Wir haben das Schloss besichtigt.",
+            "en": "We visited the castle."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ʃlɔs/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

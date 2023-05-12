@@ -1,0 +1,26 @@
+{
+    "word": "Abenteuer",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "adventure",
+    "example_sentences": [
+        {
+            "de": "Ich liebe Abenteuer.",
+            "en": "I love adventures."
+        },
+        {
+            "de": "Wir haben ein tolles Abenteuer erlebt.",
+            "en": "We had a great adventure."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈaːbəntɔʏɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

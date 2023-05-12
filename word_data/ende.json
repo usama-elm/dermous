@@ -1,0 +1,26 @@
+{
+    "word": "ende",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "end",
+    "example_sentences": [
+        {
+            "de": "Am Ende des Tages war ich sehr müde.",
+            "en": "At the end of the day, I was very tired."
+        },
+        {
+            "de": "Das Ende der Welt ist nah.",
+            "en": "The end of the world is near."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈɛndə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

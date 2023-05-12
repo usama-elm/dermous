@@ -1,0 +1,27 @@
+{
+    "word": "sitzen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "sitzen",
+    "translation": "to sit",
+    "example_sentences": [
+        {
+            "de": "Ich sitze auf dem Stuhl.",
+            "en": "I am sitting on the chair."
+        },
+        {
+            "de": "Er sitzt am Tisch.",
+            "en": "He is sitting at the table."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈzɪtsən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": "sitzt",
+    "past_perfect": "gesessen",
+    "preterite": "saß",
+    "frequency_scale": 7
+}

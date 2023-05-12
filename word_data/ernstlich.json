@@ -1,0 +1,26 @@
+{
+    "word": "ernstlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "seriously",
+    "example_sentences": [
+        {
+            "de": "Er meint es ernstlich.",
+            "en": "He means it seriously."
+        },
+        {
+            "de": "Ich bitte dich ernstlich um Hilfe.",
+            "en": "I seriously ask you for help."
+        }
+    ],
+    "usage_frequency": 6,
+    "IPA": "ˈɛʁnstlɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

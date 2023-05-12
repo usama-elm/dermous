@@ -1,0 +1,26 @@
+{
+    "word": "bücher",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "books",
+    "example_sentences": [
+        {
+            "de": "Ich lese gerne Bücher.",
+            "en": "I like to read books."
+        },
+        {
+            "de": "Die Bücherregale sind voll.",
+            "en": "The bookshelves are full."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈbyːçɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

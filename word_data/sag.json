@@ -1,0 +1,26 @@
+{
+    "word": "sag",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb (Infinitive)",
+    "translation": "say",
+    "example_sentences": [
+        {
+            "de": "Ich sage dir die Wahrheit.",
+            "en": "I'm telling you the truth."
+        },
+        {
+            "de": "Er sagt, dass er nicht kommen kann.",
+            "en": "He says he can't come."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/zaːk/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "sagt",
+    "past_perfect": "gesagt",
+    "preterite": "sagte",
+    "frequency_scale": 7
+}

@@ -1,0 +1,21 @@
+{
+    "word": "universität",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "university",
+    "example_sentences": [
+        {
+            "de": "Ich studiere an der Universität.",
+            "en": "I study at the university."
+        },
+        {
+            "de": "Die Universität ist sehr groß.",
+            "en": "The university is very big."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˌʊniˈvɛʁziːtɛt/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

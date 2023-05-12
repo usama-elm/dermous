@@ -1,0 +1,26 @@
+{
+    "word": "aufgeregt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "excited",
+    "example_sentences": [
+        {
+            "de": "Ich bin aufgeregt, weil ich heute Abend ein wichtiges Meeting habe.",
+            "en": "I'm excited because I have an important meeting tonight."
+        },
+        {
+            "de": "Die Kinder waren sehr aufgeregt, als sie den Weihnachtsbaum sahen.",
+            "en": "The children were very excited when they saw the Christmas tree."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaʊfɡəˌʁeːkt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

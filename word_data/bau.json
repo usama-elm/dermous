@@ -1,0 +1,26 @@
+{
+    "word": "bau",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "construction",
+    "example_sentences": [
+        {
+            "de": "Der Bau des neuen Gebäudes hat begonnen.",
+            "en": "The construction of the new building has begun."
+        },
+        {
+            "de": "Die Biber bauen ihre Dämme aus Ästen und Zweigen.",
+            "en": "The beavers build their dams out of branches and twigs."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/baʊ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

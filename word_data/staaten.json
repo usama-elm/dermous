@@ -1,0 +1,27 @@
+{
+    "word": "staaten",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "staaten",
+    "translation": "to state",
+    "example_sentences": [
+        {
+            "de": "Er staate seine Meinung klar und deutlich.",
+            "en": "He states his opinion clearly and distinctly."
+        },
+        {
+            "de": "Die Firma hat in ihrem Jahresbericht ihre Ziele staaten.",
+            "en": "The company stated its goals in its annual report."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈʃtaːtn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "staatet",
+    "past_perfect": "gestaatet",
+    "preterite": "staatete",
+    "frequency_scale": 6
+}

@@ -1,0 +1,21 @@
+{
+    "word": "gefolgt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "folgen",
+    "translation": "followed",
+    "example_sentences": [
+        "Ich bin ihm gefolgt.",
+        "Sie hat dem Hund gefolgt.",
+        "Er ist dem Rat seines Vaters gefolgt."
+    ],
+    "usage_frequency": 7,
+    "IPA": "ɡəˈfɔlkt",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "folgt",
+    "past_perfect": "gefolgt",
+    "preterite": "folgte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,21 @@
+{
+    "word": "Übersetzer",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "translator",
+    "example_sentences": [
+        {
+            "de": "Ich arbeite als Übersetzer.",
+            "en": "I work as a translator."
+        },
+        {
+            "de": "Der Übersetzer hat den Text ins Englische übersetzt.",
+            "en": "The translator translated the text into English."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈyːbɐˌzɛtsɐ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

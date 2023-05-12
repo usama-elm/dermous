@@ -1,0 +1,27 @@
+{
+    "word": "sagen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "sagen",
+    "translation": "to say",
+    "example_sentences": [
+        {
+            "de": "Ich sage dir die Wahrheit.",
+            "en": "I'm telling you the truth."
+        },
+        {
+            "de": "Er sagte, er würde kommen.",
+            "en": "He said he would come."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈzaːɡən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "sagt",
+    "past_perfect": "gesagt",
+    "preterite": "sagte",
+    "frequency_scale": 7
+}

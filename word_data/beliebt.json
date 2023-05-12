@@ -1,0 +1,26 @@
+{
+    "word": "beliebt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "popular",
+    "example_sentences": [
+        {
+            "de": "Das Restaurant ist sehr beliebt bei Touristen.",
+            "en": "The restaurant is very popular among tourists."
+        },
+        {
+            "de": "Diese Marke ist bei jungen Leuten besonders beliebt.",
+            "en": "This brand is particularly popular among young people."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/bəˈliːpt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

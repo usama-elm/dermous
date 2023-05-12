@@ -1,0 +1,26 @@
+{
+    "word": "steckt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "stecken",
+    "translation": "sticks",
+    "example_sentences": [
+        {
+            "de": "Der Stift steckt in der Tasche.",
+            "en": "The pen is in the pocket."
+        },
+        {
+            "de": "Das Messer steckt im Holz.",
+            "en": "The knife is stuck in the wood."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ʃtɛkt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": "steckt",
+    "past_perfect": "hat gesteckt",
+    "preterite": "steckte",
+    "frequency_scale": 6
+}

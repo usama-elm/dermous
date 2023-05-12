@@ -1,0 +1,26 @@
+{
+    "word": "herzog",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "duke",
+    "example_sentences": [
+        {
+            "de": "Der Herzog von Edinburgh ist Prinz Philip.",
+            "en": "The Duke of Edinburgh is Prince Philip."
+        },
+        {
+            "de": "Der Herzog von Burgund war ein mächtiger Mann.",
+            "en": "The Duke of Burgundy was a powerful man."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈhɛʁtsoːk/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

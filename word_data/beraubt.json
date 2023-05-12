@@ -1,0 +1,20 @@
+{
+    "word": "beraubt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "berauben (verb)",
+    "translation": "robbed",
+    "example_sentences": [
+        "Er wurde gestern Abend auf offener Straße beraubt. (He was robbed on the street last night.)",
+        "Die Bank wurde heute Morgen beraubt. (The bank was robbed this morning.)"
+    ],
+    "usage_frequency": 6.5,
+    "ipa": "/bəˈʁaʊ̯pt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "beraubt",
+    "past_perfect": "hat beraubt",
+    "preterite": "beraubte",
+    "frequency_scale": 7
+}

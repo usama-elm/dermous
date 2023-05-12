@@ -1,0 +1,26 @@
+{
+    "word": "prinzipien",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "principles",
+    "example_sentences": [
+        {
+            "de": "Ich halte mich an meine Prinzipien.",
+            "en": "I stick to my principles."
+        },
+        {
+            "de": "Diese Entscheidung widerspricht meinen Prinzipien.",
+            "en": "This decision goes against my principles."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈprɪntsɪpiən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

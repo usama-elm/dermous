@@ -1,0 +1,26 @@
+{
+    "word": "dauern",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to last, to take (time)",
+    "example_sentences": [
+        {
+            "de": "Die Prüfung dauert drei Stunden.",
+            "en": "The exam takes three hours."
+        },
+        {
+            "de": "Es dauert lange, bis der Kuchen fertig ist.",
+            "en": "It takes a long time for the cake to be ready."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈdaʊ̯ɐn",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "dauert",
+    "past_perfect": "gedauert",
+    "preterite": "dauerte",
+    "frequency_scale": 7
+}

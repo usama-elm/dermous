@@ -1,0 +1,26 @@
+{
+    "word": "senkte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "senken",
+    "translation": "lowered",
+    "example_sentences": [
+        {
+            "de": "Er senkte den Kopf.",
+            "en": "He lowered his head."
+        },
+        {
+            "de": "Sie senkte die Stimme.",
+            "en": "She lowered her voice."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈzɛŋktə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "senkt",
+    "past_perfect": "hat gesenkt",
+    "preterite": "senkte",
+    "frequency_scale": 8
+}

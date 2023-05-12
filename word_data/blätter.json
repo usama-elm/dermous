@@ -1,0 +1,26 @@
+{
+    "word": "blätter",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "leaves",
+    "example_sentences": [
+        {
+            "de": "Die Blätter fallen im Herbst von den Bäumen.",
+            "en": "The leaves fall from the trees in autumn."
+        },
+        {
+            "de": "Ich blättere gerne in alten Büchern.",
+            "en": "I like to leaf through old books."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈblɛtɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

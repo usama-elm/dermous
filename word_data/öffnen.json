@@ -1,0 +1,27 @@
+{
+    "word": "öffnen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "öffnen",
+    "translation": "to open",
+    "example_sentences": [
+        {
+            "de": "Kannst du bitte das Fenster öffnen?",
+            "en": "Can you please open the window?"
+        },
+        {
+            "de": "Ich habe gestern eine Flasche Wein geöffnet.",
+            "en": "I opened a bottle of wine yesterday."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈœfnən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "öffnet",
+    "past_perfect": "hat geöffnet",
+    "preterite": "öffnete",
+    "frequency_scale": 7
+}

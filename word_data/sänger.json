@@ -1,0 +1,26 @@
+{
+    "word": "sänger",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "singer",
+    "example_sentences": [
+        {
+            "de": "Der Sänger hat gestern Abend ein Konzert gegeben.",
+            "en": "The singer gave a concert last night."
+        },
+        {
+            "de": "Mein Lieblingssänger ist Freddie Mercury.",
+            "en": "My favorite singer is Freddie Mercury."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈzɛŋɡɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

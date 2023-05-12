@@ -1,0 +1,26 @@
+{
+    "word": "arbeitete",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Verb (Infinitiv: arbeiten)",
+    "translation": "worked",
+    "example_sentences": [
+        {
+            "de": "Sie arbeitete hart, um ihre Ziele zu erreichen.",
+            "en": "She worked hard to achieve her goals."
+        },
+        {
+            "de": "Ich arbeitete gestern bis spät in die Nacht.",
+            "en": "I worked until late at night yesterday."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/aʁˈbaɪtətə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3rd_singular": "arbeitet",
+    "past_perfect": "gearbeitet",
+    "preterite": "arbeitete",
+    "frequency_scale": 8
+}

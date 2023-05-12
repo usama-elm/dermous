@@ -1,0 +1,26 @@
+{
+    "word": "hölzernen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "Adjective",
+    "translation": "wooden",
+    "example_sentences": [
+        {
+            "de": "Der Tisch ist aus holzernen Planken gemacht.",
+            "en": "The table is made of wooden planks."
+        },
+        {
+            "de": "Die hölzernen Fensterläden sind sehr schön.",
+            "en": "The wooden shutters are very beautiful."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈhœlt͡sɐnən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "wirkt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "wirken",
+    "translation": "works",
+    "example_sentences": [
+        {
+            "de": "Das Medikament wirkt schnell.",
+            "en": "The medicine works quickly."
+        },
+        {
+            "de": "Die Musik wirkt beruhigend auf mich.",
+            "en": "The music has a calming effect on me."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/vɪʁkt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "wirkt",
+    "past_perfect": "gewirkt",
+    "preterite": "wirkte",
+    "frequency_scale": 8
+}

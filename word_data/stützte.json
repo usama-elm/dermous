@@ -1,0 +1,21 @@
+{
+    "word": "stützte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "stützen",
+    "translation": "supported",
+    "example_sentences": [
+        "Er stützte sich auf seinen Stock.",
+        "Sie stützte ihre Freundin in schweren Zeiten.",
+        "Die Mauer wird von Stützen gestützt."
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈʃtʏtstə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "stützt",
+    "past_perfect": "hat gestützt",
+    "preterite": "stützte",
+    "frequency": 7
+}

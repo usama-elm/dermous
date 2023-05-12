@@ -1,0 +1,26 @@
+{
+    "word": "unschuld",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "innocence",
+    "example_sentences": [
+        {
+            "de": "Sie beteuerte ihre Unschuld.",
+            "en": "She protested her innocence."
+        },
+        {
+            "de": "Die Unschuld des Kindes war offensichtlich.",
+            "en": "The innocence of the child was obvious."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "ʊnʃʊlt",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

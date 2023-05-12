@@ -1,0 +1,26 @@
+{
+    "word": "dazwischen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "in between",
+    "example_sentences": [
+        {
+            "de": "Ich habe mein Buch dazwischen gelegt.",
+            "en": "I put my book in between."
+        },
+        {
+            "de": "Er hat sich dazwischen gedrängelt.",
+            "en": "He pushed his way in between."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/daˈt͡svɪʃən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

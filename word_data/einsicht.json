@@ -1,0 +1,26 @@
+{
+    "word": "einsicht",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "insight",
+    "example_sentences": [
+        {
+            "de": "Ich habe durch diese Erfahrung eine neue Einsicht gewonnen.",
+            "en": "I gained a new insight through this experience."
+        },
+        {
+            "de": "Er hat endlich Einsicht in seine Fehler gezeigt.",
+            "en": "He finally showed insight into his mistakes."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈaɪn.zɪçt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

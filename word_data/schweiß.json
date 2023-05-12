@@ -1,0 +1,26 @@
+{
+    "word": "schweiß",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "sweat",
+    "example_sentences": [
+        {
+            "de": "Ich habe viel Schweiß beim Sport verloren.",
+            "en": "I lost a lot of sweat during the workout."
+        },
+        {
+            "de": "Der Schweiß tropfte ihm von der Stirn.",
+            "en": "Sweat was dripping from his forehead."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ʃvaɪs/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

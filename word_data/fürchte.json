@@ -1,0 +1,27 @@
+{
+    "word": "fürchte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "fürchten",
+    "translation": "to fear",
+    "example_sentences": [
+        {
+            "de": "Ich fürchte mich vor Spinnen.",
+            "en": "I'm afraid of spiders."
+        },
+        {
+            "de": "Er fürchtet sich vor der Prüfung.",
+            "en": "He's afraid of the exam."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈfʏrçtə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "fürchtet",
+    "past_perfect": "gefürchtet",
+    "preterite": "fürchtete",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "frühere",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "former",
+    "example_sentences": [
+        {
+            "de": "Meine frühere Freundin wohnt jetzt in Berlin.",
+            "en": "My former girlfriend now lives in Berlin."
+        },
+        {
+            "de": "Seine früheren Erfahrungen haben ihm geholfen.",
+            "en": "His former experiences have helped him."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈfʁyːəʁə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

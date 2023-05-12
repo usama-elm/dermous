@@ -1,0 +1,26 @@
+{
+    "word": "kirche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "church",
+    "example_sentences": [
+        {
+            "de": "Ich gehe jeden Sonntag in die Kirche.",
+            "en": "I go to church every Sunday."
+        },
+        {
+            "de": "Die Kirche ist ein wichtiger Teil unserer Kultur.",
+            "en": "The church is an important part of our culture."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈkɪʁçə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,21 @@
+{
+    "word": "unruhe",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "restlessness",
+    "example_sentences": [
+        {
+            "de": "Die Unruhe in der Stadt war unübersehbar.",
+            "en": "The restlessness in the city was unmistakable."
+        },
+        {
+            "de": "Seine Unruhe war ansteckend.",
+            "en": "His restlessness was contagious."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈʊnˌʁuːə/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

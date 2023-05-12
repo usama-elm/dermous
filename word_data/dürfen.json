@@ -1,0 +1,27 @@
+{
+    "word": "dürfen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "dürfen",
+    "translation": "may, be allowed to",
+    "example_sentences": [
+        {
+            "de": "Darf ich bitte das Fenster öffnen?",
+            "en": "May I please open the window?"
+        },
+        {
+            "de": "Du darfst nicht zu spät kommen.",
+            "en": "You are not allowed to be late."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈdʏrfən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "darf",
+    "past_perfect": "gedurft",
+    "preterite": "durfte",
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "rückkehr",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "return",
+    "example_sentences": [
+        {
+            "de": "Seine Rückkehr war unerwartet.",
+            "en": "His return was unexpected."
+        },
+        {
+            "de": "Ich freue mich auf deine Rückkehr.",
+            "en": "I'm looking forward to your return."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈʁʏkˌkɛɐ̯",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

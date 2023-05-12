@@ -1,0 +1,26 @@
+{
+    "word": "veränderung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "change",
+    "example_sentences": [
+        {
+            "de": "Die Veränderung der Welt ist unaufhaltsam.",
+            "en": "The change of the world is unstoppable."
+        },
+        {
+            "de": "Ich spüre eine Veränderung in meinem Leben.",
+            "en": "I feel a change in my life."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "fɛɐ̯ˈʔɛndəʁʊŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

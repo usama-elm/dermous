@@ -1,0 +1,26 @@
+{
+    "word": "einigen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to unite",
+    "example_sentences": [
+        {
+            "de": "Die Parteien konnten sich auf einen Kompromiss einigen.",
+            "en": "The parties were able to agree on a compromise."
+        },
+        {
+            "de": "Wir müssen uns auf einen Termin einigen.",
+            "en": "We need to agree on a date."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaɪ̯nɪɡən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "einigt",
+    "past_perfect": "hat geeinigt",
+    "preterite": "einigte",
+    "frequency_scale": 8
+}

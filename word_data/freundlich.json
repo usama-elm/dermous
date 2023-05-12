@@ -1,0 +1,26 @@
+{
+    "word": "freundlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "friendly",
+    "example_sentences": [
+        {
+            "de": "Sie ist sehr freundlich zu ihren Nachbarn.",
+            "en": "She is very friendly to her neighbors."
+        },
+        {
+            "de": "Der Kellner war sehr freundlich zu uns.",
+            "en": "The waiter was very friendly to us."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈfʁɔʏntlɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,27 @@
+{
+    "word": "aufstehen",
+    "gender": "n",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "aufstehen",
+    "translation": "to get up",
+    "example_sentences": [
+        {
+            "de": "Ich stehe um 6 Uhr auf.",
+            "en": "I get up at 6 o'clock."
+        },
+        {
+            "de": "Kannst du morgen früh um 7 Uhr aufstehen?",
+            "en": "Can you get up tomorrow morning at 7 o'clock?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈaʊfˌʃteːən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "er/sie/es steht auf",
+    "past_perfect": "ist aufgestanden",
+    "preterite": "stand auf",
+    "frequency_scale": 7
+}

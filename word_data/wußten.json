@@ -1,0 +1,26 @@
+{
+    "word": "wußten",
+    "gender": "plural",
+    "article": "N/A",
+    "word_type": "verb",
+    "translation": "knew",
+    "example_sentences": [
+        {
+            "de": "Sie wußten nicht, was sie tun sollten.",
+            "en": "They didn't know what to do."
+        },
+        {
+            "de": "Wir wußten schon lange von dem Problem.",
+            "en": "We had known about the problem for a long time."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈvʊstən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "weiß",
+    "past_perfect": "gewusst",
+    "preterite": "wußte",
+    "frequency_scale": 8
+}

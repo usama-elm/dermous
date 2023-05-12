@@ -1,0 +1,26 @@
+{
+    "word": "ebenen",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "translation": "to level",
+    "example_sentences": [
+        {
+            "de": "Ich ebne den Boden.",
+            "en": "I am leveling the ground."
+        },
+        {
+            "de": "Wir müssen den Weg ebnen.",
+            "en": "We need to level the path."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈeːbənən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ebnet",
+    "past_perfect": "geeignet",
+    "preterite": "ebnete",
+    "frequency_scale": 8
+}

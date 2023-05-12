@@ -1,0 +1,21 @@
+{
+    "word": "bezeichnung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "designation",
+    "example_sentences": [
+        {
+            "de": "Die Bezeichnung des Produkts ist auf der Verpackung zu finden.",
+            "en": "The designation of the product can be found on the packaging."
+        },
+        {
+            "de": "Die Bezeichnung des Berufs variiert je nach Land.",
+            "en": "The designation of the profession varies depending on the country."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/bəˈt͡saɪ̯çnʊŋ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

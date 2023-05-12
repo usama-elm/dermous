@@ -1,0 +1,27 @@
+{
+    "word": "gesetzt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "setzen",
+    "translation": "set",
+    "example_sentences": [
+        {
+            "de": "Er hat sich ein Ziel gesetzt.",
+            "en": "He has set himself a goal."
+        },
+        {
+            "de": "Sie hat sich an den Tisch gesetzt.",
+            "en": "She has sat down at the table."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈzɛtst/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "setzt",
+    "past_perfect": "gesetzt",
+    "preterite": "setzte",
+    "frequency_scale": 8
+}

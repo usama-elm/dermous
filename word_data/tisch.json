@@ -1,0 +1,26 @@
+{
+    "word": "tisch",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "table",
+    "example_sentences": [
+        {
+            "de": "Ich sitze am Tisch.",
+            "en": "I am sitting at the table."
+        },
+        {
+            "de": "Der Tisch ist aus Holz.",
+            "en": "The table is made of wood."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/tɪʃ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

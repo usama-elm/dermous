@@ -1,0 +1,26 @@
+{
+    "word": "verschwinden",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to disappear",
+    "example_sentences": [
+        {
+            "de": "Er ist plötzlich verschwunden.",
+            "en": "He suddenly disappeared."
+        },
+        {
+            "de": "Die Wolken verschwinden langsam am Himmel.",
+            "en": "The clouds are slowly disappearing in the sky."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/fɛɐ̯ˈʃvɪndən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verschwindet",
+    "past_perfect": "verschwunden",
+    "preterite": "verschwand",
+    "frequency_scale": 7
+}

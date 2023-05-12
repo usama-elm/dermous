@@ -1,0 +1,26 @@
+{
+    "word": "völlige",
+    "gender": "f",
+    "article": "die",
+    "word_type": "vollständig",
+    "translation": "complete",
+    "example_sentences": [
+        {
+            "de": "Ich habe völlige Freiheit.",
+            "en": "I have complete freedom."
+        },
+        {
+            "de": "Das ist völliger Unsinn.",
+            "en": "That is complete nonsense."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈfœlɪɡə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

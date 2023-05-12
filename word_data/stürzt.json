@@ -1,0 +1,20 @@
+{
+    "word": "stürzt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "stürzen",
+    "translation": "falls",
+    "example_sentences": [
+        "Er stürzt vom Baum.",
+        "Das Flugzeug stürzt ab."
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈʃtʏrtst/",
+    "verb_auxiliary": "ist",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "stürzt",
+    "past_perfect": "gestürzt",
+    "preterite": "stürzte",
+    "frequency_scale": 8
+}

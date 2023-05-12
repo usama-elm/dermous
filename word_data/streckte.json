@@ -1,0 +1,26 @@
+{
+    "word": "streckte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "strecken",
+    "translation": "stretched",
+    "example_sentences": [
+        {
+            "de": "Sie streckte ihre Arme aus.",
+            "en": "She stretched out her arms."
+        },
+        {
+            "de": "Er streckte sich nach dem Aufwachen.",
+            "en": "He stretched after waking up."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈʃtʁɛktə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "streckt",
+    "past_perfect": "hat gestreckt",
+    "preterite": "streckte",
+    "frequency_scale": 8
+}

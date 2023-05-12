@@ -1,0 +1,26 @@
+{
+    "word": "vielmehr",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "rather, more precisely",
+    "example_sentences": [
+        {
+            "de": "Ich bin nicht müde, sondern vielmehr hungrig.",
+            "en": "I'm not tired, but rather hungry."
+        },
+        {
+            "de": "Vielmehr sollten wir uns auf das Wesentliche konzentrieren.",
+            "en": "Rather, we should focus on the essentials."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈfiːlˌmeːɐ̯/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

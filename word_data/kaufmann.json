@@ -1,0 +1,26 @@
+{
+    "word": "Kaufmann",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "merchant",
+    "example_sentences": [
+        {
+            "de": "Der Kaufmann betreibt ein Geschäft in der Innenstadt.",
+            "en": "The merchant runs a store in the city center."
+        },
+        {
+            "de": "Mein Vater war auch Kaufmann und hat sein eigenes Unternehmen gegründet.",
+            "en": "My father was also a merchant and started his own company."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈkaʊfman/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

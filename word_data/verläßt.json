@@ -1,0 +1,27 @@
+{
+    "word": "verlässt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "verb",
+    "infinitive": "verlassen",
+    "translation": "to leave",
+    "example_sentences": [
+        {
+            "de": "Er verlässt das Haus.",
+            "en": "He leaves the house."
+        },
+        {
+            "de": "Sie verlässt ihn.",
+            "en": "She leaves him."
+        }
+    ],
+    "usage_frequency": 7,
+    "IPA": "/fɛɐ̯ˈlɛst/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verlässt",
+    "past_perfect": "hat verlassen",
+    "preterite": "verließ",
+    "frequency_scale": 8
+}

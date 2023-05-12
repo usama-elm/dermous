@@ -1,0 +1,26 @@
+{
+    "word": "wehe",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "woe",
+    "example_sentences": [
+        {
+            "de": "Wehe dem, der Böses tut.",
+            "en": "Woe to him who does evil."
+        },
+        {
+            "de": "Wehe, wenn sie losgelassen!",
+            "en": "Woe betide when they are unleashed!"
+        }
+    ],
+    "usage_frequency": 5,
+    "ipa": "/ˈveːə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

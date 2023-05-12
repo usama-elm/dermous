@@ -1,0 +1,26 @@
+{
+    "word": "lehre",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "teaching",
+    "example_sentences": [
+        {
+            "de": "Sie hat eine Lehre als Friseurin gemacht.",
+            "en": "She did an apprenticeship as a hairdresser."
+        },
+        {
+            "de": "Er ist Professor für Lehre und Forschung.",
+            "en": "He is a professor of teaching and research."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈleːʀə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,21 @@
+{
+    "word": "erwartung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "expectation",
+    "example_sentences": [
+        {
+            "de": "Ich habe große Erwartungen an das Konzert.",
+            "en": "I have high expectations for the concert."
+        },
+        {
+            "de": "Seine Erwartungen wurden enttäuscht.",
+            "en": "His expectations were disappointed."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐ̯ˈvaʁtʊŋ/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

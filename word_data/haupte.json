@@ -1,0 +1,21 @@
+{
+    "word": "Haupt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "main, primary",
+    "example_sentences": [
+        {
+            "de": "Das ist der Hauptgrund.",
+            "en": "That is the main reason."
+        },
+        {
+            "de": "Die Hauptstadt von Deutschland ist Berlin.",
+            "en": "The capital of Germany is Berlin."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "haʊpt",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

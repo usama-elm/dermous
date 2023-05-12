@@ -1,0 +1,27 @@
+{
+    "word": "hängen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "hängen",
+    "translation": "to hang",
+    "example_sentences": [
+        {
+            "de": "Das Bild hängt an der Wand.",
+            "en": "The picture is hanging on the wall."
+        },
+        {
+            "de": "Ich hänge meine Jacke an die Garderobe.",
+            "en": "I hang my jacket on the coat rack."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈhɛŋən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "hängt",
+    "past_perfect": "gehangen",
+    "preterite": "hing",
+    "frequency_scale": 7
+}

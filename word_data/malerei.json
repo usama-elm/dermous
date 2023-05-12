@@ -1,0 +1,20 @@
+{
+    "word": "malerei",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "painting",
+    "example_sentences": [
+        "Die Malerei von van Gogh ist sehr bekannt.",
+        "Ich interessiere mich sehr für moderne Malerei."
+    ],
+    "usage_frequency": 7,
+    "ipa": "/maˈleːraɪ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

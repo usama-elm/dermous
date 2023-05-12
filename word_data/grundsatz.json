@@ -1,0 +1,26 @@
+{
+    "word": "Grundsatz",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "principle",
+    "example_sentences": [
+        {
+            "de": "Der Grundsatz der Gleichheit gilt für alle Menschen.",
+            "en": "The principle of equality applies to all people."
+        },
+        {
+            "de": "Wir müssen uns an den Grundsatz halten, dass alle Menschen gleich sind.",
+            "en": "We must adhere to the principle that all people are equal."
+        }
+    ],
+    "usage_frequency": 7.5,
+    "ipa": "ˈɡʁʊntˌzats",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

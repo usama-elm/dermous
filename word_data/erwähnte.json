@@ -1,0 +1,27 @@
+{
+    "word": "erwähnte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "erwähnen",
+    "translation": "mentioned",
+    "example_sentences": [
+        {
+            "de": "Ich erwähnte gestern Abend, dass ich heute nicht kommen kann.",
+            "en": "I mentioned last night that I can't come today."
+        },
+        {
+            "de": "Sie erwähnte ihren neuen Job in der Stadt.",
+            "en": "She mentioned her new job in the city."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɛɐ̯ˈvɛːntə",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erwähnt",
+    "past_perfect": "hat erwähnt",
+    "preterite": "erwähnte",
+    "frequency_scale": 8
+}

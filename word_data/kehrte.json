@@ -1,0 +1,27 @@
+{
+    "word": "kehrte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "kehren",
+    "translation": "returned",
+    "example_sentences": [
+        {
+            "de": "Sie kehrte nach Hause zurück.",
+            "en": "She returned home."
+        },
+        {
+            "de": "Er kehrte nie wieder zurück.",
+            "en": "He never returned again."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈkeːɐ̯tə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "kehrt",
+    "past_perfect": "gekehrt",
+    "preterite": "kehrte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "soweit",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "as far as",
+    "example_sentences": [
+        {
+            "de": "Soweit ich weiß, ist er noch nicht zurückgekommen.",
+            "en": "As far as I know, he hasn't come back yet."
+        },
+        {
+            "de": "Soweit ich das beurteilen kann, ist das eine gute Idee.",
+            "en": "As far as I can judge, that's a good idea."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/zoˈvaɪ̯t/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

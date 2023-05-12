@@ -1,0 +1,26 @@
+{
+    "word": "gegenseitig",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "mutual",
+    "example_sentences": [
+        {
+            "de": "Wir haben uns gegenseitig geholfen.",
+            "en": "We helped each other."
+        },
+        {
+            "de": "Sie haben sich gegenseitig die Hand gegeben.",
+            "en": "They shook each other's hand."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈɡɛnzaɪtɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

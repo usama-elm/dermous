@@ -1,0 +1,26 @@
+{
+    "word": "französisch",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "French",
+    "example_sentences": [
+        {
+            "de": "Ich spreche fließend Französisch.",
+            "en": "I speak French fluently."
+        },
+        {
+            "de": "Das ist ein französisches Restaurant.",
+            "en": "That is a French restaurant."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/fʁant͡søːzɪʃ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

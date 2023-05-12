@@ -1,0 +1,26 @@
+{
+    "word": "verschaffen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to obtain",
+    "example_sentences": [
+        {
+            "de": "Ich werde mir Zugang zu den Informationen verschaffen.",
+            "en": "I will obtain access to the information."
+        },
+        {
+            "de": "Er hat sich eine neue Identität verschafft.",
+            "en": "He obtained a new identity for himself."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/fɛɐ̯ˈʃafən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verschafft",
+    "past_perfect": "verschafft gehabt",
+    "preterite": "verschaffte",
+    "frequency_scale": 8
+}

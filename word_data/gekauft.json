@@ -1,0 +1,26 @@
+{
+    "word": "gekauft",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "kaufen",
+    "translation": "bought",
+    "example_sentences": [
+        {
+            "de": "Ich habe gestern ein neues Auto gekauft.",
+            "en": "I bought a new car yesterday."
+        },
+        {
+            "de": "Sie hat sich ein neues Kleid gekauft.",
+            "en": "She bought herself a new dress."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ɡəˈkaʊft/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "kauft",
+    "past_perfect": "gekauft gehabt",
+    "preterite": "kaufte",
+    "frequency_scale": 8
+}

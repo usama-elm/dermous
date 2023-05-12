@@ -1,0 +1,26 @@
+{
+    "word": "weniger",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "less",
+    "example_sentences": [
+        {
+            "de": "Ich esse weniger Fleisch.",
+            "en": "I eat less meat."
+        },
+        {
+            "de": "Er arbeitet weniger als ich.",
+            "en": "He works less than I do."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈveːnɪɡɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

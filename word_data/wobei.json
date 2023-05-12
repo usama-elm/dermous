@@ -1,0 +1,26 @@
+{
+    "word": "wobei",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "conjunction",
+    "translation": "whereby",
+    "example_sentences": [
+        {
+            "de": "Ich habe das Buch gelesen, wobei ich eingeschlafen bin.",
+            "en": "I read the book, whereby I fell asleep."
+        },
+        {
+            "de": "Er hat das Spiel gewonnen, wobei er nicht besonders gut gespielt hat.",
+            "en": "He won the game, whereby he didn't play particularly well."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/voˈbaɪ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

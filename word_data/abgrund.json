@@ -1,0 +1,21 @@
+{
+    "word": "Abgrund",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "abyss",
+    "example_sentences": [
+        {
+            "de": "Er stürzte in den Abgrund.",
+            "en": "He fell into the abyss."
+        },
+        {
+            "de": "Die Kluft zwischen den beiden Ländern ist ein Abgrund.",
+            "en": "The gap between the two countries is an abyss."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈapɡʁʊnt/",
+    "difficulty_level": "B1",
+    "error": null
+}

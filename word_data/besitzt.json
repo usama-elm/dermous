@@ -1,0 +1,27 @@
+{
+    "word": "besitzt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "verb",
+    "infinitive": "besitzen",
+    "translation": "to possess",
+    "example_sentences": [
+        {
+            "de": "Er besitzt ein Haus.",
+            "en": "He owns a house."
+        },
+        {
+            "de": "Sie besitzt eine wertvolle Sammlung.",
+            "en": "She has a valuable collection."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈzɪtst/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "besitzt",
+    "past_perfect": "hat besessen",
+    "preterite": "besaß",
+    "frequency_scale": 8
+}

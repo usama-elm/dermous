@@ -1,0 +1,27 @@
+{
+    "word": "gehen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "gehen",
+    "translation": "to go",
+    "example_sentences": [
+        {
+            "de": "Ich gehe zur Schule.",
+            "en": "I go to school."
+        },
+        {
+            "de": "Wir gehen heute Abend ins Kino.",
+            "en": "We're going to the cinema tonight."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈɡeːən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "A1",
+    "irregular": true,
+    "present_3rd_singular": "geht",
+    "past_perfect": "gegangen",
+    "preterite": "ging",
+    "frequency_scale": 9
+}

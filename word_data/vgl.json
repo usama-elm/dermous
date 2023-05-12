@@ -1,0 +1,26 @@
+{
+    "word": "vgl",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "abbreviation",
+    "translation": "compared to",
+    "example_sentences": [
+        {
+            "de": "Vgl. dazu auch die Ergebnisse der letzten Umfrage.",
+            "en": "Compare also the results of the last survey."
+        },
+        {
+            "de": "Vgl. Kapitel 3 für weitere Informationen.",
+            "en": "Refer to chapter 3 for more information."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈfeːɡəl",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

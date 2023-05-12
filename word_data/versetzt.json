@@ -1,0 +1,26 @@
+{
+    "word": "versetzt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "transferred",
+    "example_sentences": [
+        {
+            "de": "Er wurde in eine andere Abteilung versetzt.",
+            "en": "He was transferred to another department."
+        },
+        {
+            "de": "Ich habe meinen Urlaub auf nächste Woche versetzt.",
+            "en": "I postponed my vacation to next week."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/fɛɐˈzɛtst/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "versetzt",
+    "past_perfect": "hat versetzt",
+    "preterite": "versetzte",
+    "frequency_scale": 8
+}

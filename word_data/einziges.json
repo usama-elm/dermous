@@ -1,0 +1,26 @@
+{
+    "word": "einziges",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "einzig",
+    "translation": "only, single",
+    "example_sentences": [
+        {
+            "de": "Das ist mein einziges Paar Schuhe.",
+            "en": "These are my only pair of shoes."
+        },
+        {
+            "de": "Er ist das einziges Kind seiner Eltern.",
+            "en": "He is the only child of his parents."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaɪnt͡sɪɡəs/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

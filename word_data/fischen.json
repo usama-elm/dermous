@@ -1,0 +1,26 @@
+{
+    "word": "fischen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "infinitive",
+    "translation": "to fish",
+    "example_sentences": [
+        {
+            "de": "Ich gehe gerne fischen.",
+            "en": "I like to go fishing."
+        },
+        {
+            "de": "Er hat gestern am Fluss gefischt.",
+            "en": "He went fishing at the river yesterday."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈfɪʃən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "fischt",
+    "past_perfect": "gefischt",
+    "preterite": "fischte",
+    "frequency_scale": 8
+}

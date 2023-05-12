@@ -1,0 +1,27 @@
+{
+    "word": "überzeugen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to convince",
+    "example_sentences": [
+        {
+            "de": "Ich werde versuchen, ihn zu überzeugen.",
+            "en": "I will try to convince him."
+        },
+        {
+            "de": "Er hat mich endlich überzeugt, mitzukommen.",
+            "en": "He finally convinced me to come along."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "yːbɐˈt͡sɪɡən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregularities": {
+        "present_3rd_singular": "überzeugt",
+        "past_perfect": "hat überzeugt",
+        "preterite": "überzeugte",
+        "frequency": 6
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "word": "sonntag",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "Sunday",
+    "example_sentences": [
+        {
+            "de": "Jeden Sonntag gehe ich in die Kirche.",
+            "en": "I go to church every Sunday."
+        },
+        {
+            "de": "Am Sonntag haben wir einen Ausflug gemacht.",
+            "en": "We went on a trip on Sunday."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈzɔntaːk/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

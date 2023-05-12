@@ -1,0 +1,27 @@
+{
+    "word": "qualität",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "quality",
+    "example_sentences": [
+        {
+            "de": "Die Qualität dieses Produkts ist sehr hoch.",
+            "en": "The quality of this product is very high."
+        },
+        {
+            "de": "Wir legen großen Wert auf Qualität.",
+            "en": "We place great value on quality."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "kvaˈliːtɛt",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregularities": {
+        "present_3rd_singular": null,
+        "past_perfect": null,
+        "preterite": null,
+        "frequency": null
+    }
+}

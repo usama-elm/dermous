@@ -1,0 +1,26 @@
+{
+    "word": "Abschnitt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "section",
+    "example_sentences": [
+        {
+            "de": "Im dritten Abschnitt des Buches geht es um...",
+            "en": "The third section of the book is about..."
+        },
+        {
+            "de": "Bitte lesen Sie den Abschnitt aufmerksam durch.",
+            "en": "Please read the section carefully."
+        }
+    ],
+    "usage_frequency": 7.5,
+    "ipa": "/ˈapʃnɪft/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,20 @@
+{
+    "word": "gerührt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "gerühren (verb)",
+    "translation": "moved, touched",
+    "example_sentences": [
+        "Ich bin sehr gerührt von deinem Geschenk. (I am very moved by your gift.)",
+        "Die Rede hat mich sehr gerührt. (The speech has touched me deeply.)"
+    ],
+    "usage_frequency": 7.5,
+    "IPA": "ɡəˈʁyːɐ̯t",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "rührt",
+    "past_perfect": "hat gerührt",
+    "preterite": "rührte",
+    "frequency": 6
+}

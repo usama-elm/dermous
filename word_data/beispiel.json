@@ -1,0 +1,26 @@
+{
+    "word": "Beispiel",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "example",
+    "example_sentences": [
+        {
+            "de": "Kannst du mir ein Beispiel geben?",
+            "en": "Can you give me an example?"
+        },
+        {
+            "de": "Das ist ein gutes Beispiel für Teamarbeit.",
+            "en": "That's a good example of teamwork."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/baɪ̯ʃpiːl/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

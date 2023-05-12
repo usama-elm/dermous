@@ -1,0 +1,26 @@
+{
+    "word": "graben",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Infinitiv",
+    "translation": "to dig",
+    "example_sentences": [
+        {
+            "de": "Ich werde morgen ein Loch graben.",
+            "en": "I will dig a hole tomorrow."
+        },
+        {
+            "de": "Er hat gestern den Garten umgegraben.",
+            "en": "He dug up the garden yesterday."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈɡʁaːbən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gräbt",
+    "past_perfect": "gegraben",
+    "preterite": "grub",
+    "frequency_scale": 8
+}

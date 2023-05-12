@@ -1,0 +1,26 @@
+{
+    "word": "einige",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "some",
+    "example_sentences": [
+        {
+            "de": "Einige Leute mögen Kaffee, andere trinken lieber Tee.",
+            "en": "Some people like coffee, others prefer tea."
+        },
+        {
+            "de": "Ich habe einige Bücher gelesen, aber keines hat mir wirklich gefallen.",
+            "en": "I've read some books, but none of them really appealed to me."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈaɪ̯nɪɡə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

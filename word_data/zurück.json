@@ -1,0 +1,26 @@
+{
+    "word": "zurück",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "back",
+    "example_sentences": [
+        {
+            "de": "Ich gehe zurück zum Haus.",
+            "en": "I'm going back to the house."
+        },
+        {
+            "de": "Er hat das Buch zurückgegeben.",
+            "en": "He returned the book."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈt͡sʊʁʏk",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

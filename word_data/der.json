@@ -1,0 +1,28 @@
+{
+    "word": "der",
+    "gender": "m",
+    "article": "der",
+    "word_type": "article",
+    "translation": "the",
+    "example_sentences": [
+        {
+            "de": "Der Hund bellt.",
+            "en": "The dog barks.",
+            "frequency": 8
+        },
+        {
+            "de": "Der Mann liest die Zeitung.",
+            "en": "The man reads the newspaper.",
+            "frequency": 9
+        }
+    ],
+    "usage_frequency": 10,
+    "IPA_code": "/deːɐ̯/",
+    "verb_auxiliary_for_past": null,
+    "european_difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_form_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale_10": 10
+}

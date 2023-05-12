@@ -1,0 +1,26 @@
+{
+    "word": "abwechselnd",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "alternating",
+    "example_sentences": [
+        {
+            "de": "Wir haben uns abwechselnd um das Baby gekümmert.",
+            "en": "We took turns taking care of the baby."
+        },
+        {
+            "de": "Die Farben wechseln abwechselnd ab.",
+            "en": "The colors alternate."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/apˈvɛkslənt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,21 @@
+{
+    "word": "dampfer",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "steamer",
+    "example_sentences": [
+        {
+            "de": "Der Dampfer fährt auf dem Fluss.",
+            "en": "The steamer is sailing on the river."
+        },
+        {
+            "de": "Wir haben eine Fahrt mit dem Dampfer gemacht.",
+            "en": "We took a ride on the steamer."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "/ˈdampfɐ/",
+    "difficulty_level": "A2",
+    "irregular": false
+}

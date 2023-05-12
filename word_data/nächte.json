@@ -1,0 +1,26 @@
+{
+    "word": "nächte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "nights",
+    "example_sentences": [
+        {
+            "de": "Ich habe in den letzten Nächten schlecht geschlafen.",
+            "en": "I've slept poorly in the last few nights."
+        },
+        {
+            "de": "Die Nächte werden länger, je näher der Winter kommt.",
+            "en": "The nights get longer as winter approaches."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈnɛçtə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

@@ -1,0 +1,26 @@
+{
+    "word": "gute",
+    "gender": "f",
+    "article": "die",
+    "word_type": "gut",
+    "translation": "good",
+    "example_sentences": [
+        {
+            "de": "Das ist eine gute Idee.",
+            "en": "That's a good idea."
+        },
+        {
+            "de": "Sie ist eine gute Lehrerin.",
+            "en": "She is a good teacher."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "ˈɡuːtə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

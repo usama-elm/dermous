@@ -1,0 +1,30 @@
+{
+    "word": "halten",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "to hold",
+    "example_sentences": [
+        {
+            "de": "Ich halte den Ball.",
+            "en": "I am holding the ball."
+        },
+        {
+            "de": "Kannst du bitte die Tür halten?",
+            "en": "Can you please hold the door?"
+        },
+        {
+            "de": "Er hält sich für den besten Spieler.",
+            "en": "He thinks he is the best player."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈhaltn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "hält",
+    "past_perfect": "gehalten",
+    "preterite": "hielt",
+    "frequency_scale": 7
+}

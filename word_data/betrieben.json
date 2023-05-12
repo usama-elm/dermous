@@ -1,0 +1,20 @@
+{
+    "word": "betrieben",
+    "gender": "m",
+    "article": "der",
+    "word_type": "verb",
+    "translation": "operated",
+    "example_sentences": [
+        "Er hat das Unternehmen seit vielen Jahren betrieben. (He has been operating the company for many years.)",
+        "Sie betreibt eine erfolgreiche Online-Plattform. (She operates a successful online platform.)"
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈtʁiːbn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "betreibt",
+    "past_perfect": "hat betrieben",
+    "preterite": "betrieb",
+    "frequency_scale": 8
+}

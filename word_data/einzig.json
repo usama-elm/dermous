@@ -1,0 +1,26 @@
+{
+    "word": "einzig",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "unique",
+    "example_sentences": [
+        {
+            "de": "Sie hat ein einziges Kind.",
+            "en": "She has a unique child."
+        },
+        {
+            "de": "Das ist das einzige Exemplar.",
+            "en": "That is the only copy."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈaɪnt͡sɪç",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

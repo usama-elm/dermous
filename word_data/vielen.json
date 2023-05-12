@@ -1,0 +1,26 @@
+{
+    "word": "vielen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "viel",
+    "translation": "many",
+    "example_sentences": [
+        {
+            "de": "Vielen Dank für Ihre Hilfe.",
+            "en": "Many thanks for your help."
+        },
+        {
+            "de": "Es gibt viele Gründe, warum ich das nicht tun möchte.",
+            "en": "There are many reasons why I don't want to do that."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈfiːlən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

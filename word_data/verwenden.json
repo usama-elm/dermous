@@ -1,0 +1,26 @@
+{
+    "word": "verwenden",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to use",
+    "example_sentences": [
+        {
+            "de": "Ich verwende diese Methode oft.",
+            "en": "I often use this method."
+        },
+        {
+            "de": "Kann ich deine Schere verwenden?",
+            "en": "Can I use your scissors?"
+        }
+    ],
+    "usage_frequency": 8,
+    "IPA": "/fɛɐˈvɛndən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verwendet",
+    "past_perfect": "verwendet",
+    "preterite": "verwendete",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "unternehmen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to undertake",
+    "example_sentences": [
+        {
+            "de": "Wir sollten etwas unternehmen, um das Problem zu lösen.",
+            "en": "We should undertake something to solve the problem."
+        },
+        {
+            "de": "Er hat nichts unternommen, um das Projekt voranzutreiben.",
+            "en": "He didn't undertake anything to advance the project."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈʊntɐˌneːmən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "unternimmt",
+    "past_perfect": "hat unternommen",
+    "preterite": "unternahm",
+    "frequency_scale": 8
+}

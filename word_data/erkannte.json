@@ -1,0 +1,21 @@
+{
+    "word": "erkannte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "erkennen",
+    "translation": "recognized",
+    "example_sentences": [
+        "Ich erkannte ihn sofort.",
+        "Sie erkannte ihre Fehler und entschuldigte sich.",
+        "Erkannt habe ich ihn an seiner Stimme."
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ɛɐ̯ˈkan.tə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erkennt",
+    "past_perfect": "hat erkannt",
+    "preterite": "erkannte",
+    "frequency_scale": 8
+}

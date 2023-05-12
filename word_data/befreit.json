@@ -1,0 +1,26 @@
+{
+    "word": "befreit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "befreien",
+    "translation": "liberated",
+    "example_sentences": [
+        {
+            "de": "Die Gefangenen wurden befreit.",
+            "en": "The prisoners were liberated."
+        },
+        {
+            "de": "Ich fühle mich befreit von meinen Sorgen.",
+            "en": "I feel liberated from my worries."
+        }
+    ],
+    "usage_frequency": 7,
+    "IPA": "bəˈfraɪt",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "befreit",
+    "past_perfect": "hat befreit",
+    "preterite": "befreite",
+    "frequency_scale": 8
+}

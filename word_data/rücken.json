@@ -1,0 +1,26 @@
+{
+    "word": "rücken",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "to move, shift",
+    "example_sentences": [
+        {
+            "de": "Kannst du bitte ein bisschen nach rechts rücken?",
+            "en": "Can you please move a little to the right?"
+        },
+        {
+            "de": "Wir müssen den Termin um eine Woche nach hinten rücken.",
+            "en": "We need to move the appointment back by a week."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈrʏkən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "rückt",
+    "past_perfect": "gerückt",
+    "preterite": "rückte",
+    "frequency_scale": 8
+}

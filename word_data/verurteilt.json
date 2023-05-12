@@ -1,0 +1,27 @@
+{
+    "word": "verurteilt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "verurteilen",
+    "translation": "to condemn",
+    "example_sentences": [
+        {
+            "de": "Er wurde zu lebenslanger Haft verurteilt.",
+            "en": "He was sentenced to life imprisonment."
+        },
+        {
+            "de": "Die Tat wurde als Mord verurteilt.",
+            "en": "The act was condemned as murder."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/fɛʁʊʁˈtaɪ̯l(t)/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B2",
+    "irregular": true,
+    "present_3rd_singular": "verurteilt",
+    "past_perfect": "hat verurteilt",
+    "preterite": "verurteilte",
+    "frequency_scale": 8
+}

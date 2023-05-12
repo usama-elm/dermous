@@ -1,0 +1,26 @@
+{
+    "word": "rufe",
+    "gender": "f",
+    "article": "die",
+    "word_type": "rufen",
+    "translation": "call",
+    "example_sentences": [
+        {
+            "de": "Ich rufe meine Mutter an.",
+            "en": "I call my mother."
+        },
+        {
+            "de": "Kannst du bitte den Arzt rufen?",
+            "en": "Can you please call the doctor?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈʁuːfə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ruft",
+    "past_perfect": "gerufen",
+    "preterite": "rief",
+    "frequency_scale": 7
+}

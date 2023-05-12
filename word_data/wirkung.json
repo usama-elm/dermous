@@ -1,0 +1,21 @@
+{
+    "word": "wirkung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "effect",
+    "example_sentences": [
+        {
+            "de": "Die Wirkung des Medikaments hält mehrere Stunden an.",
+            "en": "The effect of the medication lasts several hours."
+        },
+        {
+            "de": "Die Wirkung von Musik auf die Stimmung ist wissenschaftlich belegt.",
+            "en": "The effect of music on mood is scientifically proven."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈvɪʁkʊŋ",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

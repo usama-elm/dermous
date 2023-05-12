@@ -1,0 +1,26 @@
+{
+    "word": "gesteckt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "stecken",
+    "translation": "stuck",
+    "example_sentences": [
+        {
+            "de": "Ich habe den Schlüssel in die Tasche gesteckt.",
+            "en": "I put the key in my pocket."
+        },
+        {
+            "de": "Er hat sich eine Zigarette angesteckt.",
+            "en": "He lit a cigarette."
+        }
+    ],
+    "usage_frequency": 7,
+    "IPA": "ɡəˈʃtɛkt",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "steckt",
+    "past_perfect": "gesteckt gehabt",
+    "preterite": "steckte",
+    "frequency_scale": 8
+}

@@ -1,0 +1,21 @@
+{
+    "word": "Schwert",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "sword",
+    "example_sentences": [
+        {
+            "de": "Er zog sein Schwert aus der Scheide.",
+            "en": "He drew his sword from its scabbard."
+        },
+        {
+            "de": "Das Schwert des Königs war mit Edelsteinen besetzt.",
+            "en": "The king's sword was adorned with jewels."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ʃvɛrt/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

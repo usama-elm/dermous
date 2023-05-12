@@ -1,0 +1,26 @@
+{
+    "word": "stehend",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "standing",
+    "example_sentences": [
+        {
+            "de": "Der Mann steht stehend auf dem Bein.",
+            "en": "The man is standing on one leg."
+        },
+        {
+            "de": "Die stehende Welle ist ein Phänomen in der Physik.",
+            "en": "The standing wave is a phenomenon in physics."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈʃteːənt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": null
+}

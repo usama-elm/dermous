@@ -1,0 +1,26 @@
+{
+    "word": "kurzem",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "Adverb",
+    "translation": "recently",
+    "example_sentences": [
+        {
+            "de": "Ich habe ihn vor kurzem getroffen.",
+            "en": "I met him recently."
+        },
+        {
+            "de": "Vor Kurzem habe ich ein neues Auto gekauft.",
+            "en": "I bought a new car recently."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈkʊʁt͡səm",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

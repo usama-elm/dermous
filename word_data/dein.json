@@ -1,0 +1,26 @@
+{
+    "word": "dein",
+    "gender": "m/f/neuter",
+    "article": "possessive pronoun",
+    "word_type": "possessive pronoun",
+    "translation": "your",
+    "example_sentences": [
+        {
+            "de": "Ist das dein Buch?",
+            "en": "Is that your book?"
+        },
+        {
+            "de": "Dein Hund ist sehr süß.",
+            "en": "Your dog is very cute."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/daɪn/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

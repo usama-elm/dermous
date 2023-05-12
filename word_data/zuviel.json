@@ -1,0 +1,26 @@
+{
+    "word": "zuviel",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "too much",
+    "example_sentences": [
+        {
+            "de": "Ich habe zuviel gegessen.",
+            "en": "I ate too much."
+        },
+        {
+            "de": "Du hast zuviel Geld ausgegeben.",
+            "en": "You spent too much money."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈtsuːfiːl",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

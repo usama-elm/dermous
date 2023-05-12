@@ -1,0 +1,27 @@
+{
+    "word": "verteilt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "verteilen",
+    "translation": "to distribute",
+    "example_sentences": [
+        {
+            "de": "Die Aufgaben werden gleichmäßig verteilt.",
+            "en": "The tasks are distributed evenly."
+        },
+        {
+            "de": "Wir haben die Flyer in der Stadt verteilt.",
+            "en": "We distributed the flyers in the city."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/fɛɐˈtaɪlt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verteilt",
+    "past_perfect": "hat verteilt",
+    "preterite": "verteilte",
+    "frequency_scale": 8
+}

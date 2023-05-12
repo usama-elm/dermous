@@ -1,0 +1,26 @@
+{
+    "word": "entsetzt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "horrified",
+    "example_sentences": [
+        {
+            "de": "Sie war entsetzt über das Ergebnis.",
+            "en": "She was horrified by the result."
+        },
+        {
+            "de": "Ich war entsetzt über das, was ich gesehen hatte.",
+            "en": "I was horrified by what I had seen."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛntˈzɛtst/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

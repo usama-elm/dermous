@@ -1,0 +1,27 @@
+{
+    "word": "äußeren",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "äußern",
+    "translation": "to express, to voice",
+    "example_sentences": [
+        {
+            "de": "Er äußerte seine Meinung zum Thema.",
+            "en": "He expressed his opinion on the topic."
+        },
+        {
+            "de": "Sie äußerte ihre Bedenken gegenüber dem Plan.",
+            "en": "She voiced her concerns about the plan."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈɔʏsərn/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "äußert",
+    "past_perfect": "geäußert",
+    "preterite": "äußerte",
+    "frequency_scale": 8
+}

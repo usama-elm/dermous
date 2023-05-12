@@ -1,0 +1,26 @@
+{
+    "word": "entfernt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "distant",
+    "example_sentences": [
+        {
+            "de": "Das Hotel ist vom Flughafen entfernt.",
+            "en": "The hotel is far from the airport."
+        },
+        {
+            "de": "Ich habe entfernte Verwandte in Australien.",
+            "en": "I have distant relatives in Australia."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ɛntˈfɛʁnt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

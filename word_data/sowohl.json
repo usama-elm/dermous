@@ -1,0 +1,26 @@
+{
+    "word": "sowohl",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "conjunction",
+    "translation": "both",
+    "example_sentences": [
+        {
+            "de": "Ich mag sowohl Pizza als auch Pasta.",
+            "en": "I like both pizza and pasta."
+        },
+        {
+            "de": "Sowohl meine Schwester als auch ich spielen gerne Tennis.",
+            "en": "Both my sister and I enjoy playing tennis."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/zoˈvoːl/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

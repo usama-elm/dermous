@@ -1,0 +1,26 @@
+{
+    "word": "wenige",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "few",
+    "example_sentences": [
+        {
+            "de": "Nur wenige Menschen können fliegen.",
+            "en": "Only a few people can fly."
+        },
+        {
+            "de": "Ich habe nur wenige Freunde.",
+            "en": "I have only a few friends."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈveːnɪɡə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 5
+}

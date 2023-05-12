@@ -1,0 +1,21 @@
+{
+    "word": "aufmerksamkeit",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "attention",
+    "example_sentences": [
+        {
+            "de": "Bitte schenken Sie mir Ihre Aufmerksamkeit.",
+            "en": "Please give me your attention."
+        },
+        {
+            "de": "Er hat meine Aufmerksamkeit erregt.",
+            "en": "He caught my attention."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈaʊ̯fˌmɛʁksamkaɪt/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

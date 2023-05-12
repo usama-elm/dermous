@@ -1,0 +1,26 @@
+{
+    "word": "dritten",
+    "gender": "m",
+    "article": "der",
+    "word_type": "ordinal number",
+    "translation": "third",
+    "example_sentences": [
+        {
+            "de": "Er ist der dritte in der Reihe.",
+            "en": "He is the third in line."
+        },
+        {
+            "de": "Das ist mein drittes Auto.",
+            "en": "This is my third car."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈdʀɪtn̩/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

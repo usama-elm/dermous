@@ -1,0 +1,21 @@
+{
+    "word": "üben",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to practice",
+    "example_sentences": [
+        "Ich übe jeden Tag Klavier.",
+        "Wir müssen für die Prüfung üben.",
+        "Übung macht den Meister."
+    ],
+    "usage_frequency": 8,
+    "IPA": "/ˈyːbn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "übt",
+    "past_perfect": "geübt",
+    "preterite": "übte",
+    "frequency_scale": 8
+}

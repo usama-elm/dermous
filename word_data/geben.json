@@ -1,0 +1,26 @@
+{
+    "word": "geben",
+    "gender": "n/a",
+    "article": "n/a",
+    "word_type": "verb",
+    "translation": "to give",
+    "example_sentences": [
+        {
+            "de": "Ich gebe dir ein Geschenk.",
+            "en": "I give you a present."
+        },
+        {
+            "de": "Kannst du mir bitte eine Tasse Kaffee geben?",
+            "en": "Can you please give me a cup of coffee?"
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa_code": "/ˈɡeːbən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A1",
+    "irregular": true,
+    "present_3rd_singular": "gibt",
+    "past_perfect": "gegeben",
+    "preterite": "gab",
+    "frequency_scale": 10
+}

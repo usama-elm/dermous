@@ -1,0 +1,21 @@
+{
+    "word": "drückte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "drücken",
+    "translation": "pressed",
+    "example_sentences": [
+        "Sie drückte auf den Knopf.",
+        "Er drückte ihr die Hand.",
+        "Ich drückte mich an die Wand."
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈdʀʏk.tə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "drückt",
+    "past_perfect": "gedrückt",
+    "preterite": "drückte",
+    "frequency_scale": 8
+}

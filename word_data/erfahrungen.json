@@ -1,0 +1,26 @@
+{
+    "word": "erfahrungen",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Noun",
+    "translation": "experiences",
+    "example_sentences": [
+        {
+            "de": "Ich habe viele Erfahrungen im Ausland gesammelt.",
+            "en": "I have gained a lot of experience abroad."
+        },
+        {
+            "de": "Diese Erfahrung hat mich gelehrt, geduldiger zu sein.",
+            "en": "This experience has taught me to be more patient."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɛɐ̯ˈfaːʁʊŋən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

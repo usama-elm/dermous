@@ -1,0 +1,20 @@
+{
+    "word": "schlossen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "schließen",
+    "translation": "closed",
+    "example_sentences": [
+        "Die Tür war geschlossen.",
+        "Wir haben gestern das Geschäft geschlossen."
+    ],
+    "usage_frequency": 7,
+    "IPA": "/ˈʃlɔsən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schließt",
+    "past_perfect": "geschlossen",
+    "preterite": "schloss",
+    "frequency_scale": 8
+}

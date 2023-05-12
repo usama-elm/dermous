@@ -1,0 +1,26 @@
+{
+    "word": "stehn",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to stand",
+    "example_sentences": [
+        {
+            "de": "Ich stehe hier.",
+            "en": "I am standing here."
+        },
+        {
+            "de": "Er steht jeden Morgen um 6 Uhr auf.",
+            "en": "He gets up at 6 o'clock every morning."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ʃteːn/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A1",
+    "irregular": true,
+    "present_3rd_singular": "steht",
+    "past_perfect": "gestanden",
+    "preterite": "stand",
+    "frequency": 9
+}

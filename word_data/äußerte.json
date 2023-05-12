@@ -1,0 +1,27 @@
+{
+    "word": "äußerte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "äußern",
+    "translation": "expressed",
+    "example_sentences": [
+        {
+            "de": "Sie äußerte ihre Meinung zum Thema.",
+            "en": "She expressed her opinion on the topic."
+        },
+        {
+            "de": "Er äußerte seine Bedenken gegenüber dem Plan.",
+            "en": "He expressed his concerns about the plan."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈɔʏ̯sɛʁtə",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B2",
+    "irregular": true,
+    "present_3rd_singular": "äußert",
+    "past_perfect": "geäußert",
+    "preterite": "äußerte",
+    "frequency_scale": 8
+}

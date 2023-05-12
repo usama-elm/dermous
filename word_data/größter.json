@@ -1,0 +1,26 @@
+{
+    "word": "größter",
+    "gender": "m",
+    "article": "der",
+    "word_type": "adjective",
+    "translation": "biggest",
+    "example_sentences": [
+        {
+            "de": "Er ist der größte Mann im Raum.",
+            "en": "He is the biggest man in the room."
+        },
+        {
+            "de": "Das ist das größte Problem.",
+            "en": "That is the biggest problem."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈɡʁœstɐ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

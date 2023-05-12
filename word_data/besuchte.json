@@ -1,0 +1,26 @@
+{
+    "word": "besuchte",
+    "gender": "f",
+    "article": "die",
+    "word_type": "Infinitive",
+    "translation": "visited",
+    "example_sentences": [
+        {
+            "de": "Ich besuchte gestern meine Großeltern.",
+            "en": "I visited my grandparents yesterday."
+        },
+        {
+            "de": "Sie besuchte oft ihre Freunde in der Stadt.",
+            "en": "She often visited her friends in the city."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/bəˈzʊxtə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular_verb": true,
+    "present_3rd_singular": "besucht",
+    "past_perfect": "hat besucht",
+    "preterite": "besuchte",
+    "frequency_scale": 8
+}

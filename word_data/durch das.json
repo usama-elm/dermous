@@ -1,0 +1,26 @@
+{
+    "word": "durch das",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "preposition",
+    "translation": "through the",
+    "example_sentences": [
+        {
+            "de": "Ich gehe durch das Tor.",
+            "en": "I am walking through the gate."
+        },
+        {
+            "de": "Das Wasser fließt durch das Rohr.",
+            "en": "The water flows through the pipe."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "dʊʁç das",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "is_irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

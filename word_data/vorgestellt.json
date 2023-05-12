@@ -1,0 +1,27 @@
+{
+    "word": "vorgestellt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "vorstellen",
+    "translation": "presented",
+    "example_sentences": [
+        {
+            "de": "Ich habe mich vorgestellt.",
+            "en": "I introduced myself."
+        },
+        {
+            "de": "Er hat mich seiner Familie vorgestellt.",
+            "en": "He introduced me to his family."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈfɔɐ̯ɡəˌʃtɛlt",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "stellt vor",
+    "past_perfect": "hat vorgestellt",
+    "preterite": "stellte vor",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "frage",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "question",
+    "example_sentences": [
+        {
+            "de": "Kann ich Ihnen eine Frage stellen?",
+            "en": "Can I ask you a question?"
+        },
+        {
+            "de": "Ich habe eine Frage zu diesem Thema.",
+            "en": "I have a question about this topic."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈfʁaːɡə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,27 @@
+{
+    "word": "jahrhunderte",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "centuries",
+    "example_sentences": [
+        {
+            "de": "In den letzten Jahrhunderten hat sich viel verändert.",
+            "en": "A lot has changed in the last centuries."
+        },
+        {
+            "de": "Die Burg wurde vor Jahrhunderten gebaut.",
+            "en": "The castle was built centuries ago."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈjaːɐ̯ˌhʊndɐtə",
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "frequency": 8,
+    "response_metadata": {
+        "version": "1.0",
+        "status": "200",
+        "message": "OK"
+    }
+}

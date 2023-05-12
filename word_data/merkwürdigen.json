@@ -1,0 +1,26 @@
+{
+    "word": "merkwürdigen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "strange, peculiar",
+    "example_sentences": [
+        {
+            "de": "Er hatte einen merkwürdigen Blick auf dem Gesicht.",
+            "en": "He had a strange look on his face."
+        },
+        {
+            "de": "Das ist eine merkwürdige Geschichte.",
+            "en": "That's a peculiar story."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ˈmɛʁkˌvʏʁdɪɡən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

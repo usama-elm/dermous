@@ -1,0 +1,20 @@
+{
+    "word": "erwähnen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to mention",
+    "example_sentences": [
+        "Ich möchte erwähnen, dass ich gestern schon bezahlt habe. (I would like to mention that I already paid yesterday.)",
+        "Er hat mich nicht erwähnt. (He didn't mention me.)"
+    ],
+    "usage_frequency": 7,
+    "IPA": "ɛɐˈvɛːnən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erwähnt",
+    "past_perfect": "erwähnt",
+    "preterite": "erwähnte",
+    "frequency_scale": 7
+}

@@ -1,0 +1,21 @@
+{
+    "word": "bewunderung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "admiration",
+    "example_sentences": [
+        {
+            "de": "Ich habe große Bewunderung für seine Arbeit.",
+            "en": "I have great admiration for his work."
+        },
+        {
+            "de": "Sie hat meine Bewunderung gewonnen.",
+            "en": "She has won my admiration."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "bəˈvʊndərʊŋ",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

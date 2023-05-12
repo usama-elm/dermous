@@ -1,0 +1,26 @@
+{
+    "word": "erwerben",
+    "gender": "m",
+    "article": "der",
+    "word_type": "verb",
+    "translation": "to acquire",
+    "example_sentences": [
+        {
+            "de": "Ich habe vor kurzem ein neues Auto erworben.",
+            "en": "I recently acquired a new car."
+        },
+        {
+            "de": "Er hat sich viel Wissen über Kunst erworben.",
+            "en": "He has acquired a lot of knowledge about art."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐ̯ˈvɛʁbən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erwirbt",
+    "past_perfect": "erworben",
+    "preterite": "erwarb",
+    "frequency_scale": 8
+}

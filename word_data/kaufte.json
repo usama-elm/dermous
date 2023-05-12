@@ -1,0 +1,26 @@
+{
+    "word": "kaufte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "kaufen",
+    "translation": "bought",
+    "example_sentences": [
+        {
+            "de": "Ich kaufte gestern ein neues Auto.",
+            "en": "I bought a new car yesterday."
+        },
+        {
+            "de": "Er kaufte das Haus vor zwei Jahren.",
+            "en": "He bought the house two years ago."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈkaʊftə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "kauft",
+    "past_perfect": "gekauft",
+    "preterite": "kaufte",
+    "frequency_scale": 8
+}

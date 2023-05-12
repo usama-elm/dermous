@@ -1,0 +1,26 @@
+{
+    "word": "schwieg",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "was silent",
+    "example_sentences": [
+        {
+            "de": "Er schwieg die ganze Zeit.",
+            "en": "He was silent the whole time."
+        },
+        {
+            "de": "Sie schwieg beharrlich zu dem Thema.",
+            "en": "She remained silent on the topic."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "/ʃviːk/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schweigt",
+    "past_perfect": "geschwiegen",
+    "preterite": "schwieg",
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "einfache",
+    "gender": "f",
+    "article": "die",
+    "word_type": "einfach",
+    "translation": "simple",
+    "example_sentences": [
+        {
+            "de": "Das ist eine einfache Lösung.",
+            "en": "That is a simple solution."
+        },
+        {
+            "de": "Ich brauche nur eine einfache Antwort.",
+            "en": "I just need a simple answer."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "ˈaɪ̯nfaxə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "süß",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "sweet",
+    "example_sentences": [
+        {
+            "de": "Der Kuchen schmeckt sehr süß.",
+            "en": "The cake tastes very sweet."
+        },
+        {
+            "de": "Ich mag süße Früchte wie Erdbeeren und Trauben.",
+            "en": "I like sweet fruits like strawberries and grapes."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "zyːs",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

@@ -1,0 +1,26 @@
+{
+    "word": "gaben",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "translation": "gave",
+    "example_sentences": [
+        {
+            "de": "Sie gaben ihm ein Geschenk.",
+            "en": "They gave him a present."
+        },
+        {
+            "de": "Wir haben gestern Abend Geld an die Obdachlosen gegeben.",
+            "en": "We gave money to the homeless last night."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈɡaːbən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gibt",
+    "past_perfect": "gegeben",
+    "preterite": "gaben",
+    "frequency_scale": 8
+}

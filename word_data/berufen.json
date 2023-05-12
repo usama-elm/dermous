@@ -1,0 +1,20 @@
+{
+    "word": "berufen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to appoint, to call",
+    "example_sentences": [
+        "Er wurde zum Professor berufen. (He was appointed as a professor.)",
+        "Ich fühle mich berufen, anderen zu helfen. (I feel called to help others.)"
+    ],
+    "usage_frequency": 4,
+    "ipa": "bəˈʀuːfn̩",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "beruft",
+    "past_perfect": "berufen",
+    "preterite": "berief",
+    "frequency_scale": 6
+}

@@ -1,0 +1,21 @@
+{
+    "word": "linie",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "line",
+    "example_sentences": [
+        {
+            "de": "Die U-Bahn-Linie 1 fährt direkt zum Hauptbahnhof.",
+            "en": "The subway line 1 goes directly to the main train station."
+        },
+        {
+            "de": "Ich zeichne eine gerade Linie auf das Papier.",
+            "en": "I draw a straight line on the paper."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈliːniə/",
+    "difficulty_level": "A1",
+    "irregular_verb": false
+}

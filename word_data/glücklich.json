@@ -1,0 +1,26 @@
+{
+    "word": "glücklich",
+    "gender": "adj.",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "happy",
+    "example_sentences": [
+        {
+            "de": "Ich bin sehr glücklich mit meinem neuen Job.",
+            "en": "I am very happy with my new job."
+        },
+        {
+            "de": "Sie ist glücklich verheiratet.",
+            "en": "She is happily married."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈɡlʏklɪç/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

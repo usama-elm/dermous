@@ -1,0 +1,27 @@
+{
+    "word": "verschwindet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "verschwinden",
+    "translation": "to disappear",
+    "example_sentences": [
+        {
+            "de": "Die Sonne verschwindet langsam hinter dem Horizont.",
+            "en": "The sun slowly disappears behind the horizon."
+        },
+        {
+            "de": "Er verschwindet immer wieder für Stunden.",
+            "en": "He disappears for hours at a time."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/fɛɐ̯ˈʃvɪndət/",
+    "verb_auxiliary": "ist",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verschwindet",
+    "past_perfect": "verschwunden",
+    "preterite": "verschwand",
+    "frequency_scale": 8
+}

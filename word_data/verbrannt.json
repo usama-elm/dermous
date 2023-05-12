@@ -1,0 +1,27 @@
+{
+    "word": "verbrannt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "verbrennen",
+    "translation": "burnt",
+    "example_sentences": [
+        {
+            "de": "Das Brot ist verbrannt.",
+            "en": "The bread is burnt."
+        },
+        {
+            "de": "Ich habe mich an der heißen Pfanne verbrannt.",
+            "en": "I burnt myself on the hot pan."
+        }
+    ],
+    "usage_frequency": 5,
+    "IPA": "fɛɐ̯ˈbʁant",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "verbrennt",
+    "past_perfect": "hat verbrannt",
+    "preterite": "verbrannte",
+    "frequency_scale": 8
+}

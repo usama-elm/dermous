@@ -1,0 +1,27 @@
+{
+    "word": "entspricht",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "entsprechen",
+    "translation": "corresponds to",
+    "example_sentences": [
+        {
+            "de": "Das Ergebnis entspricht den Erwartungen.",
+            "en": "The result corresponds to the expectations."
+        },
+        {
+            "de": "Die Aussage entspricht nicht der Wahrheit.",
+            "en": "The statement does not correspond to the truth."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛntˈʃpʁɪçt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": "entspricht",
+    "past_perfect": "hat entsprochen",
+    "preterite": "entsprach",
+    "frequency_scale": 8
+}

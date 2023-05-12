@@ -1,0 +1,27 @@
+{
+    "word": "gesammelt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "sammeln",
+    "translation": "collected",
+    "example_sentences": [
+        {
+            "de": "Ich habe Briefmarken gesammelt.",
+            "en": "I collected stamps."
+        },
+        {
+            "de": "Sie hat Geld für einen guten Zweck gesammelt.",
+            "en": "She collected money for a good cause."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈzaməlt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "sammelt",
+    "past_perfect": "hat gesammelt",
+    "preterite": "sammelte",
+    "frequency_scale": 8
+}

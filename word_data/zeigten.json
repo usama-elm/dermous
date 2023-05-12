@@ -1,0 +1,27 @@
+{
+    "word": "zeigten",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "verb",
+    "infinitive": "zeigen",
+    "translation": "showed",
+    "example_sentences": [
+        {
+            "de": "Sie zeigten uns den Weg zum Bahnhof.",
+            "en": "They showed us the way to the train station."
+        },
+        {
+            "de": "Die Lehrerin zeigte den Schülern, wie man das Problem löst.",
+            "en": "The teacher showed the students how to solve the problem."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈʦaɪ̯ktən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "zeigt",
+    "past_perfect": "gezeigt",
+    "preterite": "zeigten",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "glückliche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "glücklich",
+    "translation": "happy",
+    "example_sentences": [
+        {
+            "de": "Ich bin glücklich.",
+            "en": "I am happy."
+        },
+        {
+            "de": "Sie ist eine glückliche Person.",
+            "en": "She is a happy person."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "ˈɡlʏk.lɪçə",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

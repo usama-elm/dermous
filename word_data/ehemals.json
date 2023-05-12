@@ -1,0 +1,26 @@
+{
+    "word": "ehemals",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "formerly",
+    "example_sentences": [
+        {
+            "de": "Ich habe ehemals in Berlin gelebt.",
+            "en": "I used to live in Berlin."
+        },
+        {
+            "de": "Das ehemalige Kino wurde zu einem Supermarkt umgebaut.",
+            "en": "The former cinema was converted into a supermarket."
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ˈeːhəmals",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

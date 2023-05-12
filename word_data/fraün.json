@@ -1,0 +1,21 @@
+{
+    "word": "Frau",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "woman",
+    "example_sentences": [
+        {
+            "de": "Die Frau geht zum Supermarkt.",
+            "en": "The woman goes to the supermarket."
+        },
+        {
+            "de": "Ich kenne diese Frau nicht.",
+            "en": "I don't know this woman."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/fʁaʊ/",
+    "difficulty_level": "A1",
+    "irregular_verb": false
+}

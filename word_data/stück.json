@@ -1,0 +1,21 @@
+{
+    "word": "stück",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "piece",
+    "example_sentences": [
+        {
+            "de": "Ich möchte ein Stück Kuchen, bitte.",
+            "en": "I would like a piece of cake, please."
+        },
+        {
+            "de": "Kannst du mir ein Stück Papier geben?",
+            "en": "Can you give me a piece of paper?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ʃtʏk/",
+    "difficulty_level": "A2",
+    "irregular_verb": false
+}

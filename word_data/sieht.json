@@ -1,0 +1,26 @@
+{
+    "word": "sieht",
+    "gender": "f",
+    "article": "die",
+    "word_type": "sehen",
+    "translation": "see",
+    "example_sentences": [
+        {
+            "de": "Sie sieht den Vogel im Baum.",
+            "en": "She sees the bird in the tree."
+        },
+        {
+            "de": "Ich sehe, dass du traurig bist.",
+            "en": "I see that you are sad."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ziːt/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "A2",
+    "irregular": true,
+    "present_3rd_singular": "sieht",
+    "past_perfect": "gesehen",
+    "preterite": "sah",
+    "frequency_scale": 7
+}

@@ -1,0 +1,27 @@
+{
+    "word": "können",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "können",
+    "translation": "can, to be able to",
+    "example_sentences": [
+        {
+            "de": "Ich kann schwimmen.",
+            "en": "I can swim."
+        },
+        {
+            "de": "Kannst du mir helfen?",
+            "en": "Can you help me?"
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa": "ˈkœnən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "A1",
+    "irregular": true,
+    "present_3rd_singular": "kann",
+    "past_perfect": "gekonnt",
+    "preterite": "konnte",
+    "frequency_scale": 8
+}

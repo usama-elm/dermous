@@ -1,0 +1,26 @@
+{
+    "word": "wäsche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "laundry",
+    "example_sentences": [
+        {
+            "de": "Ich muss heute Abend noch Wäsche waschen.",
+            "en": "I still have to do laundry tonight."
+        },
+        {
+            "de": "Kannst du bitte die Wäsche aufhängen?",
+            "en": "Can you please hang up the laundry?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈvɛʃə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregularities": null,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

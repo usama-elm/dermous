@@ -1,0 +1,27 @@
+{
+    "word": "geändert",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "ändern",
+    "translation": "changed",
+    "example_sentences": [
+        {
+            "de": "Ich habe meine Meinung geändert.",
+            "en": "I changed my mind."
+        },
+        {
+            "de": "Er hat seinen Namen geändert.",
+            "en": "He changed his name."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈʔɛndɐt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ändert",
+    "past_perfect": "geändert gehabt",
+    "preterite": "änderte",
+    "frequency_scale": 8
+}

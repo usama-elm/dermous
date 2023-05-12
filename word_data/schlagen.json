@@ -1,0 +1,30 @@
+{
+    "word": "schlagen",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to hit, to beat",
+    "example_sentences": [
+        {
+            "de": "Ich schlage den Ball.",
+            "en": "I hit the ball."
+        },
+        {
+            "de": "Er schlägt seine Frau.",
+            "en": "He beats his wife."
+        },
+        {
+            "de": "Wir haben gestern Tennis gespielt und ich habe ihn geschlagen.",
+            "en": "We played tennis yesterday and I beat him."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈʃlaːɡən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "schlägt",
+    "past_perfect": "geschlagen",
+    "preterite": "schlug",
+    "frequency_scale": 8
+}

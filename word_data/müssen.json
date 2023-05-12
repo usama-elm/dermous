@@ -1,0 +1,31 @@
+{
+    "word": "müssen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "müssen",
+    "translation": "must, have to",
+    "example_sentences": [
+        {
+            "de": "Ich muss zur Arbeit gehen.",
+            "en": "I have to go to work."
+        },
+        {
+            "de": "Du musst deine Hausaufgaben machen.",
+            "en": "You have to do your homework."
+        },
+        {
+            "de": "Er muss heute Abend arbeiten.",
+            "en": "He has to work tonight."
+        }
+    ],
+    "usage_frequency": 9,
+    "ipa": "/ˈmʏsn̩/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "muss",
+    "past_perfect": "gemusst",
+    "preterite": "musste",
+    "frequency_scale": 8
+}

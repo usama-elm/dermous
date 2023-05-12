@@ -1,0 +1,26 @@
+{
+    "word": "halbe",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "half",
+    "example_sentences": [
+        {
+            "de": "Ich esse eine halbe Pizza.",
+            "en": "I am eating half a pizza."
+        },
+        {
+            "de": "Sie trinkt nur eine halbe Tasse Kaffee.",
+            "en": "She only drinks half a cup of coffee."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "/ˈhalbə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

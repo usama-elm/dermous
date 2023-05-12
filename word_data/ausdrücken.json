@@ -1,0 +1,26 @@
+{
+    "word": "ausdrücken",
+    "gender": "verb",
+    "article": null,
+    "word_type": "infinitive",
+    "translation": "to express",
+    "example_sentences": [
+        {
+            "de": "Ich kann meine Gefühle nicht gut ausdrücken.",
+            "en": "I can't express my feelings well."
+        },
+        {
+            "de": "Er drückte seine Freude über den Sieg aus.",
+            "en": "He expressed his joy over the victory."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈaʊ̯sˌdʁʏkən",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "drückt aus",
+    "past_perfect": "hat ausgedrückt",
+    "preterite": "drückte aus",
+    "frequency_scale": 8
+}

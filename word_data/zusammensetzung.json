@@ -1,0 +1,26 @@
+{
+    "word": "zusammensetzung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "composition",
+    "example_sentences": [
+        {
+            "de": "Die Zusammensetzung des Salats war sehr lecker.",
+            "en": "The composition of the salad was very tasty."
+        },
+        {
+            "de": "Die Zusammensetzung der Mannschaft hat sich in dieser Saison verbessert.",
+            "en": "The composition of the team has improved this season."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈt͡suːzamənˌzɛt͡sʊŋ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

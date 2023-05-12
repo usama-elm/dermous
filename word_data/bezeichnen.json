@@ -1,0 +1,26 @@
+{
+    "word": "bezeichnen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to designate, to label",
+    "example_sentences": [
+        {
+            "de": "Ich bezeichne mich als Feministin.",
+            "en": "I label myself as a feminist."
+        },
+        {
+            "de": "Das bezeichnet man als Ironie.",
+            "en": "That is designated as irony."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈt͡sɛçnən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "bezeichnet",
+    "past_perfect": "hat bezeichnet",
+    "preterite": "bezeichnete",
+    "frequency_scale": 8
+}

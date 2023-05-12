@@ -1,0 +1,26 @@
+{
+    "word": "würdest",
+    "gender": "m",
+    "article": "",
+    "word_type": "würden",
+    "translation": "would",
+    "example_sentences": [
+        {
+            "de": "Wenn du Zeit hättest, würdest du mitkommen.",
+            "en": "If you had time, you would come along."
+        },
+        {
+            "de": "Würdest du mir bitte helfen?",
+            "en": "Would you please help me?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈvʏʁdəst",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "",
+    "past_perfect": "",
+    "preterite": "",
+    "frequency_scale": 8
+}

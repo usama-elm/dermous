@@ -1,0 +1,26 @@
+{
+    "word": "diesen",
+    "gender": "m",
+    "article": "der",
+    "word_type": "dies",
+    "translation": "this",
+    "example_sentences": [
+        {
+            "de": "Diesen Apfel esse ich.",
+            "en": "I am eating this apple."
+        },
+        {
+            "de": "Ich habe diesen Film schon gesehen.",
+            "en": "I have already seen this movie."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈdiːzn̩/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

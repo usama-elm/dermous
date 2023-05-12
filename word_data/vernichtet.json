@@ -1,0 +1,27 @@
+{
+    "word": "vernichtet",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "infinitive": "vernichten",
+    "translation": "destroyed",
+    "example_sentences": [
+        {
+            "de": "Die Stadt wurde vollständig vernichtet.",
+            "en": "The city was completely destroyed."
+        },
+        {
+            "de": "Er hat alle Beweise vernichtet.",
+            "en": "He destroyed all the evidence."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/fɛɐ̯ˈnɪçtət/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B2",
+    "irregular": true,
+    "present_3rd_singular": "vernichtet",
+    "past_perfect": "hat vernichtet",
+    "preterite": "vernichtete",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "benehmen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to behave",
+    "example_sentences": [
+        {
+            "de": "Er hat sich gestern schlecht benommen.",
+            "en": "He behaved badly yesterday."
+        },
+        {
+            "de": "Ich hoffe, du benimmst dich gut auf der Party.",
+            "en": "I hope you behave well at the party."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/bəˈneːmən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "benimmt",
+    "past_perfect": "hat benommen",
+    "preterite": "benahm",
+    "frequency_scale": 8
+}

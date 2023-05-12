@@ -1,0 +1,26 @@
+{
+    "word": "wesentliche",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "essential",
+    "example_sentences": [
+        {
+            "de": "Das ist ein wesentlicher Bestandteil des Projekts.",
+            "en": "This is an essential component of the project."
+        },
+        {
+            "de": "Die wesentlichen Unterschiede zwischen den beiden Modellen sind...",
+            "en": "The essential differences between the two models are..."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "veˈzɛntlɪçə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

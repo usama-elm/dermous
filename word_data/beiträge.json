@@ -1,0 +1,26 @@
+{
+    "word": "beiträge",
+    "gender": "plural",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "contributions",
+    "example_sentences": [
+        {
+            "de": "Ich muss meine Beiträge zur Krankenversicherung bezahlen.",
+            "en": "I have to pay my contributions to health insurance."
+        },
+        {
+            "de": "Die Beiträge zur Rentenversicherung werden automatisch abgezogen.",
+            "en": "Contributions to the pension insurance are automatically deducted."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈbaɪ̯tʁɛˌɡə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_forms": null,
+    "present_3sg": null,
+    "past_participle": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

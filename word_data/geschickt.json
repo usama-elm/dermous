@@ -1,0 +1,26 @@
+{
+    "word": "geschickt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "geschickt",
+    "translation": "skillful, clever",
+    "example_sentences": [
+        {
+            "de": "Er ist sehr geschickt im Umgang mit Werkzeugen.",
+            "en": "He is very skillful in handling tools."
+        },
+        {
+            "de": "Sie hat eine geschickte Lösung für das Problem gefunden.",
+            "en": "She found a clever solution to the problem."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɡəˈʃɪkt",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

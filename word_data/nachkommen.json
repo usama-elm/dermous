@@ -1,0 +1,26 @@
+{
+    "word": "nachkommen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to follow, to come after",
+    "example_sentences": [
+        {
+            "de": "Er kommt später nach.",
+            "en": "He will come later."
+        },
+        {
+            "de": "Die Kinder kommen ihren Eltern nach.",
+            "en": "The children take after their parents."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈnaːçkɔmən/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "kommt nach",
+    "past_perfect": "ist nachgekommen",
+    "preterite": "kam nach",
+    "frequency_scale": 8
+}

@@ -1,0 +1,26 @@
+{
+    "word": "klopfte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "klopfen",
+    "translation": "knocked",
+    "example_sentences": [
+        {
+            "de": "Er klopfte an die Tür.",
+            "en": "He knocked on the door."
+        },
+        {
+            "de": "Ich klopfte ihm auf die Schulter.",
+            "en": "I tapped him on the shoulder."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈklɔpftə/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "klopft",
+    "past_perfect": "hat geklopft",
+    "preterite": "klopfte",
+    "frequency_scale": 8
+}

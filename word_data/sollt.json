@@ -1,0 +1,26 @@
+{
+    "word": "sollt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "sollen",
+    "translation": "should",
+    "example_sentences": [
+        {
+            "de": "Du solltest mehr Sport treiben.",
+            "en": "You should do more sports."
+        },
+        {
+            "de": "Er sagte, ich sollte ihm helfen.",
+            "en": "He said I should help him."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/zɔlt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "soll",
+    "past_perfect": "gesollt",
+    "preterite": "sollte",
+    "frequency_scale": 7
+}

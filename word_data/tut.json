@@ -1,0 +1,26 @@
+{
+    "word": "tut",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "tun",
+    "translation": "do",
+    "example_sentences": [
+        {
+            "de": "Er tut alles für seine Familie.",
+            "en": "He does everything for his family."
+        },
+        {
+            "de": "Was tut man gegen Langeweile?",
+            "en": "What can you do against boredom?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "tuːt",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": "tut",
+    "past_perfect": "getan",
+    "preterite": "tat",
+    "frequency_scale": 7
+}

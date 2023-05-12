@@ -1,0 +1,20 @@
+{
+    "word": "zähnen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to teethe",
+    "example_sentences": [
+        "Das Baby zahnt und ist sehr quengelig. (The baby is teething and very fussy.)",
+        "Mein Kind hat mit drei Monaten angefangen zu zahnen. (My child started teething at three months.)"
+    ],
+    "usage_frequency": 3,
+    "ipa": "/ˈt͡sɛːnən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "zahnt",
+    "past_perfect": "gezahnt",
+    "preterite": "zahnte",
+    "frequency_scale": 6
+}

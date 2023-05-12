@@ -1,0 +1,26 @@
+{
+    "word": "gegenteil",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "opposite",
+    "example_sentences": [
+        {
+            "de": "Das Gegenteil von heiß ist kalt.",
+            "en": "The opposite of hot is cold."
+        },
+        {
+            "de": "Ich mag das Gegenteil von dem, was du magst.",
+            "en": "I like the opposite of what you like."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɡəˈɡɛntaɪ̯l/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "is_irregular": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

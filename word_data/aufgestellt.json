@@ -1,0 +1,20 @@
+{
+    "word": "aufgestellt",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "aufstellen",
+    "translation": "set up",
+    "example_sentences": [
+        "Ich habe das Zelt aufgestellt.",
+        "Er hat die Regeln für das Spiel aufgestellt."
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaʊfɡəˌʃtɛlt/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "stellt auf",
+    "past_perfect": "hat aufgestellt",
+    "preterite": "stellte auf",
+    "frequency": 6
+}

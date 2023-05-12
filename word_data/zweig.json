@@ -1,0 +1,26 @@
+{
+    "word": "zweig",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "branch",
+    "example_sentences": [
+        {
+            "de": "Der Zweig ist grün.",
+            "en": "The branch is green."
+        },
+        {
+            "de": "Ich habe einen Zweig abgebrochen.",
+            "en": "I broke off a branch."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/t͡svaɪk/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

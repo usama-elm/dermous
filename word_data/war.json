@@ -1,0 +1,26 @@
+{
+    "word": "war",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Verb",
+    "translation": "was",
+    "example_sentences": [
+        {
+            "de": "Ich war gestern im Kino.",
+            "en": "I was at the cinema yesterday."
+        },
+        {
+            "de": "Er war schon immer ein guter Freund.",
+            "en": "He has always been a good friend."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/vaːr/",
+    "verb_auxiliary": "sein",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "ist",
+    "past_perfect": "gewesen",
+    "preterite": "war",
+    "frequency_scale": 9
+}

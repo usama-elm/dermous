@@ -1,0 +1,21 @@
+{
+    "word": "schüssel",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "bowl",
+    "example_sentences": [
+        {
+            "de": "Ich habe eine Schüssel mit Suppe.",
+            "en": "I have a bowl of soup."
+        },
+        {
+            "de": "Kannst du mir bitte die Schüssel reichen?",
+            "en": "Can you please pass me the bowl?"
+        }
+    ],
+    "usage_frequency": 6,
+    "ipa": "ˈʃʏsl̩",
+    "difficulty_level": "A1",
+    "irregular_verb": false
+}

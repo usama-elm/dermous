@@ -1,0 +1,26 @@
+{
+    "word": "ausführlich",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "detailed",
+    "example_sentences": [
+        {
+            "de": "Er gab eine ausführliche Erklärung ab.",
+            "en": "He gave a detailed explanation."
+        },
+        {
+            "de": "Das Buch enthält eine ausführliche Beschreibung der Stadt.",
+            "en": "The book contains a detailed description of the city."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈaʊ̯s.fʏɐ̯.lɪç",
+    "verb_auxiliary": "",
+    "difficulty_level": "B1",
+    "is_irregular": false,
+    "present_3rd_singular": "",
+    "past_perfect": "",
+    "preterite": "",
+    "frequency_scale": 7
+}

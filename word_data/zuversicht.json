@@ -1,0 +1,21 @@
+{
+    "word": "zuversicht",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "confidence",
+    "example_sentences": [
+        {
+            "de": "Ich habe Zuversicht in meine Fähigkeiten.",
+            "en": "I have confidence in my abilities."
+        },
+        {
+            "de": "Sie strahlte Zuversicht aus.",
+            "en": "She radiated confidence."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈt͡suːvɐzɪçt/",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

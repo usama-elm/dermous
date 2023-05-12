@@ -1,0 +1,26 @@
+{
+    "word": "daürte",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "dauern",
+    "translation": "to last",
+    "example_sentences": [
+        {
+            "de": "Die Party dauerte bis spät in die Nacht.",
+            "en": "The party lasted until late at night."
+        },
+        {
+            "de": "Es dauerte lange, bis ich eine Antwort bekam.",
+            "en": "It took a long time until I got an answer."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈdaʊ̯ɐtə/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "dauert",
+    "past_perfect": "gedauert",
+    "preterite": "dauerte",
+    "frequency_scale": 8
+}

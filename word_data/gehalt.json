@@ -1,0 +1,20 @@
+{
+    "word": "gehalt",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "salary",
+    "example_sentences": [
+        "Mein Gehalt wird am Ende des Monats überwiesen.",
+        "Er hat ein hohes Gehalt, aber er arbeitet auch sehr hart."
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ɡəˈhalt/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregularities": null,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

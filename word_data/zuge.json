@@ -1,0 +1,26 @@
+{
+    "word": "zuge",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "addition",
+    "example_sentences": [
+        {
+            "de": "Ich brauche eine Zuge Zucker für meinen Kaffee.",
+            "en": "I need an addition of sugar for my coffee."
+        },
+        {
+            "de": "Die Zuge von neuen Mitarbeitern hat das Team gestärkt.",
+            "en": "The addition of new employees has strengthened the team."
+        }
+    ],
+    "usage_frequency": 3,
+    "ipa": "/ˈt͡suːɡə/",
+    "verb_auxiliary": null,
+    "difficulty_level": 2,
+    "irregular_verb": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": null
+}

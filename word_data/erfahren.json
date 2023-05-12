@@ -1,0 +1,26 @@
+{
+    "word": "erfahren",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to experience",
+    "example_sentences": [
+        {
+            "de": "Ich habe viel in meinem Leben erfahren.",
+            "en": "I have experienced a lot in my life."
+        },
+        {
+            "de": "Er hat gestern eine schlimme Nachricht erfahren.",
+            "en": "He received some bad news yesterday."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ɛɐ̯ˈfaːʁən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erfährt",
+    "past_perfect": "erfahren",
+    "preterite": "erfuhr",
+    "frequency_scale": 7
+}

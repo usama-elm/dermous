@@ -1,0 +1,26 @@
+{
+    "word": "russische",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "Russian",
+    "example_sentences": [
+        {
+            "de": "Ich habe eine russische Freundin.",
+            "en": "I have a Russian girlfriend."
+        },
+        {
+            "de": "Das russische Essen ist sehr lecker.",
+            "en": "Russian food is very tasty."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈʁʊsɪʃə",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

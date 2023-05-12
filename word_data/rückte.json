@@ -1,0 +1,20 @@
+{
+    "word": "rückte",
+    "gender": "m",
+    "article": "der",
+    "word_type": "rücken",
+    "translation": "moved",
+    "example_sentences": [
+        "Er rückte den Tisch an die Wand. (He moved the table against the wall.)",
+        "Sie rückte näher an ihn heran. (She moved closer to him.)"
+    ],
+    "usage_frequency": 4,
+    "ipa": "ˈrʏktə",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "rückt",
+    "past_perfect": "gerückt",
+    "preterite": "rückte",
+    "frequency_scale": 7
+}

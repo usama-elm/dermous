@@ -1,0 +1,26 @@
+{
+    "word": "häuschen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "little house",
+    "example_sentences": [
+        {
+            "de": "Ich habe ein kleines Häuschen am See.",
+            "en": "I have a little house by the lake."
+        },
+        {
+            "de": "Das Häuschen im Wald ist sehr gemütlich.",
+            "en": "The little house in the woods is very cozy."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈhɔʏʃən",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

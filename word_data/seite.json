@@ -1,0 +1,26 @@
+{
+    "word": "seite",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "page",
+    "example_sentences": [
+        {
+            "de": "Ich lese gerade eine interessante Seite in meinem Buch.",
+            "en": "I'm currently reading an interesting page in my book."
+        },
+        {
+            "de": "Die letzte Seite des Buches hat mich sehr überrascht.",
+            "en": "The last page of the book surprised me a lot."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "/ˈzaɪ̯tə/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

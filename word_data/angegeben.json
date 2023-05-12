@@ -1,0 +1,20 @@
+{
+    "word": "angegeben",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "angeben",
+    "translation": "indicated",
+    "example_sentences": [
+        "Er hat in seinem Lebenslauf angegeben, dass er fließend Französisch spricht. (He indicated on his resume that he speaks fluent French.)",
+        "Die Polizei hat den Verdächtigen angegeben. (The police indicated the suspect.)"
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈanɡəˌɡebən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "gibt an",
+    "past_perfect": "hat angegeben",
+    "preterite": "gab an",
+    "frequency_scale": 7
+}

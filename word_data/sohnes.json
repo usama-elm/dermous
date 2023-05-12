@@ -1,0 +1,21 @@
+{
+    "word": "Sohn",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "son",
+    "example_sentences": [
+        "Mein Sohn geht in die Schule. (My son goes to school.)",
+        "Der Sohn meines Bruders ist sehr groß. (My brother's son is very tall.)"
+    ],
+    "usage_frequency": 8.5,
+    "ipa": "/zoːn/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregularities": {
+        "present_3rd_singular": null,
+        "past_perfect": null,
+        "preterite": null,
+        "frequency": null
+    }
+}

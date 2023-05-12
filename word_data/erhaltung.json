@@ -1,0 +1,21 @@
+{
+    "word": "erhaltung",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "conservation",
+    "example_sentences": [
+        {
+            "de": "Die Erhaltung der Natur ist wichtig.",
+            "en": "Conservation of nature is important."
+        },
+        {
+            "de": "Die Erhaltung historischer Gebäude ist eine Herausforderung.",
+            "en": "Conservation of historical buildings is a challenge."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ɛɐ̯ˈhal.tʊŋ",
+    "difficulty_level": "B1",
+    "irregular_verb": false
+}

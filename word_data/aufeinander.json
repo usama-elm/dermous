@@ -1,0 +1,26 @@
+{
+    "word": "aufeinander",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adverb",
+    "translation": "on top of each other",
+    "example_sentences": [
+        {
+            "de": "Die Teller lagen aufeinander.",
+            "en": "The plates were stacked on top of each other."
+        },
+        {
+            "de": "Die beiden saßen eng aufeinander.",
+            "en": "The two of them were sitting close together."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈaʊf.aɪnˌandɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

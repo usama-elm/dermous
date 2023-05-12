@@ -1,0 +1,26 @@
+{
+    "word": "tapfer",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "brave",
+    "example_sentences": [
+        {
+            "de": "Er war ein tapferer Soldat.",
+            "en": "He was a brave soldier."
+        },
+        {
+            "de": "Sie hat sich tapfer gegen ihre Krankheit gewehrt.",
+            "en": "She fought bravely against her illness."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ˈtapfɐ/",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

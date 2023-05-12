@@ -1,0 +1,26 @@
+{
+    "word": "Gesetzes",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "noun",
+    "translation": "law",
+    "example_sentences": [
+        {
+            "de": "Das Gesetz regelt den Umgang mit Abfall.",
+            "en": "The law regulates the handling of waste."
+        },
+        {
+            "de": "Das Gesetz wurde im Jahr 2005 verabschiedet.",
+            "en": "The law was passed in 2005."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ɡəˈzɛtsəs",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 8
+}

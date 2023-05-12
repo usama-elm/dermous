@@ -1,0 +1,26 @@
+{
+    "word": "einfach",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "simple",
+    "example_sentences": [
+        {
+            "de": "Das ist einfach.",
+            "en": "That is simple."
+        },
+        {
+            "de": "Es ist einfach zu verstehen.",
+            "en": "It is easy to understand."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa": "ˈaɪ̯nfax",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3s": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

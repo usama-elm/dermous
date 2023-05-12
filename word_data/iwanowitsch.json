@@ -1,0 +1,21 @@
+{
+    "word": "Iwan",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "Ivan",
+    "example_sentences": [
+        {
+            "de": "Iwan ist ein russischer Name.",
+            "en": "Ivan is a Russian name."
+        },
+        {
+            "de": "Iwan hat gestern Geburtstag gefeiert.",
+            "en": "Ivan celebrated his birthday yesterday."
+        }
+    ],
+    "usage_frequency": 4,
+    "ipa": "iːvɑn",
+    "difficulty_level": "A2",
+    "irregular_verb": false
+}

@@ -1,0 +1,26 @@
+{
+    "word": "katholischen",
+    "gender": "f",
+    "article": "die",
+    "word_type": "adjective",
+    "translation": "Catholic",
+    "example_sentences": [
+        {
+            "de": "Die katholische Kirche hat viele Anhänger.",
+            "en": "The Catholic Church has many followers."
+        },
+        {
+            "de": "Ich bin katholisch und gehe jeden Sonntag in die Kirche.",
+            "en": "I am Catholic and go to church every Sunday."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa_code": "kaˈtoːlɪʃən",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

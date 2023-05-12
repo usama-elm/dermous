@@ -1,0 +1,26 @@
+{
+    "word": "erzählen",
+    "gender": "neutral",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to tell",
+    "example_sentences": [
+        {
+            "de": "Ich erzähle dir eine Geschichte.",
+            "en": "I'll tell you a story."
+        },
+        {
+            "de": "Kannst du mir von deinem Urlaub erzählen?",
+            "en": "Can you tell me about your vacation?"
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ɛɐ̯ˈtsɛːlən/",
+    "verb_auxiliary": "haben",
+    "difficulty_level": "B1",
+    "irregular": true,
+    "present_3rd_singular": "erzählt",
+    "past_perfect": "hat erzählt",
+    "preterite": "erzählte",
+    "frequency_scale": 7
+}

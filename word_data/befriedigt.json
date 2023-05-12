@@ -1,0 +1,26 @@
+{
+    "word": "befriedigt",
+    "gender": "m/f/neuter",
+    "article": "das",
+    "word_type": "adjective",
+    "translation": "satisfied",
+    "example_sentences": [
+        {
+            "de": "Ich bin mit meiner Arbeit sehr befriedigt.",
+            "en": "I am very satisfied with my work."
+        },
+        {
+            "de": "Er war befriedigt nach dem Essen.",
+            "en": "He was satisfied after the meal."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "bəˈfʁiːdɪkt",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

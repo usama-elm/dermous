@@ -1,0 +1,23 @@
+{
+    "word": "verwandtschaft",
+    "gender": "f",
+    "article": "die",
+    "word_type": "noun",
+    "translation": "kinship",
+    "example_sentences": [
+        {
+            "de": "In unserer Familie ist die Verwandtschaft sehr wichtig.",
+            "en": "In our family, kinship is very important."
+        },
+        {
+            "de": "Sie haben eine enge Verwandtschaft zu den Nachbarn.",
+            "en": "They have a close kinship with their neighbors."
+        }
+    ],
+    "usage_frequency": 6.5,
+    "ipa": "fɛɐ̯ˈvantʃaft",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_forms": null,
+    "frequency_scale": 7
+}

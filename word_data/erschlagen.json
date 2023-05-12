@@ -1,0 +1,26 @@
+{
+    "word": "erschlagen",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "verb",
+    "translation": "to kill, to beat to death",
+    "example_sentences": [
+        {
+            "de": "Er hat den Mann erschlagen.",
+            "en": "He killed the man."
+        },
+        {
+            "de": "Die Nachricht hat ihn wie ein Schlag erschlagen.",
+            "en": "The news hit him like a blow."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "/ɛɐ̯ˈʃlaːɡən/",
+    "verb_auxiliary": "hat",
+    "difficulty_level": "B2",
+    "irregular": true,
+    "present_3rd_singular": "erschlägt",
+    "past_perfect": "hat erschlagen",
+    "preterite": "erschlug",
+    "frequency_scale": 8
+}

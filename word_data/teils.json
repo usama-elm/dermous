@@ -1,0 +1,26 @@
+{
+    "word": "teils",
+    "gender": "neuter",
+    "article": "das",
+    "word_type": "Adverb",
+    "translation": "partly",
+    "example_sentences": [
+        {
+            "de": "Teils ist es schön, teils ist es langweilig.",
+            "en": "Partly it's nice, partly it's boring."
+        },
+        {
+            "de": "Teils stimme ich dir zu, teils nicht.",
+            "en": "Partly I agree with you, partly I don't."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "taɪls",
+    "verb_auxiliary": null,
+    "difficulty_level": "A2",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 6
+}

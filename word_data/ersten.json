@@ -1,0 +1,26 @@
+{
+    "word": "ersten",
+    "gender": "m",
+    "article": "der",
+    "word_type": "Adjektiv",
+    "translation": "first",
+    "example_sentences": [
+        {
+            "de": "Ich habe meinen ersten Job bekommen.",
+            "en": "I got my first job."
+        },
+        {
+            "de": "Das ist das erste Mal, dass ich hier bin.",
+            "en": "This is the first time I'm here."
+        }
+    ],
+    "usage_frequency": 8,
+    "ipa_code": "/ˈɛʁstən/",
+    "verb_auxiliary": null,
+    "difficulty_level": "A1",
+    "irregular": false,
+    "present_3rd_singular": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}

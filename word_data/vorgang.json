@@ -1,0 +1,26 @@
+{
+    "word": "vorgang",
+    "gender": "m",
+    "article": "der",
+    "word_type": "noun",
+    "translation": "process",
+    "example_sentences": [
+        {
+            "de": "Der Vorgang der Photosynthese ist komplex.",
+            "en": "The process of photosynthesis is complex."
+        },
+        {
+            "de": "Der Vorgang der Verarbeitung von Lebensmitteln ist wichtig.",
+            "en": "The process of food processing is important."
+        }
+    ],
+    "usage_frequency": 7,
+    "ipa": "ˈfɔɐ̯ˌɡaŋ",
+    "verb_auxiliary": null,
+    "difficulty_level": "B1",
+    "irregular_verb": false,
+    "present_3s_form": null,
+    "past_perfect": null,
+    "preterite": null,
+    "frequency_scale": 7
+}
