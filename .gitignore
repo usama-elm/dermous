@@ -1,5 +1,5 @@
 api_key.py
 src/epub_files
 src/*.bin
-venv
+.venv
 api_log.txt

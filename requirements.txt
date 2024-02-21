@@ -1,0 +1,11 @@
+wheel
+fasttext
+ebooklib
+nltk
+pandas
+requests
+regex
+openai
+fastapi[all]
+SQLAlchemy
+llama-cpp-python
