@@ -1,4 +1,3 @@
-import openai
 import os
 import csv
 import regex
@@ -51,5 +50,6 @@ def process_words_from_csv(input_file):
             print(f"Processing word: {word}")
             generate_word_info(word)
 
+
 if __name__ == '__main__':
-    process_words_from_csv('resulting_csv/golden_words_german.csv')
+    process_words_from_csv('data/csv/golden/german_unique_words.csv')
