@@ -1,6 +1,12 @@
 import csv
 import fasttext
 
+class Word():
+    def __init__(self, content: str):
+        self.content = content
+
+    
+
 def is_german_word(model, word):
     try:
         lang, prob = model.predict(word)
