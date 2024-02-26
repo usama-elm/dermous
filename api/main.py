@@ -4,4 +4,4 @@ api = FastAPI()
 
 @api.get("/")
 async def root():
-    return {"message" : "Puta Madre"}
+    return {"message" : "Temporary string"}
