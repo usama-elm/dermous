@@ -14,7 +14,9 @@ Added to that there will be a future local API so that one can request the words
 - csv, fasttext, ebooklib, nltk, pandas, requests, regex, openai
 - An OpenAI api key
 
-For now there are ~2k words trated that give this format ```json
+For now there are ~2k words trated that give this format 
+
+```json
 {
     "word": "wirksamkeit",
     "gender": "f",
