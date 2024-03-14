@@ -3,11 +3,7 @@ import requests
 import os
 import csv
 from io import StringIO
-
-
-GuthenbergLink = "https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv.gz"
-RootDirectory = "/home/asmy/prj/dermous"
-TemporaryDirectory = os.path.join(RootDirectory,".tmp")
+from dotenv import dotenv_values
 
 
 class RemoteBookCollection():
@@ -36,8 +32,11 @@ class RemoteBookCollection():
                 if BookResponse.status_code == 200:
                     with open(os.path.join(TemporaryDirectory, f"{BookDownload['Language'].replace(';', '')}_book_{BookDownload['Text#']}.epub"), "wb") as BookFile:
                         BookFile.write(BookResponse.content)
+                        print(f"The book {BookDownload['Title']} has been downloaded")
                 else:
-                    print(f"Error downloading book {BookDownload['Text#']}: {BookResponse.status_code}")
+                    print(f"Error downloading book {BookDownload['Text#']}: HTTP Error {BookResponse.status_code}")
 
 
-GuthenbergCollection = RemoteBookCollection(GuthenbergLink).DownloadBooks(TemporaryDirectory, "de")
+if __name__ == "__main__":
+    config = dotenv_values(".env")
+    GuthenbergCollection = RemoteBookCollection(config["GUTHENBERGLINK"]).DownloadBooks(config["TMPDIR"], "de")

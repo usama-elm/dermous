@@ -3,3 +3,5 @@ src/epub_files
 src/*.bin
 .venv
 .tmp
+*.env
+/data/

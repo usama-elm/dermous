@@ -1,11 +1,12 @@
 wheel
-fasttext
+pybind11
+fasttext-wheel
 ebooklib
 nltk
 pandas
 requests
 regex
 openai
-fastapi[all]
+litestar[standard]
 SQLAlchemy
 llama-cpp-python
